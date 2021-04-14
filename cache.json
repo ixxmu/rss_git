@@ -25,7 +25,7 @@
           "description": "One of the ways you can classify a programming language is by how strongly or weakly typed it is. Here, “typed” means if variables are known at compile time. An example of this would be a scenario where an integer &#8230;\nThe post CSS is a Strongly Typed Language appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-is-a-strongly-typed-language/",
           "publishedOn": "2021-04-13T14:22:04.000Z",
-          "wordCount": 2110,
+          "wordCount": 2578,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "CSS is a Strongly Typed Language"
@@ -137,6 +137,209 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Gaps? Gasp!"
+        }
+      ]
+    },
+    {
+      "href": "https://www.smashingmagazine.com/feed/",
+      "articles": [
+        {
+          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
+          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
+          "publishedOn": "2021-04-13T14:00:00.000Z",
+          "wordCount": 3145,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
+        },
+        {
+          "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
+          "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
+          "publishedOn": "2021-04-12T12:30:00.000Z",
+          "wordCount": 2950,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Complete Guide To HTML Email"
+        },
+        {
+          "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
+          "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
+          "publishedOn": "2021-04-09T19:30:00.000Z",
+          "wordCount": 5981,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
+        },
+        {
+          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
+          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
+          "publishedOn": "2021-04-08T11:00:00.000Z",
+          "wordCount": 1850,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Better Documentation And Team Communication With Product Design Docs"
+        },
+        {
+          "description": "Unreliable tests are a living nightmare for anyone who writes automated tests or pays attention to the results. Flaky tests have even given folks nightmares and sleepless nights. In this article, Ramona Schwering shares her experiences to help you get out of this hell or avoid getting into it.",
+          "link": "https://smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
+          "publishedOn": "2021-04-07T11:00:00.000Z",
+          "wordCount": 4040,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing"
+        },
+        {
+          "description": "With many options comes many decisions, and it is easy to drown in all the many benefits of  headless CMS. How do we approach evaluating these options? Let’s figure it out.",
+          "link": "https://smashingmagazine.com/2021/04/evaluating-headless/",
+          "publishedOn": "2021-04-06T16:10:00.000Z",
+          "wordCount": 4073,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Don’t Lose Your Head: Evaluating Headless"
+        },
+        {
+          "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
+          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
+          "publishedOn": "2021-04-05T10:30:00.000Z",
+          "wordCount": 2008,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Vanilla JavaScript Code Snippets"
+        },
+        {
+          "description": "Quick, constant change is a given on the web. It is often one of its greatest strengths. As ever, though, there is a balance to find. Although longevity takes a different form online, its value is immeasurable.",
+          "link": "https://smashingmagazine.com/2021/04/guarding-against-disposable-design/",
+          "publishedOn": "2021-04-02T11:00:00.000Z",
+          "wordCount": 3376,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Guarding Against Disposable Design"
+        },
+        {
+          "description": "By systemizing the fundamentals of typography and space, and leaning into the inherent fluidity of the web, a free new **CSS tool** called [Utopia](https://utopia.fyi/) offers an alternative to breakpoint-driven design.",
+          "link": "https://smashingmagazine.com/2021/04/designing-developing-fluid-type-space-scales/",
+          "publishedOn": "2021-04-01T09:44:00.000Z",
+          "wordCount": 2449,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Meet Utopia: Designing And Building With Fluid Type And Space Scales"
+        },
+        {
+          "description": "Let’s welcome the new month with some fresh wallpapers. Designed with love by artists and designers from across the globe, they are available with and without a calendar for April 2021.",
+          "link": "https://smashingmagazine.com/2021/03/desktop-wallpaper-calendars-april-2021/",
+          "publishedOn": "2021-03-31T10:00:00.000Z",
+          "wordCount": 2027,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "The Small Joys Of April (2021 Wallpapers Edition)"
+        },
+        {
+          "description": "In this article, Michael Rispoli explains how he evaluated the decision of whether or not to adopt a serverless database for client projects. This decision will focus on three lenses: the functional aspects of the technology, the developer experience, and the business ramifications of adoption.",
+          "link": "https://smashingmagazine.com/2021/03/choosing-new-serverless-database-technology-agency/",
+          "publishedOn": "2021-03-30T10:30:00.000Z",
+          "wordCount": 5722,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Choosing A New Serverless Database Technology At An Agency (Case Study)"
+        },
+        {
+          "description": "A complete guide to SVG generators &mdash; for everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators.",
+          "link": "https://smashingmagazine.com/2021/03/svg-generators/",
+          "publishedOn": "2021-03-29T09:54:00.000Z",
+          "wordCount": 3659,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "SVG Generators"
+        },
+        {
+          "description": "This article presents tactics that can be helpful for those working in organizations that have started engaging in UX, but are still at the lower to middle stages of maturity: knowledge sharing and mentorship.",
+          "link": "https://smashingmagazine.com/2021/03/growing-ux-maturity-in-organizations-part-2/",
+          "publishedOn": "2021-03-26T11:30:00.000Z",
+          "wordCount": 4132,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Growing UX Maturity: Knowledge Sharing And Mentorship (Part 2)"
+        },
+        {
+          "description": "How do we get media performance right while staying within performance budgets? Let’s take a look at the recent stats and data around performance budgets, video playback performance issues and some techniques and tools to address these issues.",
+          "link": "https://smashingmagazine.com/2021/03/boost-media-performance/",
+          "publishedOn": "2021-03-25T13:00:00.000Z",
+          "wordCount": 2044,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "How To Boost Media Performance On A Budget"
+        },
+        {
+          "description": "Reactivity is the ability for a variable (array, string, number, object, etc) to update when its value or any other variable that it makes reference to is changed after declaration.",
+          "link": "https://smashingmagazine.com/2021/03/reactivity-in-vue/",
+          "publishedOn": "2021-03-25T10:00:00.000Z",
+          "wordCount": 2266,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Reactivity In Vue"
+        },
+        {
+          "description": "Eleventy (aka 11ty) is rising in the ranks among static site generators. This Node-based builder is attractive due to its zero-config starting point, purely static output, and ease of achieving the coveted top Lighthouse performance score of four perfect 100s. Let’s dive into what else makes it unique, and learn about some essential concepts to help you successfully get started.",
+          "link": "https://smashingmagazine.com/2021/03/eleventy-static-site-generator/",
+          "publishedOn": "2021-03-24T12:20:00.000Z",
+          "wordCount": 4135,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Deep Dive Into Eleventy Static Site Generator"
+        },
+        {
+          "description": "One of the drivers of the popularity of headless options is that expectations for the quality of user experience are constantly going up. In this article, we explore what headless means, use cases for it, and how to decide if headless is a good fit for you.",
+          "link": "https://smashingmagazine.com/2021/03/going-headless-use-cases/",
+          "publishedOn": "2021-03-23T15:15:00.000Z",
+          "wordCount": 4258,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Going Headless: Use Cases And What It’s Good For"
+        },
+        {
+          "description": "Reliable accessible front-end components: :focus styles, content sliders, dark mode, data charts, date pickers, form styles, navigation menu, modals, radio buttons, \"skip\" links, SVGs, tabs, tables, toggles and tooltips.",
+          "link": "https://smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/",
+          "publishedOn": "2021-03-22T11:30:00.000Z",
+          "wordCount": 6853,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Complete Guide To Accessible Front-End Components"
+        },
+        {
+          "description": "Wondering what’s happenin’ at Smashing? Well, we’ve been busy. Here’s a little story of how we removed floating labels, improved performance on mobile, and launched a new series of articles. Oh, and how you can contribute to Smashing, too.",
+          "link": "https://smashingmagazine.com/2021/03/floating-labels-performance-lighthouse/",
+          "publishedOn": "2021-03-19T13:30:00.000Z",
+          "wordCount": 2637,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Gone Floating Labels And Green Lighthouse Scores"
+        },
+        {
+          "description": "The secret to growing a successful web design business is thinking of design as a service, not a product. When you focus on recurring revenue and sell to one targeted niche, you can grow a business faster than ever.",
+          "link": "https://smashingmagazine.com/2021/03/web-design-clients-fast-part1/",
+          "publishedOn": "2021-03-18T10:00:00.000Z",
+          "wordCount": 3117,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "How To Get Web Design Clients Fast (Part 1)"
+        },
+        {
+          "description": "Flutter has been transitioning from a cross-platform mobile development SDK for Android/iOS into a tool that allows you to run the same code natively in a browser on Windows, Linux and macOS. With Flutter 2, non-mobile Flutter development is starting to become more viable.",
+          "link": "https://smashingmagazine.com/2021/03/flutter2-stable-mobile-web-desktop-development-native-speed-one-codebase/",
+          "publishedOn": "2021-03-17T12:00:00.000Z",
+          "wordCount": 2900,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "What’s New In Flutter 2?"
+        },
+        {
+          "description": "How do we know which patterns are good, better, best when it comes to accessibility? Is it better to use an established pattern/library or create new ones? With the myriad of choices available, we can quickly become caught up in a web of confusion on this topic.",
+          "link": "https://smashingmagazine.com/2021/03/good-better-best-untangling-complex-world-accessible-patterns/",
+          "publishedOn": "2021-03-16T12:00:00.000Z",
+          "wordCount": 3476,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Good, Better, Best: Untangling The Complex World Of Accessible Patterns"
         }
       ]
     },
