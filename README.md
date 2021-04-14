@@ -1,4 +1,4 @@
-# About1
+# About
 
 部署vercel可以了，当然vercel有不能指定分支，指定名字也不能生效，也可能没操作对
 
