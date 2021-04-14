@@ -28,7 +28,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          publish_dir: ./public
           keep_files: true # remove existing files
           publish_branch: master  # deploying branch
           commit_message: ${{ github.event.head_commit.message }}
