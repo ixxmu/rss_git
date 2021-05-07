@@ -30,7 +30,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
-          keep_files: true # remove existing files
+          keep_files: false # remove existing files
           commit_message: ${{ github.event.head_commit.message }}
 
           
