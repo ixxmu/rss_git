@@ -1,6 +1,281 @@
 {
   "sources": [
     {
+      "href": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+      "articles": [
+        {
+          "description": "https://mp.weixin.qq.com/s/VCRukFCQaagTF6GKu2DLgA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/836",
+          "publishedOn": "2021-05-07T05:11:13.000Z",
+          "wordCount": 557,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "研究最热门的基因是什么"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/JJBev2Ed_DxwjWqiXwlDGg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/835",
+          "publishedOn": "2021-05-07T05:04:43.000Z",
+          "wordCount": 486,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "细胞亚群为什么一定要有清晰可见的界限"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/2ny_QLvK-Rl8G3UNcwoodg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/834",
+          "publishedOn": "2021-05-07T03:37:55.000Z",
+          "wordCount": 481,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "ICGC数据库的下载和数据清洗"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/lViHIiySX_2STTytzMceMQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/833",
+          "publishedOn": "2021-05-06T04:13:34.000Z",
+          "wordCount": 573,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "当年被excel搞乱的基因名，得救了"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/lX9zlhhJrlJ_sMLC6CcbiA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/832",
+          "publishedOn": "2021-05-05T15:15:50.000Z",
+          "wordCount": 427,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "差价4000元/㎡！郑州超低价盘大曝光！"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/T1WNLFI0rbRkEhQREYV_iw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/831",
+          "publishedOn": "2021-05-05T06:55:57.000Z",
+          "wordCount": 449,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "什么！你的图上有一双看不见的手？"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/GOoGQ0ry7SNuj6CaKMktPA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/830",
+          "publishedOn": "2021-05-03T23:46:01.000Z",
+          "wordCount": 561,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "张泽民团队的单细胞研究把T细胞分的如此清楚"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/u3ZLQwy5wd3BgLV-Tv6-Nw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/829",
+          "publishedOn": "2021-05-03T23:36:42.000Z",
+          "wordCount": 469,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "一款好用的文件传输软件 croc"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/CHdRe9sBpDcIY1lQ8wTB5g",
+          "link": "https://github.com/ixxmu/mp_duty/issues/828",
+          "publishedOn": "2021-05-03T14:21:27.000Z",
+          "wordCount": 768,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "apply | R中函数的简单循环"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/ofyB7NjARG_VuPOp9xXcUw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/827",
+          "publishedOn": "2021-05-03T06:06:53.000Z",
+          "wordCount": 426,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "​郑州彻底膨胀了，有新盘3个月要清盘！"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/ulLr1gNNvk7-Yyf_mlMH0A",
+          "link": "https://github.com/ixxmu/mp_duty/issues/826",
+          "publishedOn": "2021-05-02T23:33:19.000Z",
+          "wordCount": 505,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "打扰了，网红景点照和朋友圈看到的不一样 | 谷雨数据"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/d-6y9E42PIiV1e_3O_2r3A",
+          "link": "https://github.com/ixxmu/mp_duty/issues/825",
+          "publishedOn": "2021-05-02T10:23:09.000Z",
+          "wordCount": 432,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "UTR，CDS，TSS概念图解"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/sKXbEViHFL96mz6rWiufHw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/824",
+          "publishedOn": "2021-05-01T12:34:06.000Z",
+          "wordCount": 1158,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "report包：助你自动出统计报告！"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/gYMqGF02CzgltuVQOC6xMA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/823",
+          "publishedOn": "2021-05-01T12:33:50.000Z",
+          "wordCount": 438,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "开刊词||单细胞新药研发导论"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/GhgBg_j_LIHzH5OXrLOjPg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/822",
+          "publishedOn": "2021-05-01T11:20:53.000Z",
+          "wordCount": 432,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "一场土拍导致的郑州楼市大洗牌！"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/T3jDg_YeAGg1LgDQ_GMLYA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/821",
+          "publishedOn": "2021-05-01T04:28:57.000Z",
+          "wordCount": 432,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "UTR，CDS，TSS概念图解"
+        },
+        {
+          "description": "https://m.cnbeta.com/wap/view/1121945.htm",
+          "link": "https://github.com/ixxmu/mp_duty/issues/820",
+          "publishedOn": "2021-04-30T08:48:04.000Z",
+          "wordCount": 418,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "archive_request"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/d2xgwz7duLYtLM_8CojEdg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/819",
+          "publishedOn": "2021-04-30T08:19:33.000Z",
+          "wordCount": 656,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "Seurat Weekly NO.14 || 读源码解决实际问题"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/lUZBrqK402O7fGyIfgF7XA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/818",
+          "publishedOn": "2021-04-30T08:19:07.000Z",
+          "wordCount": 456,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "流式检测DNA合成——BrdU掺入试验步骤和结果"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/njgwbuJU1ci51soagJ-beA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/817",
+          "publishedOn": "2021-04-30T08:18:27.000Z",
+          "wordCount": 516,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "生信实操丨什么？！一下午搞定一篇4+文章的所有数据，0代码教你复现！"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/-uqCQ9s-VRd7Ke3_tCxwAw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/816",
+          "publishedOn": "2021-04-30T00:54:23.000Z",
+          "wordCount": 606,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "「R」操作公式"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/Jd73HR7WpohL8d1smFcEtQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/815",
+          "publishedOn": "2021-04-30T00:40:23.000Z",
+          "wordCount": 478,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "韦恩图工具大比拼"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/_Z9o5QG0IKxTrR7URvxWYg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/814",
+          "publishedOn": "2021-04-29T12:55:40.000Z",
+          "wordCount": 426,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "重磅！主城区中学学区图来了，找学区房必看！"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/67rjY7w-Uh0AfnaxNoik8Q",
+          "link": "https://github.com/ixxmu/mp_duty/issues/813",
+          "publishedOn": "2021-04-29T01:30:04.000Z",
+          "wordCount": 534,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "简单一个R包，解放你的RStudio console"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/O0U8vlMIG9vUVE3FK08LJg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/812",
+          "publishedOn": "2021-04-29T00:01:00.000Z",
+          "wordCount": 538,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "单细胞分析十八般武艺9：DoubletFinder"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/BqpzGZQsquwM7T73HEXDOg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/811",
+          "publishedOn": "2021-04-28T13:48:31.000Z",
+          "wordCount": 1069,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "寻找motif，R版本的MEME来了，不试试？"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/4j4cMIyg9SvA2Qtnw5j4Dg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/810",
+          "publishedOn": "2021-04-28T09:21:23.000Z",
+          "wordCount": 508,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "印度日增30万？吓得我赶紧画个图来看看！"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/_GrVusoB__XqfSxeypPRtQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/809",
+          "publishedOn": "2021-04-28T01:44:31.000Z",
+          "wordCount": 1497,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "明码标价之公共数据集的WGCNA"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/cePZ0xVCdm62Qxa-g1gXzg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/808",
+          "publishedOn": "2021-04-28T01:42:21.000Z",
+          "wordCount": 606,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "ATAC-seq的经典差异分析思路"
+        },
+        {
+          "description": "https://mp.weixin.qq.com/s/p1xazWBSHgcWiIgLcU9FlA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/807",
+          "publishedOn": "2021-04-27T23:54:19.000Z",
+          "wordCount": 481,
+          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+          "sourceTitle": "ixxmu/mp_duty All Issues",
+          "title": "UCSCXenaShiny 1.0 beta 版本发布"
+        }
+      ]
+    },
+    {
       "href": "https://hub.kkitown.xyz/douban/group/shortstories/",
       "articles": [
         {
