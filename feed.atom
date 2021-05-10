@@ -1,24 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T15:30:05.480Z</id>
+    <id>urn:2021-05-10T07:22:09.113Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T15:30:05.480Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-10T07:22:09.113Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[小说写作社区]]></title>
-        <id>https://www.douban.com/group/topic/225154005/</id>
-        <link href="https://www.douban.com/group/topic/225154005/"/>
-        <updated>2021-05-08T22:13:21.000Z</updated>
-        <summary type="html"><![CDATA[#种子写作#是一个小说写作社区。
-这里有写作10年以上的老同学，也有刚刚尝试写作的新同学。
-有在文学刊物发表小说的，也有在热衷网文小说的。
-有中年人，也有高中生。
-目前我们定期举办600字小说练习赛，所有人从零开始，互投互评，相互切磋。
-如果你要入群，请先投稿。投稿后才有可能入群。
-微：code20201231]]></summary>
+        <title type="html"><![CDATA[使用refGenome加上dplyr玩转gtf文件]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/852</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/852"/>
+        <updated>2021-05-10T06:20:40.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247488339&idx=2&sn=f02c9b9a0c5f995cbb8c2c09cdbbb4a6&chksm=9b4853e8ac3fdafefbd3ead1411ba94bb0a96d91e828623cf1d40ff04baea0a9381a734f15ac&scene=21#wechat_redirect]]></summary>
         <author>
-            <name>凡所</name>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ggplot配色]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/851</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/851"/>
+        <updated>2021-05-09T23:24:22.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/Y1S3WSNqXTPjL7jQ-V8ORA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RNA-seq数据分析完全指北-06：比对到基因组并定量]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/850</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/850"/>
+        <updated>2021-05-09T15:46:46.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/DK1QVFLB-AY4TzvB9ChqaA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[郑州神户型频出，刚需重新定义四房！]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/849</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/849"/>
+        <updated>2021-05-09T15:45:41.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/5yeTIfsvF3YQ9hdovbiarA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论文利器：复制++]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/848</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/848"/>
+        <updated>2021-05-09T11:00:43.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/8oVjziYKmT9oeA89upXRKg]]></summary>
+        <author>
+            <name>ixxmu</name>
         </author>
     </entry>
     <entry>
@@ -356,26 +390,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一场土拍导致的郑州楼市大洗牌！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/822</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/822"/>
-        <updated>2021-05-01T11:20:53.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/GhgBg_j_LIHzH5OXrLOjPg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UTR，CDS，TSS概念图解]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/821</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/821"/>
-        <updated>2021-05-01T04:28:57.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/T3jDg_YeAGg1LgDQ_GMLYA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[越来越浮躁，看不进去书，怎么破？]]></title>
         <id>https://www.douban.com/group/topic/223929074/</id>
         <link href="https://www.douban.com/group/topic/223929074/"/>
@@ -384,36 +398,6 @@
 然后前几年是读了不少书的，可是很快就忘得差不多了。所以更没欲望读😕]]></summary>
         <author>
             <name>舌长绕地球三圈</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[archive_request]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/820</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/820"/>
-        <updated>2021-04-30T08:48:04.000Z</updated>
-        <summary type="html"><![CDATA[https://m.cnbeta.com/wap/view/1121945.htm]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seurat Weekly NO.14 || 读源码解决实际问题]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/819</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/819"/>
-        <updated>2021-04-30T08:19:33.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/d2xgwz7duLYtLM_8CojEdg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流式检测DNA合成——BrdU掺入试验步骤和结果]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/818</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/818"/>
-        <updated>2021-04-30T08:19:07.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/lUZBrqK402O7fGyIfgF7XA]]></summary>
-        <author>
-            <name>ixxmu</name>
         </author>
     </entry>
     <entry>
@@ -602,6 +586,38 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《一日囚》柳文杨]]></title>
+        <id>https://www.douban.com/group/topic/221909812/</id>
+        <link href="https://www.douban.com/group/topic/221909812/"/>
+        <updated>2021-04-20T10:16:45.000Z</updated>
+        <summary type="html"><![CDATA[B先生死了。就在他搬进这座大楼不到二十四小时。
+
+B先生是昨夜，不，准确地说是今天凌晨0点住进来的。那时夜雾弥漫，有两个黑衣男子陪着他，拎着三只大提箱，敲开我值班的房门，要租一间不带家具的房子。这个要求有点奇怪，因为大多数人都想要有家具的房间。
+
+“请问你们要租多大的屋子？”我打量着B的光头问。他戴着眼镜，苍白而又腼腆，脸上有种愁苦的模样。
+
+一个黑衣男人说：“最小的单元就可以了。一间卧室，带厨房和洗手间。”
+
+“请原谅，三个人住这么小的房子是不是太挤了……”我说。
+
+黑衣人面无表情，指了指B：“就他自己住。”
+
+“好吧，您想租多久？半年还是一年？”我问B。
+
+B先生低声说：“一天……”
+
+“什么？”我没听清楚。
+
+黑衣人说：“租一个月吧。这是你们最短的租期？”
+
+“对。”我拿出登记簿，让B写下自己的名字。黑衣人付了一个月租金，然后我带他们上电梯，到了大楼16层的那个小套间。
+
+B先生对客厅表示满意，但他抱怨房子的视野太狭窄了。黑衣男人们冷淡地沉默着，把大箱子打开。里面竟装满了简易家具——折叠的帆布衣柜、充气床垫，还有一些换洗衣服。最后，B安顿下来，一个黑衣人看了看表，说：“8月18日了，现在是凌晨0点整。”…]]></summary>
+        <author>
+            <name>R君</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[蒜蓉西兰花  Garlic Broccoli]]></title>
         <id>https://www.youtube.com/watch?v=T9ujysGFgYw</id>
         <link href="https://www.youtube.com/watch?v=T9ujysGFgYw"/>
@@ -619,20 +635,6 @@
         <summary type="html"><![CDATA[粉蒸牛肉是一道非常解馋的肉菜。仔细看看粉蒸牛肉的做法，分了很多步骤，而且每个步骤都是要按照顺序来。第一步，小苏打嫩肉，第二步，腌肉，然后是上粉，加水，最后的封油。只要你按照顺序来，就能做出好吃的粉蒸肉。最后配上刺激食欲的蒜油，超级过瘾。粉蒸牛肉食谱：牛里脊肉：500克豆瓣酱：1大勺豆腐乳：2块生姜泥：1 小勺红糖...]]></summary>
         <author>
             <name>小高姐的 Magic Ingredients</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《婚托儿》]]></title>
-        <id>https://www.douban.com/group/topic/220016808/</id>
-        <link href="https://www.douban.com/group/topic/220016808/"/>
-        <updated>2021-04-09T08:08:19.000Z</updated>
-        <summary type="html"><![CDATA[我们正在攒钱，打算明年买一辆车。
-早晨七点半，吃过妻子亲手烹制的早餐，在她温柔的目送中，我骑上自行车送儿子去幼儿园。幼儿园门口熙熙攘攘的豪车，很长一段时间内曾令我感到无所适从。我甚至想过搞一辆三轮车以示自己的特立独行。但本质上我是一个低调的人，三轮车这种招摇的交通工具好像并不适合我。那么就干脆也买一辆豪车，可是除了低调，我还是一个崇尚环保的人。所以，最终我什么也没有做，依旧是骑了自行车，风里来雨里去的，好在一年下来我也习惯了。
-像所有拥有一份正当职业的成年人，送下儿子我就要开始一天的工作。说实话，最近我有点儿感到焦虑，主要是来自职业上的压力。
-我今年三十三岁，已经不能算是年轻了。每次跟客户坐在一起，她们总是问我，呀，您这么成功，怎么还一直单身呢？我总是含蓄地告诉她们，我是一个对爱情十分执着的人，有句话叫做宁缺毋滥，我十分推崇。而这么多年一直单身，是因为我还没有遇见自己的另一半。
-大多数客户对我的解释深信不疑。除了我有一张十分诚恳的老脸，她们得到的资料上，我是一名成功的创业者。当然，职业会随着对方的喜好有所变动。有时候，我是一名网络公司的CEO，有时候又是某品牌的创始人。不管头衔怎么变，始终不变的是我作为一名婚…]]></summary>
-        <author>
-            <name>心是孤独的猎手</name>
         </author>
     </entry>
 </feed>

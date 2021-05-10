@@ -1,8 +1,55 @@
 {
   "sources": [
     {
-      "href": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+      "title": "ixxmu/mp_duty All Issues",
+      "feedUrl": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
+      "siteUrl": "https://github.com/ixxmu/mp_duty/issues",
       "articles": [
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/852",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247488339&idx=2&sn=f02c9b9a0c5f995cbb8c2c09cdbbb4a6&chksm=9b4853e8ac3fdafefbd3ead1411ba94bb0a96d91e828623cf1d40ff04baea0a9381a734f15ac&scene=21#wechat_redirect",
+          "link": "https://github.com/ixxmu/mp_duty/issues/852",
+          "publishedOn": "2021-05-10T06:20:40.000Z",
+          "wordCount": 572,
+          "title": "使用refGenome加上dplyr玩转gtf文件"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/851",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/Y1S3WSNqXTPjL7jQ-V8ORA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/851",
+          "publishedOn": "2021-05-09T23:24:22.000Z",
+          "wordCount": 528,
+          "title": "ggplot配色"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/850",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/DK1QVFLB-AY4TzvB9ChqaA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/850",
+          "publishedOn": "2021-05-09T15:46:46.000Z",
+          "wordCount": 685,
+          "title": "RNA-seq数据分析完全指北-06：比对到基因组并定量"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/849",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/5yeTIfsvF3YQ9hdovbiarA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/849",
+          "publishedOn": "2021-05-09T15:45:41.000Z",
+          "wordCount": 428,
+          "title": "郑州神户型频出，刚需重新定义四房！"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/848",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/8oVjziYKmT9oeA89upXRKg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/848",
+          "publishedOn": "2021-05-09T11:00:43.000Z",
+          "wordCount": 469,
+          "title": "论文利器：复制++"
+        },
         {
           "id": "https://github.com/ixxmu/mp_duty/issues/847",
           "author": "ixxmu",
@@ -10,8 +57,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/847",
           "publishedOn": "2021-05-08T10:59:39.000Z",
           "wordCount": 524,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "感兴趣通路特征模型评估神经胶质瘤免疫功能和预后"
         },
         {
@@ -21,8 +66,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/846",
           "publishedOn": "2021-05-08T10:35:15.000Z",
           "wordCount": 554,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "差异分析要的是表达量矩阵，基因名字并不重要啊"
         },
         {
@@ -32,8 +75,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/845",
           "publishedOn": "2021-05-08T10:31:14.000Z",
           "wordCount": 623,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "GPL14877、GPL570、hgu133plus2.db 比较"
         },
         {
@@ -43,8 +84,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/844",
           "publishedOn": "2021-05-08T10:17:14.000Z",
           "wordCount": 3193,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "GEO数据挖掘流程——代码版（方便抄袭）"
         },
         {
@@ -54,8 +93,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/843",
           "publishedOn": "2021-05-08T10:03:42.000Z",
           "wordCount": 964,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "LncRNA芯片的一般分析流程"
         },
         {
@@ -65,8 +102,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/842",
           "publishedOn": "2021-05-07T11:21:17.000Z",
           "wordCount": 779,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "基因id转换方法大盘点"
         },
         {
@@ -76,8 +111,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/841",
           "publishedOn": "2021-05-07T07:34:13.000Z",
           "wordCount": 485,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "简单小需求：如何将FPKM转换成TPM？"
         },
         {
@@ -87,8 +120,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/840",
           "publishedOn": "2021-05-07T07:28:44.000Z",
           "wordCount": 675,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "基因长度并不是end-start"
         },
         {
@@ -98,8 +129,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/839",
           "publishedOn": "2021-05-07T07:27:57.000Z",
           "wordCount": 962,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "CIBERSORT免疫浸润的代码实现"
         },
         {
@@ -109,8 +138,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/838",
           "publishedOn": "2021-05-07T07:26:03.000Z",
           "wordCount": 418,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "archive_request"
         },
         {
@@ -120,8 +147,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/837",
           "publishedOn": "2021-05-07T07:19:22.000Z",
           "wordCount": 1061,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "量化免疫浸润时CIBERSORT的注意事项。"
         },
         {
@@ -131,8 +156,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/836",
           "publishedOn": "2021-05-07T05:11:13.000Z",
           "wordCount": 557,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "研究最热门的基因是什么"
         },
         {
@@ -142,8 +165,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/835",
           "publishedOn": "2021-05-07T05:04:43.000Z",
           "wordCount": 486,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "细胞亚群为什么一定要有清晰可见的界限"
         },
         {
@@ -153,8 +174,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/834",
           "publishedOn": "2021-05-07T03:37:55.000Z",
           "wordCount": 481,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "ICGC数据库的下载和数据清洗"
         },
         {
@@ -164,8 +183,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/833",
           "publishedOn": "2021-05-06T04:13:34.000Z",
           "wordCount": 573,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "当年被excel搞乱的基因名，得救了"
         },
         {
@@ -175,8 +192,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/832",
           "publishedOn": "2021-05-05T15:15:50.000Z",
           "wordCount": 427,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "差价4000元/㎡！郑州超低价盘大曝光！"
         },
         {
@@ -186,8 +201,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/831",
           "publishedOn": "2021-05-05T06:55:57.000Z",
           "wordCount": 449,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "什么！你的图上有一双看不见的手？"
         },
         {
@@ -197,8 +210,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/830",
           "publishedOn": "2021-05-03T23:46:01.000Z",
           "wordCount": 561,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "张泽民团队的单细胞研究把T细胞分的如此清楚"
         },
         {
@@ -208,8 +219,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/829",
           "publishedOn": "2021-05-03T23:36:42.000Z",
           "wordCount": 469,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "一款好用的文件传输软件 croc"
         },
         {
@@ -219,8 +228,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/828",
           "publishedOn": "2021-05-03T14:21:27.000Z",
           "wordCount": 768,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "apply | R中函数的简单循环"
         },
         {
@@ -230,8 +237,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/827",
           "publishedOn": "2021-05-03T06:06:53.000Z",
           "wordCount": 426,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "​郑州彻底膨胀了，有新盘3个月要清盘！"
         },
         {
@@ -241,8 +246,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/826",
           "publishedOn": "2021-05-02T23:33:19.000Z",
           "wordCount": 505,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "打扰了，网红景点照和朋友圈看到的不一样 | 谷雨数据"
         },
         {
@@ -252,8 +255,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/825",
           "publishedOn": "2021-05-02T10:23:09.000Z",
           "wordCount": 432,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "UTR，CDS，TSS概念图解"
         },
         {
@@ -263,8 +264,6 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/824",
           "publishedOn": "2021-05-01T12:34:06.000Z",
           "wordCount": 1158,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "report包：助你自动出统计报告！"
         },
         {
@@ -274,81 +273,15 @@
           "link": "https://github.com/ixxmu/mp_duty/issues/823",
           "publishedOn": "2021-05-01T12:33:50.000Z",
           "wordCount": 438,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
           "title": "开刊词||单细胞新药研发导论"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/822",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/GhgBg_j_LIHzH5OXrLOjPg",
-          "link": "https://github.com/ixxmu/mp_duty/issues/822",
-          "publishedOn": "2021-05-01T11:20:53.000Z",
-          "wordCount": 432,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
-          "title": "一场土拍导致的郑州楼市大洗牌！"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/821",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/T3jDg_YeAGg1LgDQ_GMLYA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/821",
-          "publishedOn": "2021-05-01T04:28:57.000Z",
-          "wordCount": 432,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
-          "title": "UTR，CDS，TSS概念图解"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/820",
-          "author": "ixxmu",
-          "description": "https://m.cnbeta.com/wap/view/1121945.htm",
-          "link": "https://github.com/ixxmu/mp_duty/issues/820",
-          "publishedOn": "2021-04-30T08:48:04.000Z",
-          "wordCount": 418,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
-          "title": "archive_request"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/819",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/d2xgwz7duLYtLM_8CojEdg",
-          "link": "https://github.com/ixxmu/mp_duty/issues/819",
-          "publishedOn": "2021-04-30T08:19:33.000Z",
-          "wordCount": 656,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
-          "title": "Seurat Weekly NO.14 || 读源码解决实际问题"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/818",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/lUZBrqK402O7fGyIfgF7XA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/818",
-          "publishedOn": "2021-04-30T08:19:07.000Z",
-          "wordCount": 456,
-          "sourceHref": "https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/",
-          "sourceTitle": "ixxmu/mp_duty All Issues",
-          "title": "流式检测DNA合成——BrdU掺入试验步骤和结果"
         }
       ]
     },
     {
-      "href": "https://hub.kkitown.xyz/douban/group/shortstories/",
+      "title": "豆瓣小组-短篇小说分享组",
+      "feedUrl": "https://hub.kkitown.xyz/douban/group/shortstories/",
+      "siteUrl": "https://www.douban.com/group/shortstories/",
       "articles": [
-        {
-          "id": "https://www.douban.com/group/topic/225154005/",
-          "author": "凡所",
-          "description": "#种子写作#是一个小说写作社区。\n这里有写作10年以上的老同学，也有刚刚尝试写作的新同学。\n有在文学刊物发表小说的，也有在热衷网文小说的。\n有中年人，也有高中生。\n目前我们定期举办600字小说练习赛，所有人从零开始，互投互评，相互切磋。\n如果你要入群，请先投稿。投稿后才有可能入群。\n微：code20201231",
-          "link": "https://www.douban.com/group/topic/225154005/",
-          "publishedOn": "2021-05-08T22:13:21.000Z",
-          "wordCount": 103,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
-          "title": "小说写作社区"
-        },
         {
           "id": "https://www.douban.com/group/topic/224741570/",
           "author": "剑宗念奴娇",
@@ -356,8 +289,6 @@
           "link": "https://www.douban.com/group/topic/224741570/",
           "publishedOn": "2021-05-06T15:14:14.000Z",
           "wordCount": 114,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "茅盾文学奖的获奖作品也要被拿来拍剧了……女主暂定的刘存浩..本人刚看完悬崖之上觉得不可"
         },
         {
@@ -367,8 +298,6 @@
           "link": "https://www.douban.com/group/topic/224673672/",
           "publishedOn": "2021-05-06T01:53:48.000Z",
           "wordCount": 111,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "布鲁斯凯威（白墙）"
         },
         {
@@ -378,8 +307,6 @@
           "link": "https://www.douban.com/group/topic/224609180/",
           "publishedOn": "2021-05-05T18:03:16.000Z",
           "wordCount": 161,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "《包办一切》村田浩一"
         },
         {
@@ -389,8 +316,6 @@
           "link": "https://www.douban.com/group/topic/224593546/",
           "publishedOn": "2021-05-05T16:18:03.000Z",
           "wordCount": 175,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "《钢琴》针村让司"
         },
         {
@@ -399,9 +324,7 @@
           "description": "除了上班，就是刷手机。并没有追剧，或者综艺。纯粹是无聊杀时间。也就是豆瓣微博上来回跑。明知道无益，可是看不下去书。\n然后前几年是读了不少书的，可是很快就忘得差不多了。所以更没欲望读😕",
           "link": "https://www.douban.com/group/topic/223929074/",
           "publishedOn": "2021-05-01T02:15:06.000Z",
-          "wordCount": 211,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
+          "wordCount": 291,
           "title": "越来越浮躁，看不进去书，怎么破？"
         },
         {
@@ -411,8 +334,6 @@
           "link": "https://www.douban.com/group/topic/223304113/",
           "publishedOn": "2021-04-27T16:49:46.000Z",
           "wordCount": 103,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "《这也是一个人》叶圣陶"
         },
         {
@@ -422,8 +343,6 @@
           "link": "https://www.douban.com/group/topic/223301730/",
           "publishedOn": "2021-04-27T16:36:15.000Z",
           "wordCount": 186,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "《超人》冰心"
         },
         {
@@ -433,8 +352,6 @@
           "link": "https://www.douban.com/group/topic/223301372/",
           "publishedOn": "2021-04-27T16:34:03.000Z",
           "wordCount": 103,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "《斯人独憔悴》冰心"
         },
         {
@@ -444,8 +361,6 @@
           "link": "https://www.douban.com/group/topic/223226209/",
           "publishedOn": "2021-04-27T08:56:26.000Z",
           "wordCount": 153,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "欧•亨利|爱的牺牲"
         },
         {
@@ -455,8 +370,6 @@
           "link": "https://www.douban.com/group/topic/222970470/",
           "publishedOn": "2021-04-25T22:18:54.000Z",
           "wordCount": 109,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "云城往事录2"
         },
         {
@@ -466,8 +379,6 @@
           "link": "https://www.douban.com/group/topic/222786120/",
           "publishedOn": "2021-04-24T23:09:56.000Z",
           "wordCount": 102,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "朝花夕拾-云城往事录1"
         },
         {
@@ -477,8 +388,6 @@
           "link": "https://www.douban.com/group/topic/222509479/",
           "publishedOn": "2021-04-23T17:21:24.000Z",
           "wordCount": 103,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "2"
         },
         {
@@ -488,8 +397,6 @@
           "link": "https://www.douban.com/group/topic/222497386/",
           "publishedOn": "2021-04-23T16:33:45.000Z",
           "wordCount": 132,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "老师求给初一学生看的短篇小说"
         },
         {
@@ -499,8 +406,6 @@
           "link": "https://www.douban.com/group/topic/222497294/",
           "publishedOn": "2021-04-23T16:33:22.000Z",
           "wordCount": 101,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "老师求给初一学生看的短篇小说"
         },
         {
@@ -510,8 +415,6 @@
           "link": "https://www.douban.com/group/topic/222495159/",
           "publishedOn": "2021-04-23T16:25:18.000Z",
           "wordCount": 108,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "……"
         },
         {
@@ -521,72 +424,62 @@
           "link": "https://www.douban.com/group/topic/222137527/",
           "publishedOn": "2021-04-21T15:40:28.000Z",
           "wordCount": 185,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
           "title": "《女娲氏之遗孽》叶灵凤"
         },
         {
-          "id": "https://www.douban.com/group/topic/220016808/",
-          "author": "心是孤独的猎手",
-          "description": "我们正在攒钱，打算明年买一辆车。\n早晨七点半，吃过妻子亲手烹制的早餐，在她温柔的目送中，我骑上自行车送儿子去幼儿园。幼儿园门口熙熙攘攘的豪车，很长一段时间内曾令我感到无所适从。我甚至想过搞一辆三轮车以示自己的特立独行。但本质上我是一个低调的人，三轮车这种招摇的交通工具好像并不适合我。那么就干脆也买一辆豪车，可是除了低调，我还是一个崇尚环保的人。所以，最终我什么也没有做，依旧是骑了自行车，风里来雨里去的，好在一年下来我也习惯了。\n像所有拥有一份正当职业的成年人，送下儿子我就要开始一天的工作。说实话，最近我有点儿感到焦虑，主要是来自职业上的压力。\n我今年三十三岁，已经不能算是年轻了。每次跟客户坐在一起，她们总是问我，呀，您这么成功，怎么还一直单身呢？我总是含蓄地告诉她们，我是一个对爱情十分执着的人，有句话叫做宁缺毋滥，我十分推崇。而这么多年一直单身，是因为我还没有遇见自己的另一半。\n大多数客户对我的解释深信不疑。除了我有一张十分诚恳的老脸，她们得到的资料上，我是一名成功的创业者。当然，职业会随着对方的喜好有所变动。有时候，我是一名网络公司的CEO，有时候又是某品牌的创始人。不管头衔怎么变，始终不变的是我作为一名婚…",
-          "link": "https://www.douban.com/group/topic/220016808/",
-          "publishedOn": "2021-04-09T08:08:19.000Z",
-          "wordCount": 481,
-          "sourceHref": "https://hub.kkitown.xyz/douban/group/shortstories/",
-          "sourceTitle": "豆瓣小组-短篇小说分享组",
-          "title": "《婚托儿》"
+          "id": "https://www.douban.com/group/topic/221909812/",
+          "author": "R君",
+          "description": "B先生死了。就在他搬进这座大楼不到二十四小时。\n\nB先生是昨夜，不，准确地说是今天凌晨0点住进来的。那时夜雾弥漫，有两个黑衣男子陪着他，拎着三只大提箱，敲开我值班的房门，要租一间不带家具的房子。这个要求有点奇怪，因为大多数人都想要有家具的房间。\n\n“请问你们要租多大的屋子？”我打量着B的光头问。他戴着眼镜，苍白而又腼腆，脸上有种愁苦的模样。\n\n一个黑衣男人说：“最小的单元就可以了。一间卧室，带厨房和洗手间。”\n\n“请原谅，三个人住这么小的房子是不是太挤了……”我说。\n\n黑衣人面无表情，指了指B：“就他自己住。”\n\n“好吧，您想租多久？半年还是一年？”我问B。\n\nB先生低声说：“一天……”\n\n“什么？”我没听清楚。\n\n黑衣人说：“租一个月吧。这是你们最短的租期？”\n\n“对。”我拿出登记簿，让B写下自己的名字。黑衣人付了一个月租金，然后我带他们上电梯，到了大楼16层的那个小套间。\n\nB先生对客厅表示满意，但他抱怨房子的视野太狭窄了。黑衣男人们冷淡地沉默着，把大箱子打开。里面竟装满了简易家具——折叠的帆布衣柜、充气床垫，还有一些换洗衣服。最后，B安顿下来，一个黑衣人看了看表，说：“8月18日了，现在是凌晨0点整。”…",
+          "link": "https://www.douban.com/group/topic/221909812/",
+          "publishedOn": "2021-04-20T10:16:45.000Z",
+          "wordCount": 276,
+          "title": "《一日囚》柳文杨"
         }
       ]
     },
     {
-      "href": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw",
+      "title": "小高姐的 Magic Ingredients",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw",
+      "siteUrl": "https://www.youtube.com/channel/UCCKlp1JI9Yg3-cUjKPdD3mw",
       "articles": [
         {
           "id": "https://www.youtube.com/watch?v=etSdP9CFmko",
-          "author": "小高姐的 Magic Ingredients",
+          "author": null,
           "description": "红烧牛仔骨算是一个炖菜。它通过慢炖或者高压锅高压炖煮使牛肉变得软嫩，特别是牛骨头周围的筋络组织。像这样慢炖的菜，购买普通新鲜的牛仔骨就好，不需要买那种品质特别高，价格特别昂贵，油花分布特别均匀的牛仔骨。油花分布均匀的牛仔骨和牛排一样更适合快煎，或者火烤。品质高，油花多的牛仔骨，煎烤之后，两面焦黄，内部油脂刚刚处在...",
           "link": "https://www.youtube.com/watch?v=etSdP9CFmko",
           "publishedOn": "2021-05-04T01:32:58.000Z",
           "wordCount": 16,
-          "sourceHref": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw",
-          "sourceTitle": "小高姐的 Magic Ingredients",
           "title": "红烧牛仔骨 Braised Beef Ribs"
         },
         {
           "id": "https://www.youtube.com/watch?v=8Fg83QQi-0o",
-          "author": "小高姐的 Magic Ingredients",
+          "author": null,
           "description": "酸菜炒米是一道有西北特色的炒米饭。它是用泡菜来炒的，所以口味比较特殊，吃起来酸酸辣辣比较过瘾。如何处理米饭呢？其实就比你平时蒸饭多了一个步骤。米饭蒸熟，打开盖子，趁热让米饭里的蒸汽散去。多余的水汽散出去，再经过冰箱隔夜冷藏，米粒不会粘在一起，而且一粒一粒散开的。这样的米饭你可以做蛋炒饭，酱油炒饭，海鲜炒饭或者酸菜...",
           "link": "https://www.youtube.com/watch?v=8Fg83QQi-0o",
           "publishedOn": "2021-04-26T21:10:06.000Z",
           "wordCount": 20,
-          "sourceHref": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw",
-          "sourceTitle": "小高姐的 Magic Ingredients",
           "title": "酸菜炒米 Fried Rice  如何处理米饭  How to Prepare Rice"
         },
         {
           "id": "https://www.youtube.com/watch?v=T9ujysGFgYw",
-          "author": "小高姐的 Magic Ingredients",
+          "author": null,
           "description": "蒜蓉西兰花是非常家常的一道菜。我们今天看看怎样把它做好。通常的做法是先焯水，后炒。如果焯水的话，西兰花中的维生素会被热水带走。视频中选用了简易的蒸的方法，多一些保留的西蓝花的营养成分，而且使西蓝花的口更加脆嫩。另外选用鸡汤来烹饪西兰花，给这道菜增加了鲜味，西兰花吃起来更加美味。蒜蓉西兰花食谱：西兰花：一颗干辣椒：...",
           "link": "https://www.youtube.com/watch?v=T9ujysGFgYw",
           "publishedOn": "2021-04-18T20:14:19.000Z",
           "wordCount": 15,
-          "sourceHref": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw",
-          "sourceTitle": "小高姐的 Magic Ingredients",
           "title": "蒜蓉西兰花  Garlic Broccoli"
         },
         {
           "id": "https://www.youtube.com/watch?v=5Q4HACvSNQI",
-          "author": "小高姐的 Magic Ingredients",
+          "author": null,
           "description": "粉蒸牛肉是一道非常解馋的肉菜。仔细看看粉蒸牛肉的做法，分了很多步骤，而且每个步骤都是要按照顺序来。第一步，小苏打嫩肉，第二步，腌肉，然后是上粉，加水，最后的封油。只要你按照顺序来，就能做出好吃的粉蒸肉。最后配上刺激食欲的蒜油，超级过瘾。粉蒸牛肉食谱：牛里脊肉：500克豆瓣酱：1大勺豆腐乳：2块生姜泥：1 小勺红糖...",
           "link": "https://www.youtube.com/watch?v=5Q4HACvSNQI",
           "publishedOn": "2021-04-11T23:07:16.000Z",
           "wordCount": 13,
-          "sourceHref": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw",
-          "sourceTitle": "小高姐的 Magic Ingredients",
           "title": "粉蒸牛肉"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }
