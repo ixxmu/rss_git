@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: "14"
       - name: Install osmosfeed
-        run: npm i @osmoscraft/osmosfeed@^1.6.0
+        run: npm i @osmoscraft/osmosfeed@^1.7.1
       - name: Build the feed
         run: npx osmosfeed
       - name: Deploy
