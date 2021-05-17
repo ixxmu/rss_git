@@ -1,196 +1,319 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T07:22:09.113Z</id>
+    <id>urn:2021-05-17T01:37:35.018Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T07:22:09.113Z</updated>
-    <generator>osmosfeed 1.6.0</generator>
+    <updated>2021-05-17T01:37:35.018Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[使用refGenome加上dplyr玩转gtf文件]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/852</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/852"/>
-        <updated>2021-05-10T06:20:40.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247488339&idx=2&sn=f02c9b9a0c5f995cbb8c2c09cdbbb4a6&chksm=9b4853e8ac3fdafefbd3ead1411ba94bb0a96d91e828623cf1d40ff04baea0a9381a734f15ac&scene=21#wechat_redirect]]></summary>
+        <title type="html"><![CDATA[R 机器学习 | 数据预处理]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/884</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/884"/>
+        <updated>2021-05-17T01:34:26.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ib5hvgZwMq8mbC4zd9QE-Q]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ggplot配色]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/851</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/851"/>
-        <updated>2021-05-09T23:24:22.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/Y1S3WSNqXTPjL7jQ-V8ORA]]></summary>
+        <title type="html"><![CDATA[丹麦吐司 Croissant Loaf]]></title>
+        <id>https://www.youtube.com/watch?v=Exw7vHVWLbo</id>
+        <link href="https://www.youtube.com/watch?v=Exw7vHVWLbo"/>
+        <updated>2021-05-16T23:16:06.000Z</updated>
+        <summary type="html"><![CDATA[丹麦吐司 Croissant Loaf 结合了土司内部的松软，和牛角包香甜丰富的味道。而它自己的独特之处就是在外观上最大程度的利用了面团里面的层次。面包的表面和侧面可以看到非常多的层次。是一个非常与众不同的面包。丹麦面包食谱：高筋面粉或者没有漂白过的中筋面粉：470克水：240克酵母：8克 鸡蛋：1糖：50克盐：...]]></summary>
+        <author>
+            <name>小高姐的 Magic Ingredients</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R 机器学习 | 数据预处理]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/883</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/883"/>
+        <updated>2021-05-16T11:39:58.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ib5hvgZwMq8mbC4zd9QE-Q]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RNA-seq数据分析完全指北-06：比对到基因组并定量]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/850</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/850"/>
-        <updated>2021-05-09T15:46:46.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/DK1QVFLB-AY4TzvB9ChqaA]]></summary>
+        <title type="html"><![CDATA[R 机器学习 | 数据预处理]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/882</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/882"/>
+        <updated>2021-05-16T09:09:42.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ib5hvgZwMq8mbC4zd9QE-Q]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[郑州神户型频出，刚需重新定义四房！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/849</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/849"/>
-        <updated>2021-05-09T15:45:41.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/5yeTIfsvF3YQ9hdovbiarA]]></summary>
+        <title type="html"><![CDATA[均价15000，我却找到了全市最靠谱的学区房]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/881</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/881"/>
+        <updated>2021-05-15T14:38:31.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/bVnZ9IipbTiEcgWM3Ch5iw]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[论文利器：复制++]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/848</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/848"/>
-        <updated>2021-05-09T11:00:43.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/8oVjziYKmT9oeA89upXRKg]]></summary>
+        <title type="html"><![CDATA[在一个热图中使用多个颜色主题]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/880</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/880"/>
+        <updated>2021-05-14T00:11:49.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/07p6BtJFWUSb37CFVJd-rg]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[感兴趣通路特征模型评估神经胶质瘤免疫功能和预后]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/847</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/847"/>
-        <updated>2021-05-08T10:59:39.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/1kkQD5TWi_tZiDzb-bJEdA]]></summary>
+        <title type="html"><![CDATA[免疫细胞丰度与基因表达量的相关性热图]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/879</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/879"/>
+        <updated>2021-05-14T00:04:51.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/WTVyF010N5ATIpfHjXoveg]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[差异分析要的是表达量矩阵，基因名字并不重要啊]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/846</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/846"/>
-        <updated>2021-05-08T10:35:15.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/-17oUL0-GProZb9apiZJkg]]></summary>
+        <title type="html"><![CDATA[你只能哭着说明明没有相关性]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/878</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/878"/>
+        <updated>2021-05-13T14:52:24.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/cWV_ziCQCU3fzRouyWMbCQ]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPL14877、GPL570、hgu133plus2.db 比较]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/845</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/845"/>
-        <updated>2021-05-08T10:31:14.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/EmJ8UZMV25HBiLEkAdZlzQ]]></summary>
+        <title type="html"><![CDATA[R也可以计算保守性得分]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/877</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/877"/>
+        <updated>2021-05-13T10:11:06.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/fLjj1wqrTwc96La-LP2qyw]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GEO数据挖掘流程——代码版（方便抄袭）]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/844</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/844"/>
-        <updated>2021-05-08T10:17:14.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/x7oYnMgOKUp7OefFbuKcJw]]></summary>
+        <title type="html"><![CDATA[R小贴士]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/876</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/876"/>
+        <updated>2021-05-13T06:09:25.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/dB4iHVxYGRF5lAX-Y8XR4w]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LncRNA芯片的一般分析流程]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/843</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/843"/>
-        <updated>2021-05-08T10:03:42.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/OoyjOl0txT8s84Q9NbzQlg]]></summary>
+        <title type="html"><![CDATA[R 中几个常见的数据重塑函数]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/875</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/875"/>
+        <updated>2021-05-13T06:08:00.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/KcuSgldsw-1-k4RI2_99jg]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[基因id转换方法大盘点]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/842</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/842"/>
-        <updated>2021-05-07T11:21:17.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/876tFctpemrP0HrkRJlC6g]]></summary>
+        <title type="html"><![CDATA[不知道你的单细胞分多少群合适，clustree帮助你]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/874</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/874"/>
+        <updated>2021-05-13T06:07:26.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/cfo10QtxCasWfF4V9apUvw]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[简单小需求：如何将FPKM转换成TPM？]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/841</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/841"/>
-        <updated>2021-05-07T07:34:13.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/SlM337mplPxZH8z9wCHR7Q]]></summary>
+        <title type="html"><![CDATA[提取单细胞亚群进行后续再分析]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/873</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/873"/>
+        <updated>2021-05-13T06:07:16.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/-0b3NbKV_U1Gg2r7cJ-7ZA]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[基因长度并不是end-start]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/840</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/840"/>
-        <updated>2021-05-07T07:28:44.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ti7FpUGh7nPLx9XPv7QZuA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIBERSORT免疫浸润的代码实现]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/839</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/839"/>
-        <updated>2021-05-07T07:27:57.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/FMejgtuEsRi93aRooeTaLQ]]></summary>
+        <title type="html"><![CDATA[单细胞亚群细胞数量不一致，如何实现抽样？]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/872</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/872"/>
+        <updated>2021-05-13T06:07:07.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ixgj2kxe_ixWObJvrO96Xg]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[archive_request]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/838</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/838"/>
-        <updated>2021-05-07T07:26:03.000Z</updated>
-        <summary type="html"><![CDATA[https://www.jianshu.com/p/03a7440c0960]]></summary>
+        <id>https://github.com/ixxmu/mp_duty/issues/871</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/871"/>
+        <updated>2021-05-13T06:06:34.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/dB4iHVxYGRF5lAX-Y8XR4w
+https://mp.weixin.qq.com/s/ixgj2kxe_ixWObJvrO96Xg
+https://mp.weixin.qq.com/s/-0b3NbKV_U1Gg2r7cJ-7ZA
+https://mp.weixin.qq.com/s/cfo10QtxCasWfF4V9apUvw]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[量化免疫浸润时CIBERSORT的注意事项。]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/837</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/837"/>
-        <updated>2021-05-07T07:19:22.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s?__biz=MzIyMzA2MTcwMg==&mid=2650734689&idx=1&sn=d6727cd63a271aec269992d4d432f8e5&scene=21#wechat_redirect]]></summary>
+        <title type="html"><![CDATA[TCGA提取非编码RNA并完成下游分析]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/870</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/870"/>
+        <updated>2021-05-13T06:03:19.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/dxHlh23jKxX2z9uPldHV8w]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[研究最热门的基因是什么]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/836</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/836"/>
-        <updated>2021-05-07T05:11:13.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/VCRukFCQaagTF6GKu2DLgA]]></summary>
+        <title type="html"><![CDATA[GTF文件有什么用啊？别的不谈，最起码能提lncRNA]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/869</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/869"/>
+        <updated>2021-05-13T06:03:05.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/v8HCQgewWq9VKN8xwfrGjg]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[细胞亚群为什么一定要有清晰可见的界限]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/835</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/835"/>
-        <updated>2021-05-07T05:04:43.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/JJBev2Ed_DxwjWqiXwlDGg]]></summary>
+        <title type="html"><![CDATA[多个数据集整合神器-RobustRankAggreg包]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/868</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/868"/>
+        <updated>2021-05-12T12:52:45.000Z</updated>
+        <summary type="html"><![CDATA[https://zhuanlan.zhihu.com/p/177006280]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICGC数据库的下载和数据清洗]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/834</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/834"/>
-        <updated>2021-05-07T03:37:55.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/2ny_QLvK-Rl8G3UNcwoodg]]></summary>
+        <title type="html"><![CDATA[你的ID转换错啦]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/867</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/867"/>
+        <updated>2021-05-12T12:43:01.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/xcVFjZ8uJhuZhAiWQdTBOQ]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[转录组讲师带你读文献-使用siRNA干扰LINC00152前后看结直肠癌表达量差异]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/866</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/866"/>
+        <updated>2021-05-12T12:41:34.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/5mkJkYIqAGeE2A6xtLt8Ww]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ggVennDiagram 的新生]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/865</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/865"/>
+        <updated>2021-05-12T10:07:13.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/6kDXPrJRyXab6HpVjq6JBw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提取单细胞亚群进行后续再分析]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/864</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/864"/>
+        <updated>2021-05-12T07:44:38.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/-0b3NbKV_U1Gg2r7cJ-7ZA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单细胞转录组测序结果也要好好解读一下！]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/863</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/863"/>
+        <updated>2021-05-11T22:46:15.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/8JFnzHAPTZYd9gzEcNcwQQ]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你失去的，不仅是一张张“无聊”的报纸]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/862</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/862"/>
+        <updated>2021-05-11T15:23:41.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/JBziLySa_8A06iDUR1g86g]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天，人口普查数据公布，这是最干的解读！]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/861</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/861"/>
+        <updated>2021-05-11T12:32:20.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/D5xah5opNDb7V5gT6BKcpA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多个单细胞亚群合并]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/860</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/860"/>
+        <updated>2021-05-11T06:07:54.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/tbuiC1exdeH5GwzyK4l33A]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不知道你的单细胞分多少群合适，clustree帮助你]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/859</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/859"/>
+        <updated>2021-05-11T06:07:43.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/cfo10QtxCasWfF4V9apUvw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了孩子，你为什么不去赌一把？]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/858</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/858"/>
+        <updated>2021-05-11T00:52:21.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/LbwrEbg1wNdrI_LG-sXB-Q]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你不要怕自卑]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/857</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/857"/>
+        <updated>2021-05-11T00:51:48.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/xo-U270BK0v7JGL__bLYDQ]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ssGSEA免疫浸润的代码实现]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/856</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/856"/>
+        <updated>2021-05-10T11:03:43.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/bBfzDHcebzNU9lENBSA2yA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPL17586、GPL19251和GPL16686平台芯片ID转换]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/855</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/855"/>
+        <updated>2021-05-10T09:37:07.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/Hx1SGpvultFzFayADm6m2w]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
@@ -202,16 +325,6 @@
         <updated>2021-05-06T15:14:14.000Z</updated>
         <author>
             <name>剑宗念奴娇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当年被excel搞乱的基因名，得救了]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/833</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/833"/>
-        <updated>2021-05-06T04:13:34.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/lViHIiySX_2STTytzMceMQ]]></summary>
-        <author>
-            <name>ixxmu</name>
         </author>
     </entry>
     <entry>
@@ -232,8 +345,8 @@
         <link href="https://www.douban.com/group/topic/224609180/"/>
         <updated>2021-05-05T18:03:16.000Z</updated>
         <summary type="html"><![CDATA[“啊，混帐，又被整了。”
-　　诚一咂咂嘴。从公司回来，脱下西服一看，上面贴着纸片。纸片上写着这样的话：
-　　“包办一切！你的烦恼，我来解决。从打扫院子到保镖。请跟我联系。”
+　　诚一咂咂嘴。从公司回来，脱下西服一看，上面被人贴了纸片。纸片上写着这样的话：
+　　“包办一切！你的烦恼，我来解决。从庭院扫除到保镖。请跟我联系。”
 　　“到底是谁，搞这种恶作剧。”
 　　他十分愤慨。这已经是第三次了。在从公司回寓所的路上，不知被谁贴了这张纸片。难道是在乘电车的时候吗？还是在车站前等候信号的时候。不管怎么说都让人生气。
 　　最近，这种手法的恶作剧多了起来，街上经常能够看到被贴了这种纸片的人。从后面看到这样的纸片，笑着说“眼不见心不烦”之类的话的诚一，自己也没有例外地遭此厄运。
@@ -246,8 +359,7 @@
 　　“啊，难道？”
 　　诚一慌忙脱下西服。西服上贴着与以往相同的纸贴。
 　　“是这么回事。”
-　　刚一开口，诚一改变了主意。对方看上去是个大美人。能稍微聊上几句也不错。诚一揭下纸贴塞进口袋，同女子进了附近的咖啡馆。
-　…]]></summary>
+　　刚一开口，诚一改变了主意。对方看上去是个大美人。能稍微聊上几句也不错。诚一揭下纸贴塞进口袋，同女子进了附近的咖啡馆。…]]></summary>
         <author>
             <name>郊区的鳥</name>
         </author>
@@ -260,7 +372,7 @@
         <summary type="html"><![CDATA[大约一个月前，我开始学钢琴。
 　　当然，我知道从二十岁才开始学钢琴无论怎么说都是太晚了。可是不管怎么说我就是想学。
 　　许多朋友听说我要学钢琴都瞪大了眼睛，其中有几个朋友赞扬我的行动力，也有几个朋友一本正经地说我是个怪人。
-　　“学钢琴，你认真的？”
+　　“学钢琴？你认真的？”
 　　一个朋友这样对我说。我默默地点了点头。
 　　“为什么突然要学？”
 　　“想给大学时代留下一点什么。能证明自己那时的确曾经认真地生活过。”
@@ -268,35 +380,15 @@
 　　“你怎么看，我这么做……”
 　　“太老派了。”
 　　他不屑一顾地说。
-　　然而事实并非如此。我根本没想以在大学时代留下点什么这样高尚的理由来开始学钢琴。
+　　然而事实并非如此。在大学时代留下点什么，这种高尚的理由我在决定去学钢琴前根本没想过。
 　　事实是这样的。
 　　我现在在某大学的工程系上学。学工程的女生少自不必说了。人数少也就罢了，好女生更是少之又少。所以，我在学校的教室里极少跟女生说话。
 　　在质和量都匮乏的工程系女生中，只有一名是非常出色的女生，她的确很出色。她似乎是把少年们永远的梦想集于一身的女孩。 我们私下里称她为“公主”。
 　　在一个星期五的下午，我上完课以后正往书包里收拾笔记和教科书的时候，公主”走过来了，她在我旁边的椅子上坐下来。
 　　“哎，今天有空吗？”
-　　“公主”忽闪着…]]></summary>
+　　“公主”…]]></summary>
         <author>
             <name>郊区的鳥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[差价4000元/㎡！郑州超低价盘大曝光！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/832</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/832"/>
-        <updated>2021-05-05T15:15:50.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/lX9zlhhJrlJ_sMLC6CcbiA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么！你的图上有一双看不见的手？]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/831</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/831"/>
-        <updated>2021-05-05T06:55:57.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/T1WNLFI0rbRkEhQREYV_iw]]></summary>
-        <author>
-            <name>ixxmu</name>
         </author>
     </entry>
     <entry>
@@ -307,86 +399,6 @@
         <summary type="html"><![CDATA[红烧牛仔骨算是一个炖菜。它通过慢炖或者高压锅高压炖煮使牛肉变得软嫩，特别是牛骨头周围的筋络组织。像这样慢炖的菜，购买普通新鲜的牛仔骨就好，不需要买那种品质特别高，价格特别昂贵，油花分布特别均匀的牛仔骨。油花分布均匀的牛仔骨和牛排一样更适合快煎，或者火烤。品质高，油花多的牛仔骨，煎烤之后，两面焦黄，内部油脂刚刚处在...]]></summary>
         <author>
             <name>小高姐的 Magic Ingredients</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张泽民团队的单细胞研究把T细胞分的如此清楚]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/830</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/830"/>
-        <updated>2021-05-03T23:46:01.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/GOoGQ0ry7SNuj6CaKMktPA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一款好用的文件传输软件 croc]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/829</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/829"/>
-        <updated>2021-05-03T23:36:42.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/u3ZLQwy5wd3BgLV-Tv6-Nw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[apply | R中函数的简单循环]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/828</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/828"/>
-        <updated>2021-05-03T14:21:27.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/CHdRe9sBpDcIY1lQ8wTB5g]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​郑州彻底膨胀了，有新盘3个月要清盘！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/827</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/827"/>
-        <updated>2021-05-03T06:06:53.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ofyB7NjARG_VuPOp9xXcUw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打扰了，网红景点照和朋友圈看到的不一样 | 谷雨数据]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/826</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/826"/>
-        <updated>2021-05-02T23:33:19.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ulLr1gNNvk7-Yyf_mlMH0A]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UTR，CDS，TSS概念图解]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/825</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/825"/>
-        <updated>2021-05-02T10:23:09.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/d-6y9E42PIiV1e_3O_2r3A]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[report包：助你自动出统计报告！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/824</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/824"/>
-        <updated>2021-05-01T12:34:06.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/sKXbEViHFL96mz6rWiufHw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开刊词||单细胞新药研发导论]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/823</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/823"/>
-        <updated>2021-05-01T12:33:50.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/gYMqGF02CzgltuVQOC6xMA]]></summary>
-        <author>
-            <name>ixxmu</name>
         </author>
     </entry>
     <entry>
@@ -542,7 +554,7 @@
 诗和散文找了太多了，想着找一找短篇小说，可是要么领导不太喜欢里面的意识形态，要么字数太多了，要么是我自己很喜欢，不适合孩子们。
 求一些篇名。谢谢谢谢谢谢谢谢谢谢]]></summary>
         <author>
-            <name>我像任何人</name>
+            <name>微斯人</name>
         </author>
     </entry>
     <entry>
@@ -554,7 +566,7 @@
 诗和散文找了太多了，想着找一找短篇小说，可是要么领导不太喜欢里面的思想价值观，要么字数太多了，要么是我自己很喜欢，不适合孩子们。
 求一些篇名。谢谢谢谢谢谢谢谢谢谢]]></summary>
         <author>
-            <name>我像任何人</name>
+            <name>微斯人</name>
         </author>
     </entry>
     <entry>
@@ -570,19 +582,6 @@
 她噗呲一下就笑出来了，拉着我上了电梯……]]></summary>
         <author>
             <name>真败火也真上头</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《女娲氏之遗孽》叶灵凤]]></title>
-        <id>https://www.douban.com/group/topic/222137527/</id>
-        <link href="https://www.douban.com/group/topic/222137527/"/>
-        <updated>2021-04-21T15:40:28.000Z</updated>
-        <summary type="html"><![CDATA[一
-       莓箴今天走了，敬生又在邮局中办事没有回来，偌大的一间楼上，只有我一人静坐。楼下的笑语历历从窗口递上，使我倦念的心怀，益复不能自止。昨天此时，莓箴还在我这里，他并没有同我讲起即要走的事，然他今天竟偷偷地走了，在他的心意，以为不使我预先知道行期，可以减少我的痛苦，殊不知今天这突来的离别，却益发使我悲伤哩！我今天清晨从床上听见他嫂嫂在楼下对他说，莓弟，时候不早了，你还不预备车子走么？我的心真碎了。我本待要起来送他，无如我们的关系既是这样，我惟恐他人见了我的泪容，反将格外引起流言和蜚语，所以我只好蒙头掩面痛哭，知我此时情的真惟有这一条薄薄的棉衾了！ 
-　　他近来大约知道开学期近，快要与我离别，更格外同我亲近，每当敬生出去后，便即不顾一切地跑上楼来同我谈笑，以期在欢乐的陶醉中，想使我忘记了未来的离别。然他虽是这样地用心，虽是这次使我是免去了黯然销魂之感，他欲忘记别后的我了。可怜今日这一个晴天霹雳，蓦地分离，使我追念起旧情，心中如何难堪啊！ 
-　　我早知他今日便走，我真懊悔昨晚的一举了！我近日因莓箴校里就要开学，心中常是不乐，昨晚敬生忽然要我出去看戏，说就是看我近来太沉闷了，要我借此散心，我当时因怕他窥…]]></summary>
-        <author>
-            <name>Yuengmok</name>
         </author>
     </entry>
     <entry>
@@ -623,16 +622,6 @@ B先生对客厅表示满意，但他抱怨房子的视野太狭窄了。黑衣�
         <link href="https://www.youtube.com/watch?v=T9ujysGFgYw"/>
         <updated>2021-04-18T20:14:19.000Z</updated>
         <summary type="html"><![CDATA[蒜蓉西兰花是非常家常的一道菜。我们今天看看怎样把它做好。通常的做法是先焯水，后炒。如果焯水的话，西兰花中的维生素会被热水带走。视频中选用了简易的蒸的方法，多一些保留的西蓝花的营养成分，而且使西蓝花的口更加脆嫩。另外选用鸡汤来烹饪西兰花，给这道菜增加了鲜味，西兰花吃起来更加美味。蒜蓉西兰花食谱：西兰花：一颗干辣椒：...]]></summary>
-        <author>
-            <name>小高姐的 Magic Ingredients</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粉蒸牛肉]]></title>
-        <id>https://www.youtube.com/watch?v=5Q4HACvSNQI</id>
-        <link href="https://www.youtube.com/watch?v=5Q4HACvSNQI"/>
-        <updated>2021-04-11T23:07:16.000Z</updated>
-        <summary type="html"><![CDATA[粉蒸牛肉是一道非常解馋的肉菜。仔细看看粉蒸牛肉的做法，分了很多步骤，而且每个步骤都是要按照顺序来。第一步，小苏打嫩肉，第二步，腌肉，然后是上粉，加水，最后的封油。只要你按照顺序来，就能做出好吃的粉蒸肉。最后配上刺激食欲的蒜油，超级过瘾。粉蒸牛肉食谱：牛里脊肉：500克豆瓣酱：1大勺豆腐乳：2块生姜泥：1 小勺红糖...]]></summary>
         <author>
             <name>小高姐的 Magic Ingredients</name>
         </author>
