@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T01:37:35.018Z</id>
+    <id>urn:2021-05-17T08:41:36.489Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T01:37:35.018Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-17T08:41:36.489Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GEO芯片中配对样本如何做差异分析]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/886</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/886"/>
+        <updated>2021-05-17T08:38:21.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s?__biz=MzIyMzA2MTcwMg==&mid=2650733588&idx=1&sn=6ecfaa2b1cc74416ce56819ad8ed6ada&chksm=f029afbdc75e26abcf9b63540534b8418bf3c677df529f295b165c58c9a5b4843ee318def478&scene=21]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任意细胞亚群的差异分析]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/885</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/885"/>
+        <updated>2021-05-17T04:58:32.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/wZBCtHSFPKRIKOAVKKPOhA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[R 机器学习 | 数据预处理]]></title>
         <id>https://github.com/ixxmu/mp_duty/issues/884</id>
@@ -294,26 +314,6 @@ https://mp.weixin.qq.com/s/cfo10QtxCasWfF4V9apUvw]]></summary>
         <link href="https://github.com/ixxmu/mp_duty/issues/857"/>
         <updated>2021-05-11T00:51:48.000Z</updated>
         <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/xo-U270BK0v7JGL__bLYDQ]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ssGSEA免疫浸润的代码实现]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/856</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/856"/>
-        <updated>2021-05-10T11:03:43.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/bBfzDHcebzNU9lENBSA2yA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPL17586、GPL19251和GPL16686平台芯片ID转换]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/855</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/855"/>
-        <updated>2021-05-10T09:37:07.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/Hx1SGpvultFzFayADm6m2w]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
