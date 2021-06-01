@@ -6,6 +6,159 @@
       "siteUrl": "https://github.com/ixxmu/mp_duty/issues",
       "articles": [
         {
+          "id": "https://github.com/ixxmu/mp_duty/issues/930",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/Lk-yBGN8vm_K6GtLJXRW4A",
+          "link": "https://github.com/ixxmu/mp_duty/issues/930",
+          "publishedOn": "2021-06-01T11:20:29.000Z",
+          "wordCount": 498,
+          "title": "多个基因的相关性如何分析与展示？"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/929",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/UJ3S2bFYASG9P4xBWDLQQg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/929",
+          "publishedOn": "2021-05-31T02:49:58.000Z",
+          "wordCount": 430,
+          "title": "R选择速度最快的镜像"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/928",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/SWJA7wKTAS46YkB5UXC5Xw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/928",
+          "publishedOn": "2021-05-31T02:46:53.000Z",
+          "wordCount": 481,
+          "title": "Z-score并不会影响很多统计学算法的结果"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/927",
+          "author": "ixxmu",
+          "description": "https://zhuanlan.zhihu.com/p/69439825",
+          "link": "https://github.com/ixxmu/mp_duty/issues/927",
+          "publishedOn": "2021-05-31T02:33:11.000Z",
+          "wordCount": 606,
+          "title": "RNA-seq中的那些统计学问题——FPKM/RPKM之外的那些标准化方法"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/926",
+          "author": "ixxmu",
+          "description": "https://zhuanlan.zhihu.com/p/77901431",
+          "link": "https://github.com/ixxmu/mp_duty/issues/926",
+          "publishedOn": "2021-05-31T02:15:00.000Z",
+          "wordCount": 623,
+          "title": "人人都要会的转录组(RNA-seq)下游分析."
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/925",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/o4e1HzG4zPIQoGT6-7D0ug",
+          "link": "https://github.com/ixxmu/mp_duty/issues/925",
+          "publishedOn": "2021-05-28T04:00:05.000Z",
+          "wordCount": 570,
+          "title": "8秒完成2万个基因的生存分析，人人都可以！"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/924",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/X8rUnEasKy3Dk-EoUAvC2A",
+          "link": "https://github.com/ixxmu/mp_duty/issues/924",
+          "publishedOn": "2021-05-28T03:58:05.000Z",
+          "wordCount": 562,
+          "title": "GEO芯片分析的倒数第2个关卡被没有了。。"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/923",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/ku14d7xG4fFvSPsFKmU2Wg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/923",
+          "publishedOn": "2021-05-28T03:58:00.000Z",
+          "wordCount": 656,
+          "title": "一次性查询对应的R推文"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/922",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/ku14d7xG4fFvSPsFKmU2Wg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/922",
+          "publishedOn": "2021-05-28T03:57:50.000Z",
+          "wordCount": 777,
+          "title": "一次性查询对应的R推文"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/921",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/ku14d7xG4fFvSPsFKmU2Wg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/921",
+          "publishedOn": "2021-05-28T02:10:03.000Z",
+          "wordCount": 535,
+          "title": "一次性查询对应的R推文"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/920",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/yVsQvkmU2Ol04GnPHZrxSg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/920",
+          "publishedOn": "2021-05-28T02:03:42.000Z",
+          "wordCount": 429,
+          "title": "这是目前我见过最全的ggplot2整理内容了"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/919",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/NaMGWwXxz-45Y9FJ-dOEyg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/919",
+          "publishedOn": "2021-05-28T01:57:24.000Z",
+          "wordCount": 427,
+          "title": "开发自己的dashboard"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/918",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/tZYRW0qVIWOyYC77aZkxLA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/918",
+          "publishedOn": "2021-05-27T07:57:57.000Z",
+          "wordCount": 595,
+          "title": "开机，写bug"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/917",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/fxg6dwwlW7FGA0ltD9VmFw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/917",
+          "publishedOn": "2021-05-27T07:57:27.000Z",
+          "wordCount": 623,
+          "title": "反向推理TCGA生存分析使用的仅仅是肿瘤样品"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/916",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/qtNzBw_NKvLeZDeVXTFSQQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/916",
+          "publishedOn": "2021-05-27T07:57:18.000Z",
+          "wordCount": 1658,
+          "title": "2021第一期生信入门微信群答疑精选200题"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/915",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/ohRSb5FKcAuPY9x3zVXrvA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/915",
+          "publishedOn": "2021-05-27T07:56:12.000Z",
+          "wordCount": 465,
+          "title": "这50个ggplot2现成图表你居然没有从头到尾自己画一遍"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/914",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/g-R5ln5Q_XGEeTwAKm0ktw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/914",
+          "publishedOn": "2021-05-26T22:58:24.000Z",
+          "wordCount": 433,
+          "title": "单细胞转录组的batch effect的去除"
+        },
+        {
           "id": "https://github.com/ixxmu/mp_duty/issues/913",
           "author": "ixxmu",
           "description": "https://mp.weixin.qq.com/s/P3kCtPLEKKY6PhYEdMSRWw",
@@ -121,159 +274,6 @@
           "publishedOn": "2021-05-22T04:43:20.000Z",
           "wordCount": 710,
           "title": "转录组讲师带你读文献(10)-肿瘤免疫动态景观（附送代码，有交流群）"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/900",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/TmWfw1FBwx8LV1PI7_mDPg",
-          "link": "https://github.com/ixxmu/mp_duty/issues/900",
-          "publishedOn": "2021-05-22T04:42:39.000Z",
-          "wordCount": 1026,
-          "title": "纯生信单细胞数据挖掘-全代码放送"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/899",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/6RQ-bGpfQBK90lKju1vR5A",
-          "link": "https://github.com/ixxmu/mp_duty/issues/899",
-          "publishedOn": "2021-05-21T14:09:29.000Z",
-          "wordCount": 435,
-          "title": "真的，要征房地产税了…吗？"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/898",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/jgQioBKHHUq3oNwGQSGAGw",
-          "link": "https://github.com/ixxmu/mp_duty/issues/898",
-          "publishedOn": "2021-05-21T03:08:26.000Z",
-          "wordCount": 426,
-          "title": "R语言数据可视化绘图合集"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/897",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/JJT9hK7eOi-PQmdGRv1gxg",
-          "link": "https://github.com/ixxmu/mp_duty/issues/897",
-          "publishedOn": "2021-05-20T10:14:07.000Z",
-          "wordCount": 1335,
-          "title": "R可视乎|用R给心仪的对象表白吧"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/896",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/LCu0gtLGfy--E8mYXJaKuw",
-          "link": "https://github.com/ixxmu/mp_duty/issues/896",
-          "publishedOn": "2021-05-20T06:50:38.000Z",
-          "wordCount": 1213,
-          "title": "用lasso回归构建生存模型+ROC曲线绘制"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/895",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/a-Y_DuW68ULMdTBRRbAq5w",
-          "link": "https://github.com/ixxmu/mp_duty/issues/895",
-          "publishedOn": "2021-05-20T06:49:19.000Z",
-          "wordCount": 518,
-          "title": "TCGA数据库构建生存预测模型之lasso回归"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/894",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/jUdMdy2xtgVITzIrKLSXLg",
-          "link": "https://github.com/ixxmu/mp_duty/issues/894",
-          "publishedOn": "2021-05-20T05:32:25.000Z",
-          "wordCount": 436,
-          "title": "楼市全面进入比烂时代！"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/893",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/7kfFsgPZgk9Yiz34uH-Y-Q",
-          "link": "https://github.com/ixxmu/mp_duty/issues/893",
-          "publishedOn": "2021-05-19T11:13:13.000Z",
-          "wordCount": 454,
-          "title": "别催了！你们心心念念的郑州小学学区图来了！！！"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/892",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/RgM2l2OXXdTgJSYXFni4JA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/892",
-          "publishedOn": "2021-05-19T09:31:39.000Z",
-          "wordCount": 471,
-          "title": "工具篇 | 这个R包，让你迅速提升SCI文章的逼格！"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/891",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/ZWY1XTpEhkqm2XHLGXuvgA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/891",
-          "publishedOn": "2021-05-19T09:11:01.000Z",
-          "wordCount": 676,
-          "title": "双阈值的火山图"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/890",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/VOcwQ8hAgQqetpKpeHKYpQ",
-          "link": "https://github.com/ixxmu/mp_duty/issues/890",
-          "publishedOn": "2021-05-19T04:31:45.000Z",
-          "wordCount": 529,
-          "title": "多发性骨髓瘤发展过程中肿瘤和免疫细胞的共同进化"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/889",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/mrtjpN8yDKUdCSvSUuUwcA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/889",
-          "publishedOn": "2021-05-18T09:52:08.000Z",
-          "wordCount": 622,
-          "title": "（重磅！价值一千元的R代码送给你）芯片探针序列的基因组注释"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/887",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/wsiceQmNVveoggiqeDSlmQ",
-          "link": "https://github.com/ixxmu/mp_duty/issues/887",
-          "publishedOn": "2021-05-18T06:59:09.000Z",
-          "wordCount": 545,
-          "title": "如何让基因名称在多个数据库间随意转换？"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/886",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/tz0CsJDumvnzY8WLqvoT-A",
-          "link": "https://github.com/ixxmu/mp_duty/issues/886",
-          "publishedOn": "2021-05-17T08:38:21.000Z",
-          "wordCount": 607,
-          "title": "GEO芯片中配对样本如何做差异分析"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/885",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/wZBCtHSFPKRIKOAVKKPOhA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/885",
-          "publishedOn": "2021-05-17T04:58:32.000Z",
-          "wordCount": 588,
-          "title": "任意细胞亚群的差异分析"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/882",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/ib5hvgZwMq8mbC4zd9QE-Q",
-          "link": "https://github.com/ixxmu/mp_duty/issues/882",
-          "publishedOn": "2021-05-16T09:09:42.000Z",
-          "wordCount": 671,
-          "title": "R 机器学习 | 数据预处理"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/881",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/bVnZ9IipbTiEcgWM3Ch5iw",
-          "link": "https://github.com/ixxmu/mp_duty/issues/881",
-          "publishedOn": "2021-05-15T14:38:31.000Z",
-          "wordCount": 428,
-          "title": "均价15000，我却找到了全市最靠谱的学区房"
         }
       ]
     },
@@ -283,12 +283,30 @@
       "siteUrl": "https://www.douban.com/group/shortstories/",
       "articles": [
         {
+          "id": "https://www.douban.com/group/topic/228606056/",
+          "author": "R君",
+          "description": "闪光的生命\n柳文扬\n\n　　　　　　　一\n　　刘洋最近一直在埋怨：干嘛不让我早一点碰到雷冰？大学五年里有的是机会嘛\n。偏偏是在毕业设计最紧张的时候，偏偏那一天去计算机中心，偏偏雷冰坐在机房\n里──她那么好看！连她的眼镜都好看！还有头发，还有衣服，还有她安安静静坐\n着的样子。\n　　如果不是毕业设计，刘洋想，那我就天天泡在机房里陪她。可是现在，我只能\n窝在小实验室造苹果。\n　　他在屋里慢慢地转圈，在他脚步所划的大圆圈里，有一张沙发椅，一个实验台\n，一台奇型怪状的仪器──叫做复制槽，摆成个三角形。实验台上放着一只又红又\n大的苹果，完美无缺，现在它是刘洋单相思病的唯一见证了。复制槽那边咝咝作响\n，正在对苹果进行全息扫描。这就是他的毕业设计课题。\n　　刘洋眼瞪着苹果，脚下绕着圈子，心想：今儿晚上去看她，找什么借口呢？他\n在事先总爱一个人演习一番──但基本上不能用于实战。\n　　我应该用含蓄的语言赞美她，同时，深情地凝望（但不可过于肉麻）。他自言\n自语：我就说，又漂亮、又聪明、又有个性的女孩子真是太少啦，最近我倒发现一\n个。她要问，那是谁？──等一下，她也许不问呢？我看她肯定不问。那我不是自\n讨没趣吗。我这么说，你歇一会儿，我讲个故事？不行，她不会听，就是想听也装\n作不爱听。那我就硬讲，把她逗笑为止。我马上夸她：你笑容好动人！她万一不笑\n呢？我就是说，你板着脸的样子好动人！──是否贱了一点？\n　　正自个儿瞎念叨，蜂鸣器响了。刘洋走到复制槽边，拉开盖子，里面有一个大\n红苹果：它是照原样复制的，从外到里，连滋味都是一模一样。\n　　刘洋笑了，是那种心怀叵测的笑。他有主意了！\n　　在温柔的夜晚，一位美少年，面带微笑（穿着最亮的皮鞋），手捧苹果，送到\n姑娘窗下。这是多么浪漫动人的情景！虽然雷冰的窗子在九层楼。\n　　浪漫是要有代价的。从实验大楼到计算机楼很远，而且，计算机楼的电梯和往\n常一样，就是说又…",
+          "link": "https://www.douban.com/group/topic/228606056/",
+          "publishedOn": "2021-06-01T00:56:29.000Z",
+          "wordCount": 382,
+          "title": "《闪光的生命》柳文扬"
+        },
+        {
+          "id": "https://www.douban.com/group/topic/228382769/",
+          "author": "Jodie",
+          "description": "请教高人指点。谢谢！",
+          "link": "https://www.douban.com/group/topic/228382769/",
+          "publishedOn": "2021-05-30T16:43:45.000Z",
+          "wordCount": 114,
+          "title": "现在自己写的短篇小说都能到哪里投稿呀?"
+        },
+        {
           "id": "https://www.douban.com/group/topic/227344003/",
           "author": "塘国日月",
           "description": "1966年，33岁，女，T市无职业妇女。\n\n我要说的是我的个人的事。但我并不是请你写下我的事情，而是记下另一个人。我只有一个要求：在我讲这件事的时候，你可千万别笑。我曾经把这件事讲给过几个人，他们全笑了；但他们一笑，我就打住。人家这么痛苦的事儿你还笑，叫人家什么滋味？可是有人居然笑出泪来！把我气得肺要炸了！你能不笑是吧，好，我讲了——\n\n1964年秋天的一个夜里，我做了一个非常可怕的梦，梦见一大群恶鬼用舌头舔我的脑袋，那些舌头各种各样的颜色，有蓝的、红的、绿的、紫的，还有的花里胡哨，全都闪闪发光，古怪极了。我迷迷糊糊地想，它们怎么舔我的脑壳，我的头发呢？我忽然大叫一声醒过来。我身边的丈夫也被惊醒。他打开台灯，睁大眼看我的神气就像见了鬼！他手指我的脑袋竟然说不出话来，我抬手一摸，好像摸到一个西瓜，光溜溜，又圆又硬，成了大秃头，我的头发哪里去了？我们几乎同时发现，我满头的黑发一根不少，全在枕头上。我们傻了！忽然想起从小就听过的一个离奇又吓人的词儿——鬼剃头！这回叫我轮上了！\n\n我抱着脑袋大哭起来。如果你要见过我原先的一头乌黑漂亮的秀发，保准会惊奇、羡慕、叫好！我敢说，这世界上没有几个人能和我比一比头发，无论是中国人还是外国人。我丈夫都承认，他是从这头发才爱上我的。还有，我家周围的那几家理发店，我去理发他们从来都不要钱，它们求着我去做新发型的模特儿呢！我不像一些女人，天姿不够，只能涂脂抹粉，靠化妆品；我就凭这一头天然漂亮的头发，“走遍天下”！可是这一来，我比那些头发最糟的女人们还要糟，我的脑袋光秃秃像个鸡蛋，怎么出门见人？这对于一个年轻爱美的女人差不多像宣判了死刑。\n\n我丈夫甚至比我还急。他找了无数名医给我看病。各种各样的药片都吃遍了，各种各样的煎药味儿也闻遍了。我看过您《神鞭》中写的“老佛爷的生发散”对吧！这些祖传秘方我都使过。但是鬼剃头的脑袋好比瓷壶一样极其顽固，硬是根毛不长…",
           "link": "https://www.douban.com/group/topic/227344003/",
           "publishedOn": "2021-05-23T17:03:56.000Z",
-          "wordCount": 130,
+          "wordCount": 129,
           "title": "《鬼剃头》冯骥才"
         },
         {
@@ -297,7 +315,7 @@
           "description": "孙女和她男友吵架了，跑回来跟我哭诉，问她原因，她就说三观不合。我没有多问，给她收拾好房间，我就回屋睡下了，但一直都没有睡着。\n三观不合，这几个字让我想到了自己，也想到了一位德国老太太。\n1990年我和几个同事去以色列考察农业，期间在耶路撒冷的酒店休憩了一晚，我进到房间就累趴下了。大约晚上9点的光景，我饿醒过来，就洗了个澡，下楼去找点吃的。\n酒店大堂有一个西餐区，座位都空着。我挑了个位置坐下，要了一份西餐。我看着这份西餐，甚是想念家乡的菜肴，没有马上动手，这个举动引来了一位老太太。她用蹩脚的英语问我，我是不是基督徒。\n这老太太满脸皱纹，我有点被吓到。就清了下嗓子，回答了她，不是。\n她看上去有一点失望，指了指我对面，我也不好拒绝，就让她坐下了。我小心的吃着自己的西餐，她就主动的和我攀谈起来，说起了自己的故事。\n1942年，是纳粹统治德国的第9年，德国青年在希特勒的号召之下，前赴后继。她当时已经是两个孩子的妈妈，但还是希望丈夫能够上前线，为国杀敌。丈夫体弱，本就不赞成战争，她就天天辱骂他性虐他，终于把他逼上了战场。谁想他出去没几个月，有一天夜里突然回来了。她让他进门，下意识的问了他一句，仗打完了？他结巴着说临时有事就回来了。她一听就知道他是私自逃回来的，他是个逃兵。\n她是不会让一个逃兵躲到自己家里的，她极力阻拦他。两个人都怕事情闹大，就转到附近的山林里。他过于疲累，情绪也已经崩溃，就跪在地上求她。她当时看着他的脸，厌恶至极，心里只有一个想法：为了国家，举报他！她转身就走，毅然决然。他吓得瘫倒在地，尔后起身去追她，两个人扭打了起来。她气愤至极，抢过枪，用枪托狠狠地砸了他两下，他竟死了。她当时害怕，当即就把他埋了，自己躲回了家。\n惴惴了两日之后，她就释然了，甚至痛恨起来。她再次回到山林里，在埋尸体的地方种了一棵血橙。她当时认为，这个男人生前胆小，没有为德国效力，死后，也不配就这么占用德国的土地。她要把他的身体充当肥料，种植水果，奉献给活着的德国人。\n我听到这里，心里好寒，感觉背上的旧伤都要发作了。\n1945年，血橙终于成熟了，纳粹也战败了。整个德国都崩溃了，整个德国都要重来，她也是一样。她向政府承认了杀害行为，和他们一起去山林里砍掉血橙树，挖掘丈夫的尸体，却什么也没有挖到。政府认为她疯了，把她的丈夫当成了战地失踪人员。\n她不能相信眼前的事实，难道他根本就没有回来过吗？不，她明明记得他下跪哭泣的脸。那他去哪了呢？他长成了树？她抱着一筐血橙回了家，本来想埋到墓地，孩子们嘴馋，竟背着她把血橙吃光了……之后了两年她睡不着觉，总觉得有人在敲门，直到皈依了基督。\n耶稣是33岁时受难复活，在耶路撒冷。她丈夫死的时候，也是33岁。他生性善良，厌恶战争，就像耶稣一样。她想他可能是复活了，去了耶路撒冷。于是，德国和以色列建交之后，她每年都来耶路撒冷找他。\n做为一个唯物主义者，我是不相信复活这种说法的。纳粹德国的特务臭名昭著，兴许她当时刚离开，尸体就被特务转运走了……不过她那么想，也是人之常情。动荡的年代留给我们的不仅只有回忆，还有常年的余震。要活着，就要给自己一个说法，哪怕它是不科学的。\n她又接着说：找了这么多年，也找成习惯了。有一天夜里我突然想到了一种可能，他会不会早就化身成了一个犹太人，为德国赎罪于这片土地呢？\n我当即就怔住了。持有这种夹杂着情感的、宗教的和认知的复杂想法，是在无尽的痛苦中努力的翻找着点滴的安慰。我对我爱人又何尝不是呢？\n如今，我唯一能够唏嘘的，也就是感叹人这一生，有多么不易。\n\n欢迎查看个人主页",
           "link": "https://www.douban.com/group/topic/227163705/",
           "publishedOn": "2021-05-22T10:38:41.000Z",
-          "wordCount": 105,
+          "wordCount": 104,
           "title": "血橙｜凡所"
         },
         {
@@ -306,7 +324,7 @@
           "description": "经典往事——小说三题            金弢\n题一： 《叶儿》 弘扬知恩图报\n题二： 《老黄》 倡首人间有爱\n题三： 《二叔》 今版忆苦思甜\n一、 叶儿\n作者按：“知识青年到农村去，到边疆去！广阔天地，大有作为！祖国在召唤，人民在召唤”……一九七四年，年届十八的金弢，于杭州外国语学校高中毕业。为响应祖国人民的召唤，打起背包，告别父母，离弃城市，来到浙江、桐庐、儒桥村插队落户，接受贫下中农的再教育，与当地农民同吃、同住、同劳动，打成一片，为时三年，直至文革结束，一九七七年考入北外。\n小说《叶儿》是作者为纪念不曾忘却的知青生活，为思念朝夕相处的山村社员，为怀念与之休戚与共的儒桥村而作......\n叶儿幼小丧父，与娘相依为命，孤儿寡母，度日惟艰。但叶儿天资聪颖，长得浓眉大眼，直鼻方口，两耳垂肩，村里人都说他生有一副天子相。为母闻之虽觉听得顺耳，但心想这只是村里人说说好听话而已。\n一日，叶儿放学回家告诉母亲，说他今天路过村庙门口，泥塑菩萨站了起来。为母骂儿子胡说八道，看花了眼。次日，儿子回家又跟母亲说：\n“我不是骗你，是真的，今天菩萨又站了起来。不信，你就跟我去看。”\n母亲将信将疑，一把抓起做女工的剪子，随儿子而去。快到村庙时，母亲喝住儿子：“你先别过来，在这里等着，我叫你你再过来。”\n母亲转身进了村庙，把剪子搁在菩萨盘坐的泥腿上，然后退出庙门招呼儿子过来。没想到儿子刚走到庙门口，搁在菩萨腿上的剪子霍然落地。母亲一下子明白了儿子果真是天子命。他生有一双慧眼，能看到常人看不到的东西，村里人的话没错。母亲顿时感激涕零，一把揪过儿子，卟嗵一起跪在菩萨面前，口中不停地喊道：“菩萨有眼，大慈大悲，大德大福！”\n回家后，母亲心想，这定是他爸前世的造化。一边给儿子做饭，一边想着：自男人走后，村里张家、李家、三叔、五婶的时有接济。儿子将来有了出息，得办酒请客，好好报答人家。想到此，她不禁喃喃自…",
           "link": "https://www.douban.com/group/topic/226950795/",
           "publishedOn": "2021-05-20T21:03:10.000Z",
-          "wordCount": 141,
+          "wordCount": 140,
           "title": "金弢——经典往事，小说三题"
         },
         {
@@ -315,17 +333,8 @@
           "description": "",
           "link": "https://www.douban.com/group/topic/224741570/",
           "publishedOn": "2021-05-06T15:14:14.000Z",
-          "wordCount": 116,
+          "wordCount": 115,
           "title": "茅盾文学奖的获奖作品也要被拿来拍剧了……女主暂定的刘存浩..本人刚看完悬崖之上觉得不可"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/224673672/",
-          "author": "双亿齐飞",
-          "description": "这面墙，以墙为北作为方位，那它就位于房间的右方，东侧。\n这面墙是白色的，我试着用一个更有内涵的词语来形容它，比如“洁白，雪白，靓白”等等，但是想来想去都不对，要么是这些词形容不了，要么是这面墙不值得这些骄傲的词汇的光临。它无可奈何但又好像恰到好处的只能用“白”来形容。这面墙除了白一无所有，但却又给人一种应有尽有的感觉，你仿佛能听见它高傲的呼喊，让你觉得当年盘古挥动着宝剑劈开天地时第一个掉落在地球的就是“白”了，有了它，才有了其他一切的缤纷多彩。\n  墙面与另一个墙面的夹角处立着一个开关盒，线路从墙面绕上天花，最后落在盘旋在半空的亮色吊灯上，尽管盒子已经被一个很有大局观的涂料师傅被涂成了与墙面尽户一致的白色，但还是难以掩盖它的突兀。客观存在击败了主观想法。走近一点，盒面上时间的灰尘与墙面脱落散下的粉尘交杂在一起，创造出了一个还没有被文字定义的颜色，我想是因为它太普通了，普通的能自然的消失在了“颜色发明人”的沙漏里，普通的让人觉得把这种“普通”写下来好像一种错误。天花的吊灯周围，几只飞蛾拍打着“倒扣碗”状的灯套，从那碰撞的声音你能扑捉到它们很着急的样子，有恳求，有责怪。还有那对于炙热的光芒的追求，它们执着着，等待着，终于，房间的主人用那把已经爬上了铁锈的钥匙打开了房门，踢踏踢踏的脚步声穿过了客厅，直奔这间房子而来，虚掩的房门客资客资的往后退让，一个人影夹杂着些许光亮透了进来，他右手抓着门的边沿，在门打开的宽度足够他侧身绕进来的时候，果断的制止了还想继续后退的门，侧身进来以后，有意无意的顺手往回撩了了一下门把手，又将房门合拢到了最初的模样。主人的呼吸给这个房间更加承重的生命，他摆动着裹在黑色棉裤里的修长的腿走到，或者更确切的是挪动到了房子的中央，因为在他的左腿第二次跨出去的时候他发现好像里对面的墙面太尽了，于是他又收回了半步，只用了两步半就完成了他的想法，头顶上方被翅膀扰乱的空气…",
-          "link": "https://www.douban.com/group/topic/224673672/",
-          "publishedOn": "2021-05-06T01:53:48.000Z",
-          "wordCount": 113,
-          "title": "布鲁斯凯威（白墙）"
         },
         {
           "id": "https://www.douban.com/group/topic/224609180/",
@@ -333,7 +342,7 @@
           "description": "“啊，混帐，又被整了。”\n　　诚一咂咂嘴。从公司回来，脱下西服一看，上面被人贴了纸片。纸片上写着这样的话：\n　　“包办一切！你的烦恼，我来解决。从庭院扫除到保镖。请跟我联系。”\n　　“到底是谁，搞这种恶作剧。”\n　　他十分愤慨。这已经是第三次了。在从公司回寓所的路上，不知被谁贴了这张纸片。难道是在乘电车的时候吗？还是在车站前等候信号的时候。不管怎么说都让人生气。\n　　最近，这种手法的恶作剧多了起来，街上经常能够看到被贴了这种纸片的人。从后面看到这样的纸片，笑着说“眼不见心不烦”之类的话的诚一，自己也没有例外地遭此厄运。\n　　世上还真有做这些无聊事的家伙。\n　　几天后的一个傍晚，在从车站回家的路上，有人从后面把诚一叫住。回头一看，叫住自己的人是位年轻女性。\n　　“是这样的，我有一件难事，请你务必要帮帮我。”\n　　“哎！怎么回事，我一点也……”\n　　“哎呀，可是，你。”\n　　女子用手指了指诚一的后背。\n　　“啊，难道？”\n　　诚一慌忙脱下西服。西服上贴着与以往相同的纸贴。\n　　“是这么回事。”\n　　刚一开口，诚一改变了主意。对方看上去是个大美人。能稍微聊上几句也不错。诚一揭下纸贴塞进口袋，同女子进了附近的咖啡馆。\n　　困扰女子的问题是这样的。现在，有个男的提出跟她交往，而她对此没有一点兴趣。她想让诚一帮他想一个能巧妙拒绝对方的好办法。\n　　“这种事容易得很。”\n　　诚一火速与女子一起去了男子的家。然后大声说出我要和她结婚了，你别找麻烦这样的话。对方好像屈服了，什么也没说。\n　　“谢谢！多亏了你，那个人大概不会再缠着我了。你帮了我的大忙。”\n　　“是吗，有为难的事请随时给我来电话。”\n　　诚一在贴纸的背面写上自己寓所的电话号码交给了女子。\n　　女子屡次给诚一打来电话。她的请求，或者是帮忙搬家，或者是给从乡下来的父母做东京的向导，或者是打扫房间、准备饭什么的。诚一每次都欣然接受。毕…",
           "link": "https://www.douban.com/group/topic/224609180/",
           "publishedOn": "2021-05-05T18:03:16.000Z",
-          "wordCount": 173,
+          "wordCount": 172,
           "title": "《包办一切》村田浩一"
         },
         {
@@ -342,17 +351,8 @@
           "description": "大约一个月前，我开始学钢琴。\n　　当然，我知道从二十岁才开始学钢琴无论怎么说都是太晚了。可是不管怎么说我就是想学。\n　　许多朋友听说我要学钢琴都瞪大了眼睛，其中有几个朋友赞扬我的行动力，也有几个朋友一本正经地说我是个怪人。\n　　“学钢琴？你认真的？”\n　　一个朋友这样对我说。我默默地点了点头。\n　　“为什么突然要学？”\n　　“想给大学时代留下一点什么。能证明自己那时的确曾经认真地生活过。”\n　　“噢。”\n　　“你怎么看，我这么做……”\n　　“太老派了。”\n　　他不屑一顾地说。\n　　然而事实并非如此。在大学时代留下点什么，这种高尚的理由我在决定去学钢琴前根本没想过。\n　　事实是这样的。\n　　我现在在某大学的工程系上学。学工程的女生少自不必说了。人数少也就罢了，好女生更是少之又少。所以，我在学校的教室里极少跟女生说话。\n　　在质和量都匮乏的工程系女生中，只有一名是非常出色的女生，她的确很出色。她似乎是把少年们永远的梦想集于一身的女孩。 我们私下里称她为“公主”。\n　　在一个星期五的下午，我上完课以后正往书包里收拾笔记和教科书的时候，公主”走过来了，她在我旁边的椅子上坐下来。\n　　“哎，今天有空吗？”\n　　“公主”认真地注视着我，对我说。当然，与“公主”说话这是第一次。\n　　“有话想跟你说。陪我去咖啡馆什么的坐坐好吗？”\n　　面对这突如其来的事件，我的心剧烈地跳动。可是，虽然心里充满和她约会的冲动，嘴上却淡淡地回答说：\n　　“啊，对不起，我今天有钢琴课。”\n　　——对不起， 今天有钢琴课……\n　　也就是说为了这个借口，自己才学的钢琴。\n　　然而，“公主”始终没有再请我去咖啡馆了。\n　　我已经快学完《成人钢琴教程》第二十课了。\nピアノ\n針村譲司\n　ほんの一ヵ月前、僕はピアノを習い始めた。\n　もちろん二十歳からピアノを始めるのは何が何でも遅すぎることくらい、僕にも良く解っていた。でも僕はどうしてもピアノを習いたかった。\n　多くの友達は、僕がピアノを習うことに対して文字通り目を丸くし、何人は僕の行動力を褒め、何人かは僕のことを本気でおかしな奴だと言った。\n　「マジでおまえピアノ始めんのかよ」\n　ある友達が僕に向かってそう言った。僕は黙って肯いた。\n　「どうして急に？」\n　「大学時代に何かを残したくなったんだ。確かに僕はあの頃を一生懸命生きていたっていう何かをね」\n　「ふうん」\n　「どう思う？こういうの」\n　「はやらないよ」\n　彼はつまらなそうにそう言った。\n　でも本当は違った。僕は決して大学時代に何かを残したいとか、そういった高尚な理由でピアノを習いたいと思ったわけではなかった。\n　つまりはこういうことだ。\n　僕は今、ある大学の工学部に通っている。当然ながら工学部に女の子は少ない。数が少ないだけならまだしも、質だって相当なものだ。よって、僕は滅多に教室で女の子と話をすることがない。\n　そんな量質共に恵まれない工学部の女性陣の中にも、たったひとりだけとびきりの女の子がいた。彼女は本当にとびきりだった。少年たちの永遠の夢をひとりで引き受けたみたいな女の子だった。僕らは彼女のことを密かに「姫」と呼んでいた。\n　ある金曜日の午後、僕が最後の授業を終えてノートや教科書を鞄の中にしまっていると、姫が僕の所までやってきて隣の席に座る。\n　「ねぇ、今日これから暇？」\n　姫は目をパチパチさせながら僕に向かってそう言う。もちろん姫と話すのはこれが初めてだ。\n　「少しお話ししたいことがあるんだけれど。喫茶店かどこかで。つきあってくれない？」\n　僕は突然のことに心踊らせる。しかし、彼女とデートしたいという衝動に駆られながらも、僕はあっさりこう答える。\n　「あ、ごめん。今日ピアノなんだ」\n　 ーーごめん、今日ピアノなんだ…\n　つまり、このセリフを言うために僕は今、ピアノを習っているのである。\n　しかし、いつまでたっても姫は僕を喫茶店に誘ってはくれない。\n　僕はすでに「大人のためのバイエル」の二十番を終えようとしている。",
           "link": "https://www.douban.com/group/topic/224593546/",
           "publishedOn": "2021-05-05T16:18:03.000Z",
-          "wordCount": 260,
+          "wordCount": 270,
           "title": "《钢琴》针村让司"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/223929074/",
-          "author": "舌长绕地球三圈",
-          "description": "除了上班，就是刷手机。并没有追剧，或者综艺。纯粹是无聊杀时间。也就是豆瓣微博上来回跑。明知道无益，可是看不下去书。\n然后前几年是读了不少书的，可是很快就忘得差不多了。所以更没欲望读😕",
-          "link": "https://www.douban.com/group/topic/223929074/",
-          "publishedOn": "2021-05-01T02:15:06.000Z",
-          "wordCount": 414,
-          "title": "越来越浮躁，看不进去书，怎么破？"
         }
       ]
     },
@@ -361,6 +361,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw",
       "siteUrl": "https://www.youtube.com/channel/UCCKlp1JI9Yg3-cUjKPdD3mw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_UbDhNDraVQ",
+          "author": null,
+          "description": "超软蜂蜜小面包 dinner rolls. 不管是西餐的面包还是中餐的烙饼，如果想要软的口感呢，最直接的办法就是增加水的用量。但是水量太大，面团不成型，你没有办法操作整形。所以在你自己可以承受的范围内最大量的加水。这个食谱用的是80%的含水量。算是含水比较多，但不是最多，90%，100%都可以烤面包。对湿面团不太...",
+          "link": "https://www.youtube.com/watch?v=_UbDhNDraVQ",
+          "publishedOn": "2021-05-30T00:35:03.000Z",
+          "wordCount": 16,
+          "title": "超软蜂蜜面包 Soft Dinner Rolls"
+        },
         {
           "id": "https://www.youtube.com/watch?v=Exw7vHVWLbo",
           "author": null,
@@ -382,5 +391,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }

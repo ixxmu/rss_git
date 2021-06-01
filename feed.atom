@@ -1,10 +1,238 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T11:54:50.995Z</id>
+    <id>urn:2021-06-01T11:25:01.949Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T11:54:50.995Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-01T11:25:01.950Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[多个基因的相关性如何分析与展示？]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/930</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/930"/>
+        <updated>2021-06-01T11:20:29.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/Lk-yBGN8vm_K6GtLJXRW4A]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《闪光的生命》柳文扬]]></title>
+        <id>https://www.douban.com/group/topic/228606056/</id>
+        <link href="https://www.douban.com/group/topic/228606056/"/>
+        <updated>2021-06-01T00:56:29.000Z</updated>
+        <summary type="html"><![CDATA[闪光的生命
+柳文扬
+
+　　　　　　　一
+　　刘洋最近一直在埋怨：干嘛不让我早一点碰到雷冰？大学五年里有的是机会嘛
+。偏偏是在毕业设计最紧张的时候，偏偏那一天去计算机中心，偏偏雷冰坐在机房
+里──她那么好看！连她的眼镜都好看！还有头发，还有衣服，还有她安安静静坐
+着的样子。
+　　如果不是毕业设计，刘洋想，那我就天天泡在机房里陪她。可是现在，我只能
+窝在小实验室造苹果。
+　　他在屋里慢慢地转圈，在他脚步所划的大圆圈里，有一张沙发椅，一个实验台
+，一台奇型怪状的仪器──叫做复制槽，摆成个三角形。实验台上放着一只又红又
+大的苹果，完美无缺，现在它是刘洋单相思病的唯一见证了。复制槽那边咝咝作响
+，正在对苹果进行全息扫描。这就是他的毕业设计课题。
+　　刘洋眼瞪着苹果，脚下绕着圈子，心想：今儿晚上去看她，找什么借口呢？他
+在事先总爱一个人演习一番──但基本上不能用于实战。
+　　我应该用含蓄的语言赞美她，同时，深情地凝望（但不可过于肉麻）。他自言
+自语：我就说，又漂亮、又聪明、又有个性的女孩子真是太少啦，最近我倒发现一
+个。她要问，那是谁？──等一下，她也许不问呢？我看她肯定不问。那我不是自
+讨没趣吗。我这么说，你歇一会儿，我讲个故事？不行，她不会听，就是想听也装
+作不爱听。那我就硬讲，把她逗笑为止。我马上夸她：你笑容好动人！她万一不笑
+呢？我就是说，你板着脸的样子好动人！──是否贱了一点？
+　　正自个儿瞎念叨，蜂鸣器响了。刘洋走到复制槽边，拉开盖子，里面有一个大
+红苹果：它是照原样复制的，从外到里，连滋味都是一模一样。
+　　刘洋笑了，是那种心怀叵测的笑。他有主意了！
+　　在温柔的夜晚，一位美少年，面带微笑（穿着最亮的皮鞋），手捧苹果，送到
+姑娘窗下。这是多么浪漫动人的情景！虽然雷冰的窗子在九层楼。
+　　浪漫是要有代价的。从实验大楼到计算机楼很远，而且，计算机楼的电梯和往
+常一样，就是说又…]]></summary>
+        <author>
+            <name>R君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R选择速度最快的镜像]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/929</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/929"/>
+        <updated>2021-05-31T02:49:58.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/UJ3S2bFYASG9P4xBWDLQQg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z-score并不会影响很多统计学算法的结果]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/928</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/928"/>
+        <updated>2021-05-31T02:46:53.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/SWJA7wKTAS46YkB5UXC5Xw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RNA-seq中的那些统计学问题——FPKM/RPKM之外的那些标准化方法]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/927</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/927"/>
+        <updated>2021-05-31T02:33:11.000Z</updated>
+        <summary type="html"><![CDATA[https://zhuanlan.zhihu.com/p/69439825]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人人都要会的转录组(RNA-seq)下游分析.]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/926</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/926"/>
+        <updated>2021-05-31T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[https://zhuanlan.zhihu.com/p/77901431]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在自己写的短篇小说都能到哪里投稿呀?]]></title>
+        <id>https://www.douban.com/group/topic/228382769/</id>
+        <link href="https://www.douban.com/group/topic/228382769/"/>
+        <updated>2021-05-30T16:43:45.000Z</updated>
+        <summary type="html"><![CDATA[请教高人指点。谢谢！]]></summary>
+        <author>
+            <name>Jodie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超软蜂蜜面包 Soft Dinner Rolls]]></title>
+        <id>https://www.youtube.com/watch?v=_UbDhNDraVQ</id>
+        <link href="https://www.youtube.com/watch?v=_UbDhNDraVQ"/>
+        <updated>2021-05-30T00:35:03.000Z</updated>
+        <summary type="html"><![CDATA[超软蜂蜜小面包 dinner rolls. 不管是西餐的面包还是中餐的烙饼，如果想要软的口感呢，最直接的办法就是增加水的用量。但是水量太大，面团不成型，你没有办法操作整形。所以在你自己可以承受的范围内最大量的加水。这个食谱用的是80%的含水量。算是含水比较多，但不是最多，90%，100%都可以烤面包。对湿面团不太...]]></summary>
+        <author>
+            <name>小高姐的 Magic Ingredients</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8秒完成2万个基因的生存分析，人人都可以！]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/925</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/925"/>
+        <updated>2021-05-28T04:00:05.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/o4e1HzG4zPIQoGT6-7D0ug]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GEO芯片分析的倒数第2个关卡被没有了。。]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/924</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/924"/>
+        <updated>2021-05-28T03:58:05.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/X8rUnEasKy3Dk-EoUAvC2A]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次性查询对应的R推文]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/923</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/923"/>
+        <updated>2021-05-28T03:58:00.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ku14d7xG4fFvSPsFKmU2Wg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次性查询对应的R推文]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/922</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/922"/>
+        <updated>2021-05-28T03:57:50.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ku14d7xG4fFvSPsFKmU2Wg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次性查询对应的R推文]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/921</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/921"/>
+        <updated>2021-05-28T02:10:03.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ku14d7xG4fFvSPsFKmU2Wg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是目前我见过最全的ggplot2整理内容了]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/920</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/920"/>
+        <updated>2021-05-28T02:03:42.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/yVsQvkmU2Ol04GnPHZrxSg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发自己的dashboard]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/919</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/919"/>
+        <updated>2021-05-28T01:57:24.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/NaMGWwXxz-45Y9FJ-dOEyg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开机，写bug]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/918</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/918"/>
+        <updated>2021-05-27T07:57:57.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/tZYRW0qVIWOyYC77aZkxLA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反向推理TCGA生存分析使用的仅仅是肿瘤样品]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/917</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/917"/>
+        <updated>2021-05-27T07:57:27.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/fxg6dwwlW7FGA0ltD9VmFw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021第一期生信入门微信群答疑精选200题]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/916</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/916"/>
+        <updated>2021-05-27T07:57:18.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/qtNzBw_NKvLeZDeVXTFSQQ]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这50个ggplot2现成图表你居然没有从头到尾自己画一遍]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/915</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/915"/>
+        <updated>2021-05-27T07:56:12.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ohRSb5FKcAuPY9x3zVXrvA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单细胞转录组的batch effect的去除]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/914</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/914"/>
+        <updated>2021-05-26T22:58:24.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/g-R5ln5Q_XGEeTwAKm0ktw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最惨的万达金街在郑州！]]></title>
         <id>https://github.com/ixxmu/mp_duty/issues/913</id>
@@ -182,36 +410,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[纯生信单细胞数据挖掘-全代码放送]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/900</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/900"/>
-        <updated>2021-05-22T04:42:39.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/TmWfw1FBwx8LV1PI7_mDPg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真的，要征房地产税了…吗？]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/899</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/899"/>
-        <updated>2021-05-21T14:09:29.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/6RQ-bGpfQBK90lKju1vR5A]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R语言数据可视化绘图合集]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/898</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/898"/>
-        <updated>2021-05-21T03:08:26.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/jgQioBKHHUq3oNwGQSGAGw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[金弢——经典往事，小说三题]]></title>
         <id>https://www.douban.com/group/topic/226950795/</id>
         <link href="https://www.douban.com/group/topic/226950795/"/>
@@ -234,126 +432,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[R可视乎|用R给心仪的对象表白吧]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/897</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/897"/>
-        <updated>2021-05-20T10:14:07.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/JJT9hK7eOi-PQmdGRv1gxg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用lasso回归构建生存模型+ROC曲线绘制]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/896</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/896"/>
-        <updated>2021-05-20T06:50:38.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/LCu0gtLGfy--E8mYXJaKuw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCGA数据库构建生存预测模型之lasso回归]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/895</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/895"/>
-        <updated>2021-05-20T06:49:19.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/a-Y_DuW68ULMdTBRRbAq5w]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楼市全面进入比烂时代！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/894</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/894"/>
-        <updated>2021-05-20T05:32:25.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/jUdMdy2xtgVITzIrKLSXLg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别催了！你们心心念念的郑州小学学区图来了！！！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/893</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/893"/>
-        <updated>2021-05-19T11:13:13.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/7kfFsgPZgk9Yiz34uH-Y-Q]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工具篇 | 这个R包，让你迅速提升SCI文章的逼格！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/892</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/892"/>
-        <updated>2021-05-19T09:31:39.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/RgM2l2OXXdTgJSYXFni4JA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双阈值的火山图]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/891</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/891"/>
-        <updated>2021-05-19T09:11:01.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ZWY1XTpEhkqm2XHLGXuvgA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多发性骨髓瘤发展过程中肿瘤和免疫细胞的共同进化]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/890</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/890"/>
-        <updated>2021-05-19T04:31:45.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/VOcwQ8hAgQqetpKpeHKYpQ]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（重磅！价值一千元的R代码送给你）芯片探针序列的基因组注释]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/889</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/889"/>
-        <updated>2021-05-18T09:52:08.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/mrtjpN8yDKUdCSvSUuUwcA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何让基因名称在多个数据库间随意转换？]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/887</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/887"/>
-        <updated>2021-05-18T06:59:09.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/wsiceQmNVveoggiqeDSlmQ]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GEO芯片中配对样本如何做差异分析]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/886</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/886"/>
-        <updated>2021-05-17T08:38:21.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/tz0CsJDumvnzY8WLqvoT-A]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任意细胞亚群的差异分析]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/885</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/885"/>
-        <updated>2021-05-17T04:58:32.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/wZBCtHSFPKRIKOAVKKPOhA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[丹麦吐司 Croissant Loaf]]></title>
         <id>https://www.youtube.com/watch?v=Exw7vHVWLbo</id>
         <link href="https://www.youtube.com/watch?v=Exw7vHVWLbo"/>
@@ -364,44 +442,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[R 机器学习 | 数据预处理]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/882</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/882"/>
-        <updated>2021-05-16T09:09:42.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ib5hvgZwMq8mbC4zd9QE-Q]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[均价15000，我却找到了全市最靠谱的学区房]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/881</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/881"/>
-        <updated>2021-05-15T14:38:31.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/bVnZ9IipbTiEcgWM3Ch5iw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[茅盾文学奖的获奖作品也要被拿来拍剧了……女主暂定的刘存浩..本人刚看完悬崖之上觉得不可]]></title>
         <id>https://www.douban.com/group/topic/224741570/</id>
         <link href="https://www.douban.com/group/topic/224741570/"/>
         <updated>2021-05-06T15:14:14.000Z</updated>
         <author>
             <name>剑宗念奴娇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布鲁斯凯威（白墙）]]></title>
-        <id>https://www.douban.com/group/topic/224673672/</id>
-        <link href="https://www.douban.com/group/topic/224673672/"/>
-        <updated>2021-05-06T01:53:48.000Z</updated>
-        <summary type="html"><![CDATA[这面墙，以墙为北作为方位，那它就位于房间的右方，东侧。
-这面墙是白色的，我试着用一个更有内涵的词语来形容它，比如“洁白，雪白，靓白”等等，但是想来想去都不对，要么是这些词形容不了，要么是这面墙不值得这些骄傲的词汇的光临。它无可奈何但又好像恰到好处的只能用“白”来形容。这面墙除了白一无所有，但却又给人一种应有尽有的感觉，你仿佛能听见它高傲的呼喊，让你觉得当年盘古挥动着宝剑劈开天地时第一个掉落在地球的就是“白”了，有了它，才有了其他一切的缤纷多彩。
-  墙面与另一个墙面的夹角处立着一个开关盒，线路从墙面绕上天花，最后落在盘旋在半空的亮色吊灯上，尽管盒子已经被一个很有大局观的涂料师傅被涂成了与墙面尽户一致的白色，但还是难以掩盖它的突兀。客观存在击败了主观想法。走近一点，盒面上时间的灰尘与墙面脱落散下的粉尘交杂在一起，创造出了一个还没有被文字定义的颜色，我想是因为它太普通了，普通的能自然的消失在了“颜色发明人”的沙漏里，普通的让人觉得把这种“普通”写下来好像一种错误。天花的吊灯周围，几只飞蛾拍打着“倒扣碗”状的灯套，从那碰撞的声音你能扑捉到它们很着急的样子，有恳求，有责怪。还有那对于炙热的光芒的追求，它们执着着，等待着，终于，房间的主人用那把已经爬上了铁锈的钥匙打开了房门，踢踏踢踏的脚步声穿过了客厅，直奔这间房子而来，虚掩的房门客资客资的往后退让，一个人影夹杂着些许光亮透了进来，他右手抓着门的边沿，在门打开的宽度足够他侧身绕进来的时候，果断的制止了还想继续后退的门，侧身进来以后，有意无意的顺手往回撩了了一下门把手，又将房门合拢到了最初的模样。主人的呼吸给这个房间更加承重的生命，他摆动着裹在黑色棉裤里的修长的腿走到，或者更确切的是挪动到了房子的中央，因为在他的左腿第二次跨出去的时候他发现好像里对面的墙面太尽了，于是他又收回了半步，只用了两步半就完成了他的想法，头顶上方被翅膀扰乱的空气…]]></summary>
-        <author>
-            <name>双亿齐飞</name>
         </author>
     </entry>
     <entry>
@@ -505,17 +551,6 @@
         <summary type="html"><![CDATA[红烧牛仔骨算是一个炖菜。它通过慢炖或者高压锅高压炖煮使牛肉变得软嫩，特别是牛骨头周围的筋络组织。像这样慢炖的菜，购买普通新鲜的牛仔骨就好，不需要买那种品质特别高，价格特别昂贵，油花分布特别均匀的牛仔骨。油花分布均匀的牛仔骨和牛排一样更适合快煎，或者火烤。品质高，油花多的牛仔骨，煎烤之后，两面焦黄，内部油脂刚刚处在...]]></summary>
         <author>
             <name>小高姐的 Magic Ingredients</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越来越浮躁，看不进去书，怎么破？]]></title>
-        <id>https://www.douban.com/group/topic/223929074/</id>
-        <link href="https://www.douban.com/group/topic/223929074/"/>
-        <updated>2021-05-01T02:15:06.000Z</updated>
-        <summary type="html"><![CDATA[除了上班，就是刷手机。并没有追剧，或者综艺。纯粹是无聊杀时间。也就是豆瓣微博上来回跑。明知道无益，可是看不下去书。
-然后前几年是读了不少书的，可是很快就忘得差不多了。所以更没欲望读😕]]></summary>
-        <author>
-            <name>舌长绕地球三圈</name>
         </author>
     </entry>
 </feed>
