@@ -1,10 +1,776 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T11:20:10.161Z</id>
+    <id>urn:2021-06-11T04:39:38.791Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T11:20:10.161Z</updated>
+    <updated>2021-06-11T04:39:38.791Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[对细胞簇重命名]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/959</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/959"/>
+        <updated>2021-06-11T04:35:43.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ZVWuYGkj3eo_IvicgubVgw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seurat Weekly NO.17 || 一个R包的CNS之路]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/958</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/958"/>
+        <updated>2021-06-10T15:41:59.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/EfItAB6yHmsyPr_XrKcxEA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[课后笔记：ggplot2优雅的显示WB结果]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/957</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/957"/>
+        <updated>2021-06-10T09:56:44.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/M2ohRUneO9vaEmnAdaR8vw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好好的表格被放进了pdf，肿么办]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/956</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/956"/>
+        <updated>2021-06-10T04:40:28.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/6nbRvio01unhMdEbzXukHw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《衣钵》—田耳]]></title>
+        <id>https://www.douban.com/group/topic/229976560/</id>
+        <link href="https://www.douban.com/group/topic/229976560/"/>
+        <updated>2021-06-10T00:42:37.000Z</updated>
+        <summary type="html"><![CDATA[仪式前一天的晚上，李可坐在一座山与另一座山中间，能吹进大量的风，通常叫做垭口的地方。他家的晒烟棚子建在那里，石头垒的，他记得很小时候他和父亲在这里连续干了五天，一座小巧并算得上精致的房子就冒出来了。从那时起，他相信父亲是无所不能的，父亲不仅是个道士，他远远不止是个道士。现在，父亲显然在虚弱，在衰老。晚上已经开始了，李可看见自己的父亲操起巨大的艾香，驱赶起蚊虫。也许是父亲的职业使然，李可老也觉得他每个动作都像在祭祀。香火舞动的迹线是很熟悉的，父亲走动的步幅是很熟悉的，很快地，这种弥漫着香火气息的环境也是很熟悉的。这么多年来，每当李可和父亲在一起不言不语的时候，他便能感觉到祭祀般的神圣。
+　　李可是一个道士的儿子。前些年这是个令李可尽量回避的事实，可是到了这一天，他早就不这样想了。明天就是为李可而举行的仪式，他知道很多年前父亲就是经过这一环节而成为一个道士，一个在乡间最为需要的人物。
+　　烟棚是有两层。底层晒着烟，上层是供人过夜的凉棚。茅草很厚。下面的烟子升了上来，李可知道在以后的生活里面，这种烟雾的味道是经常有的。他扇动鼻翼吸进去了很多。同时他看见在自己的周围有无数微小的飞虫在跌落，就像是转瞬而至的一场细雪。他听见它们砸在泥土上时那种细密的声音。再一抬头，那边远远的山已经被夜色所吞噬。二十岁以后他逐渐理解了父亲的那种说法，夜来的时候，是一只狗慢慢吞掉了一切，所有的东西都会被这狗吞掉。天地间很多不可想像的灾难只不过是一些狗在捣乱，这样的狗那样的狗，无形的狗无体的狗，它们充斥在人眼看不见的地方，但道士有一定修为以后是可以看见它们的是可以降服它们的。父亲认为他毕生的事业是在和一群看不见的狗作斗争。李可很喜欢父亲这种大无畏的见解。一般的道士总是把灾祸看成是妖魔在横行无忌，他们千辛万苦地降妖除魔，要把自己行为渲染得玄之又玄，无比高尚，籍此向别人索要更多的钱财。但父亲不同，他居高临下把别…]]></summary>
+        <author>
+            <name>wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[59匹马的8个组织的长非编码RNA的鉴定]]></title>
+        <id>https://mp.weixin.qq.com/s/Cjve5A8rhOq5FdeXuky0qw</id>
+        <link href="https://mp.weixin.qq.com/s/Cjve5A8rhOq5FdeXuky0qw"/>
+        <updated>2021-06-10T00:05:59.000Z</updated>
+        <summary type="html"><![CDATA[看了看，代码略微有点多，并不适合初学者学习，说明作者自己的思路也是有点混乱的。]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[展示细胞比例变化之桑基图]]></title>
+        <id>https://mp.weixin.qq.com/s/pTD-4MmJ4pqAUuqwpjvu1Q</id>
+        <link href="https://mp.weixin.qq.com/s/pTD-4MmJ4pqAUuqwpjvu1Q"/>
+        <updated>2021-06-10T00:05:59.000Z</updated>
+        <summary type="html"><![CDATA[ggalluvial 可以绘制桑基图，但是它只能是绘制一个框架，这里面的大量的插图都是AI制作和拼接。]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lncRNA组装流程的软件介绍之FastQC]]></title>
+        <id>https://mp.weixin.qq.com/s/uHgomjswlwuzF4ES47K09A</id>
+        <link href="https://mp.weixin.qq.com/s/uHgomjswlwuzF4ES47K09A"/>
+        <updated>2021-06-10T00:05:59.000Z</updated>
+        <summary type="html"><![CDATA[咱们《生信技能树》的B站有一个lncRNA数据分析实战，缺乏配套笔记，所以我们安排了100个lncRNA组装]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lncRNA组装流程的软件介绍之trim-galore]]></title>
+        <id>https://mp.weixin.qq.com/s/n3G_qot5mhB3ZR1gcDnV6g</id>
+        <link href="https://mp.weixin.qq.com/s/n3G_qot5mhB3ZR1gcDnV6g"/>
+        <updated>2021-06-10T00:05:59.000Z</updated>
+        <summary type="html"><![CDATA[咱们《生信技能树》的B站有一个lncRNA数据分析实战，缺乏配套笔记，所以我们安排了100个lncRNA组装]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《红墙》李•科斯蒂]]></title>
+        <id>https://www.douban.com/group/topic/229933268/</id>
+        <link href="https://www.douban.com/group/topic/229933268/"/>
+        <updated>2021-06-09T19:37:29.000Z</updated>
+        <summary type="html"><![CDATA[这个女主人的卧室，是由四面同等宽度直线而上的红墙围成的，这是一种深深的红，被自然风干后的红，褪去了娇艳靓丽的姿态，只剩下干枯和坚韧还屹立不倒，看上去平滑荡漾，当你的手指从上面轻轻划过时，才能触摸到，它表层后面微微隆起的颗粒状的触感，它在感官上阻碍着你的抚摸，抗拒着你的前行，又在心灵深处期待着你的深入。
+  褐色木制的床头紧贴着北面红墙的中间，宽度整整占了这面墙的三分之二，对比这房间，这是一个足够大的床。墙上挂着一副用透明边框保护着的画作，里面住着一头雄狮，它有着一头如向日葵般绽放的鬓毛，微微弓起的脊背，夕阳撒下的倒影，柔情的双眼。寥寥数笔就能满足你对一个雄性动物的所有幻想。但这名出色的画家似乎不仅仅局限与表达这雄伟的画面。它将孤独，恐惧，自由和征服都一一藏进画里，静待着某个失意的人在夜晚回首往事时，一不小心掉进画的深海里。
+   一面薄纱轻轻的躺在床头与墙壁中间，被从窗台溜进来的风时不时的挑逗着，像是一个对着镜子翩翩起舞的姑娘的裙摆，不时的拂起又落下。针织的套枕包裹着雪白的气棉斜躺着，落在床头与床身之间，柔软的，富有弹性的床垫静静的期待着午夜的来临，窗外泛着黄色的老旧路灯弯着腰，忍受着某个得意或者不得意的少年驾驶着它心爱的摩托车轰然驶过，机车发出像老牛的鼻息一样的轰鸣声，像是想要挣脱某种无形的枷锁，道路两旁的残叶被狂野的尾风卷起，奔腾向前，不问原有。
+  女主人走了进来，在这熟悉的房间，她已经不需要用眼睛和大脑去辨别方位了，她的双脚轻声而明确的将她带到了梳妆台前，坐在一张黑皮的低矮的旋转椅上，身后的月光穿过丝绸制的半透明的窗帘照亮了她左半边的身躯，乌黑的头发盘旋而起，白嫩的耳垂上挂着一颗星星状的吊坠，一闪一闪的，像是在回应着月光的呼唤。稍稍露出的侧脸，平静不起波澜，像某片隐世的湖面，只给你一叶扁舟漂浮，让你停留留在想象的世界。    
+     她修身的长裙包裹着全身，紧致无暇，从上往下也找不出一块多余的布料。裙摆下，大腿紧紧的贴在富有弹性的某种动物表皮制成的椅面上，一只小腿向内弯曲着，不时的微微抖动，下意识的展现出了她饱满且富有肌肉线条的小腿肚，脚掌微弓着，大拇指和中指正好从高跟凉鞋的孔洞中钻了出来，像两只得意洋洋，探头探脑的小动物。
+  静谧的空气下，能听到她挺拔的乳房下规律起伏的心跳声，她站起身，精致的项链吊坠随着她上身的摆动微微的荡漾了起来，转动了几圈之后，才在女人轻声的柔抚下平静了下来，像个顽皮的孩子般紧贴着她母亲的皮肤。她将左手凑到月光下，翻转过来端详着，想要找出刚刚使她感到瘙痒的原因，却又无从所获。
+  客厅的大门响起了门锁的转动声，先是笨重的找寻着，然后是清脆的叮咚声，像一直小鱼无知的跳入了猎人的水桶中。承载着一个成年男人全部重量的皮鞋发出与地板瓷砖碰撞的声音，宛如两个重量级的拳击手，谁也不肯低头。女人聆听着，计算着，不知是迎接还是等待。月光下，男子宽阔的身影几乎要将整个房间的门框填满，谁也没有想要将悬挂在天花板中间的吊灯启明的想法。两人的气息在空气中游离，交汇。自然的过滤了暧昧与挑逗的残渣。
+  他们的身躯在床上蠕动着，用力着，抽离着。像两条蟒蛇在水潭里缠绕着，女人散落下来的头发，卷曲的，潮湿的粘黏在她潮红的面部，她的嘴巴张开，急促的尖锐的呼吸着，似乎要将身体里积累的某种顽固的黑暗拔出，夹带着对可能发生的某种未知的疼痛的恐惧，她白静，齐整的两颗门牙不时的在男人的肩头留下齿痕，男人交叉的双臂环绕着女人的双肩，笨重的手指用力的朝里挤压着。他的头埋进女人一侧的秀发中，像吸血鬼般贪婪的吸食着某种能满足他的精气，侧耳边短寸的头发摩挲着微微倒弓着的女人的脖子，留下了斑点般的印红，只有那项链吊坠还静静的贴在她的胸前，感受着快速跳动的心房和不断攀升的体温。男人后背上纹着密密麻麻的不成为的字符，像喝醉了的蚂蚁一样东倒西歪，随着男人的摆动还时不时的交织在一起。裸露在空气中的屁股翘立着，想两个还没有成熟就被人摘下来的斜躺着的柚子。女人的左腿紧紧的勾住男人的右大腿，像勾住救命的绳索，右腿直立着向内弯曲着，平整的脚趾不时的将白净的床单夹起又放下，蹂躏成一团，亮色指甲油在挥洒的月光下扑闪扑闪的，像从天上掉下来的星星。汗水的不断蒸发潮湿了室内的空气，给这夜色添上了一层雾气。女人粉红的乳头在摩擦与抚摸中像个气鼓鼓的海豚撑起的肚皮，不时的左右晃动着，娇弹的像个装了水的粉红气球，汗水顺着她的鼻肩滑过到她的耳垂最后滴落在她弯曲的乌黑发梢上。光滑的腹部也在急促的呼吸下痉挛般的收缩着，露出的肋骨剐蹭着男人的肚皮上茂盛的雄性体毛。
+  墙上挂着的狮子褪去了傲慢的神情，双眼迷离的看着动物世界里的一场奇异的交欢，仿佛在回忆自己过往的欢乐时刻，这种对比让它觉得从前是多么的乏味，它蓬起绽放的鬓毛一下子缩委了起来，变成了一副求而不得的模样，
+   只有时间不惯着这世间万物的任何悲欢喜乐，它看了看两个还在蠕动的身躯，接着平静的头也不回的走了。]]></summary>
+        <author>
+            <name>双亿齐飞</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[展示细胞比例变化之balloonplot和马赛克图]]></title>
+        <id>https://mp.weixin.qq.com/s/sNhFEU58vCZxoPG9FPJhKw</id>
+        <link href="https://mp.weixin.qq.com/s/sNhFEU58vCZxoPG9FPJhKw"/>
+        <updated>2021-06-09T14:11:50.000Z</updated>
+        <summary type="html"><![CDATA[我在CNS图表复现09—上皮细胞可以区分为恶性与否提到了一个很有意思的现象，就是把上皮细胞分群后，可以看到有]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4个发育时间点的总共12个鸡转录组测序样本的长非编码RNA的鉴定]]></title>
+        <id>https://mp.weixin.qq.com/s/bzHqYWyGkxoftT0mHfyMYw</id>
+        <link href="https://mp.weixin.qq.com/s/bzHqYWyGkxoftT0mHfyMYw"/>
+        <updated>2021-06-09T14:11:50.000Z</updated>
+        <summary type="html"><![CDATA[咱们《生信技能树》的B站有一个lncRNA数据分析实战，缺乏配套笔记，所以我们安排了100个lncRNA组装]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lncRNA组装流程的软件介绍之aspera]]></title>
+        <id>https://mp.weixin.qq.com/s/T10P3pgzBfBzA-qp8zchaA</id>
+        <link href="https://mp.weixin.qq.com/s/T10P3pgzBfBzA-qp8zchaA"/>
+        <updated>2021-06-09T14:11:50.000Z</updated>
+        <summary type="html"><![CDATA[高速下载，不可错过]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lncRNA组装流程的软件介绍之MultiQC]]></title>
+        <id>https://mp.weixin.qq.com/s/LkeHasZzFc6PBJDH92TryQ</id>
+        <link href="https://mp.weixin.qq.com/s/LkeHasZzFc6PBJDH92TryQ"/>
+        <updated>2021-06-09T14:11:50.000Z</updated>
+        <summary type="html"><![CDATA[样品太多了，整合一下]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亲历郑州外国语入学“掐尖”战争，99.7%的人被碾压式淘汰，比高考残酷数倍]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/955</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/955"/>
+        <updated>2021-06-09T13:21:07.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/2ChAZLuNJJTwKYkNUAPQOw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《轻盈的呼吸》伊万·蒲宁]]></title>
+        <id>https://www.douban.com/group/topic/229839674/</id>
+        <link href="https://www.douban.com/group/topic/229839674/"/>
+        <updated>2021-06-09T09:25:56.000Z</updated>
+        <summary type="html"><![CDATA[在公墓的一座新近筑成的坟冢上，立着一个新的橡木十字架，它结实，沉重，光滑。 四月，天色灰暗。穿过光秃秃的树木，远远地就可以看见这宽广的外县公墓上的一块块墓碑。冷风吹着那十字架脚下的瓷制花环，发出铮铮的音响。 十字架中央嵌着一个够大的凸出的圆形瓷相框，里面有一张相片，是个中学女生，她有一双快乐的，异常活泼的眼睛。 这就是奥莉娅·梅谢尔斯卡娅。 在一群穿褐色中学生制服的小姑娘中间，她并不突出。她是许多可爱、富有、幸福的小姑娘中间的一个，有天分，但是淘气，根本不把班主任的训诫放在心上。除此之外，关于她还有什么可说的呢？她不是一天一天地，而是一小时一小时地长大成熟起来。到了十四岁，她不仅有了纤细的腰和秀气的脚，而且有了轮廓动人的胸脯和人类的语言至今无法形容的种种迷人的体态。到了十五岁，她已经被公认为美人了。她的一些女伴是那么着意梳妆，洁身自好，一举一动无不谨慎小心！她呢，什么都不怕——不怕墨水弄脏手指，不怕满脸通红，不怕披头散发，也不怕在奔跑中跌一跤露出膝盖来。她不经意不费力地，仿佛在不知不觉间就拥有了使她最后两年在全校如此出众的一切：绰约的风姿，华丽的穿戴，灵活的举动，明亮的眼睛……跳舞的时候没有一个人跳得过她，滑冰的时候没有一个人跑得过她，舞会上没有一个人像她那样吸引人。不知为什么，也没有一个人像她那样受到低年级同学的爱戴。她在不知不觉间成了一位少女，她在学校里的声誉也在不知不觉间树立起来。已经有人议论说，她轻浮，没有拜倒在她脚下的男人就不能生活；还说男生申辛疯狂地爱上了她，而她似乎也爱申辛，不过对申辛的态度反复无常，弄得申辛直要寻短见…… 据学校里的人说，奥莉娅·梅谢尔斯卡娅最后一个冬季简直玩疯了。那是个多雪而晴朗的严冬，太阳早早地就落到白雪皑皑的校园中一株高大的云杉后面去了，它总是那么明朗，光芒四射，预示第二天也是个寒冷的晴天，可以在大教堂街上散步，或者到市立公园的冰场上去…]]></summary>
+        <author>
+            <name>塘国日月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《潮州巷——吃卤水鹅的女人》李碧华]]></title>
+        <id>https://www.douban.com/group/topic/229839118/</id>
+        <link href="https://www.douban.com/group/topic/229839118/"/>
+        <updated>2021-06-09T09:22:13.000Z</updated>
+        <summary type="html"><![CDATA[电视台的美食节目要来访问，揭开我家那一大桶四十七岁的卤汁之谜。 我家的卤水鹅，十分有名。人人都说我们拥有全港最鲜美但高龄的陈卤。 那是一大桶半人高，浸淫过数十万只鹅，乌黑泛亮香浓无比的卤汁。面层铺着 一块薄薄的油布似的，保护那四十七年的岁月。它天天不断吸收鹅肉精髓，循环再 生，天天比昨日更鲜更浓更香，煮了又煮，卤了又卤，熬了又熬，从未更换改变。 这是一大桶「心血」。 卤汁是祖父传给我爸，然后现在归我妈所有。 美食节目主持人在正式拍摄前先来对讲稿，同我妈妈彩排一下。 「陈柳卿女士，谢谢你接受我们的访问——」 「不。」妈妈说：「还是称我谢太吧。」 「但你不是说已与先生分开，才独立当家的？」主持人道：「其实我们也重点 介绍你是地道美食「潮州巷」中唯一的女当家呀。」 「还是称谢太吧，」她说：「我们还没有正式离婚。」 「哦没所谓。」主持人很圆滑：「卤汁之谜同婚姻问题没有什么关连，我们可 以集中在秘方上。」 「「秘方」倒是谈不上，不过每家店号一定有他们的特色，说破了砸饭碗了。」 她笑：「能说的都说了，客人觉得好吃，我们最开心。」 我们用的全是家乡材料，有肉桂皮、川椒、八角、小茴香、丁香、豆蔻、沙姜、 老酱油、鱼露、冰糖、蒜头、五花楠肉汁、调味料……，再加大量高梁酒，薪火不 绝。每次卤鹅，鹅吸收了卤汁之余，又不断渗出自身的精华来交换，或许付出更多， 成全了陈卤。 妈妈透露：「卤水材料一定要重，还要舍得。三天就捞起扔掉，更新一次。— —材料倒是不可以久留。」 是的，永恒的，只是液体。越陈旧越珍贵。再多的钱也买不到。 妈妈接受采访时，其实我们已经离开了「潮州巷」。因为九七年五月底，土地 发展局正式收回该小巷重建。 从此，美食天堂小巷风情：乱窜的火舌、霸道的香味、粗俗的吃相、痛快的享 受，都因此清拆，化作一堆泥尘。——就像从没存在过一样。 我们后来在上环找到了理想的地点，开了一间地铺，继续做卤…]]></summary>
+        <author>
+            <name>塘国日月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《月亮的距离》卡尔维诺]]></title>
+        <id>https://www.douban.com/group/topic/229838601/</id>
+        <link href="https://www.douban.com/group/topic/229838601/"/>
+        <updated>2021-06-09T09:18:17.000Z</updated>
+        <summary type="html"><![CDATA[据 乔治·H·达尔文先生所说，从前月亮曾经离地球很近。是海潮一点一点把它推向远方的：月亮在地球上引起的海潮使地球渐渐失去了自身的能量。　　
+　　　　
+　　　　“我知道”，老QFWFQ喊道。 “你们都无法记得，可我都记得清清楚楚。那时月亮就在我们头顶上，其大无比：望月时，月光如昼，那是一种奶油色的光，巨大的月球似乎要把我们压倒碾碎。新月时，它在空中滚动着，恰似风持着的一把黑伞。那蛾眉月的尖垂得那么低，好像要穿透礁石让月亮抛锚停泊。那时候，什么都跟现在不同：由于离太阳的距离不同，运行轨道、倾斜角度都不同于今日。地球和月亮紧挨着，不难想象，这两个大家伙怎么也找不出不互为对方阴影的办法，结果随时都会发生月食。”
+　　　　
+　　　　你问运行轨道吗？椭圆形的，当然是椭圆形的。一阵子压在我们头顶上，一阵子又旋转着飞开。而海潮呢，月亮压低时就涨潮，谁也拦不住。有些满月之夜，天低低的，潮高高的，月亮之差一丁点就要被海水浸泡湿了，顶多也就差几米吧。难道我们就没有想过到月亮上去吗？哪能呢！只需划着小船到月亮下面，支上一架木梯就能爬上月亮。
+　　　　
+　　　　月亮离地球最近的那一点是金礁湾。我们划着舢板，就是一种圆身平底的软木小船，到达那个海域。船上的人还不少，有我，武贺德船长和他的妻子，我的表弟聋子，有时还有小希恩息，她那也就是十二岁的样子。那几夜，海面极其平静，银光闪闪，如同一池水银。那些经受不住月球引力的小蟹、墨斗鱼、透明的海带、小珊瑚等，跃出海面，升空落到月亮上，吊挂在那抹了灰浆似的月亮表面上；还有的小东西悬浮在半空中，成为一群发光的流体，我们不断用芭蕉叶扑打着驱赶它们。
+　　　　
+　　　　我们的工作是这样进行的：我们在船上带了一架木梯，一个人扶着梯子，另一个则爬上去，还有人划浆，把船划到月下，所以需要几个人的配合（这是几个主要人物）。爬在梯子顶部的人在小船靠近月亮时吓得大叫：“快停住！快…]]></summary>
+        <author>
+            <name>塘国日月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NC单细胞文章复现(六)：Gene expression signatures(1)]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/954</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/954"/>
+        <updated>2021-06-09T02:25:10.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/KJw3ADxHTIPzsDfVVVbeEw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我和你不一样]]></title>
+        <id>https://www.douban.com/group/topic/229780053/</id>
+        <link href="https://www.douban.com/group/topic/229780053/"/>
+        <updated>2021-06-08T20:04:39.000Z</updated>
+        <summary type="html"><![CDATA[我努力的想睁开眼睛，可是眼皮就向上锁的大门一样牢固怎么也睁不开。
+
+声音，开门的声音，推车轮子划地的声音，哭泣的声音。
+
+我他妈要弄死这个狗日的！
+
+不要冲动，他还在昏迷呢......
+
+别拉我，我就是要他永远昏迷......祭奠我姐......
+
+声音突然变得嘈杂，很多人的声音，很多人的脚步声。
+
+桌子倒了，水壶破了......
+
+不知过了多久，声音消失了。
+
+我睁开眼睛，房间的灯管极其的亮，白色的被子，白色的床单，白色的墙壁，白色的窗帘。
+
+好亮，光刺的我眼睛痛。
+
+我望向窗户外面，漆黑一片，夜晚给世界铺了一地的黑色，黑色上面也是黑色，没有星星，像小时候空白的黑板，失去了粉笔的笔划。
+
+我起身，看见很多跟我一样白色的床，我是在医院。
+
+你醒了。
+
+妈。
+
+他们都走了。
+
+谁？你岳父他们。
+
+哦。
+
+我感觉对面的的人都在看我。
+
+我不想呆在这，这里太不让我舒服了。
+
+妈我上趟厕所。我扶着床把手想要起身，手突然像涂了奶油的面包一样滑了出去。
+
+我又倒在了床上。
+
+妈赶紧站起来抓住我的肩膀。
+
+不用扶我妈，我能行。
+
+我把妈的手拿开，用胳膊撑起沉重的身体。
+
+我的头钻心的疼了一下，随着而来一阵眩晕，我用力的甩了甩。
+
+这个地方太亮了，我得赶紧离开这。
+
+我拖着身体颤颤巍巍的向门口走去。
+
+儿子，我陪你去吧。
+
+我没有说话，我不想再说话了。
+
+走廊的灯光让我好受了点，我沿着墙根向前走去，狭窄的走廊两边竟然堆满了病床。我感觉到床上的人都在看我。
+
+带这怜悯，带着嘲笑，带着悲哀，带着祈祷。
+
+我的妻子死了。
+
+他们在幸灾乐祸，这个世界有病的人太多了，他们都住在外面了，竟然还有空关心我。
+
+我用最快的脚步离开了这个鬼地方，厕所的灯坏了，闪着昏黄的灯光。
+
+终于有个舒服的地方啦。
+
+我推开门，昏黄的灯光下，几个带着大片黄色污渍的小便池，同样满是斑斑点点的隔间，地板上也坏了好几个，不知名…]]></summary>
+        <author>
+            <name>黎明</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巨蛙]]></title>
+        <id>https://www.douban.com/group/topic/229779760/</id>
+        <link href="https://www.douban.com/group/topic/229779760/"/>
+        <updated>2021-06-08T20:02:29.000Z</updated>
+        <summary type="html"><![CDATA[S市的大雨已经下了一个月的时间了，天空像陷入了沼泽，昏暗厚重的云飘荡在其中，不时地发出一声隆隆的巨响，随后闪电打破空间的束缚，瞬间撕开一条裂缝，如众神的愤怒，令人望而生畏。山谷中，一只青蛙正吸收着怒气，身形不断暴涨。
+
+城市的排水系统相继崩溃，地下停车场早在几天前变成了一个个的小水库，街道上漂浮着一辆辆的汽车，人们终于停下了忙碌的身影开始担忧自己的安危，不少低洼的地方，一楼的楼层已经被淹没，人们躲到高出才意识到所在的城市已变成一片炼狱。
+
+小宇看着窗户外的雨滴不停的拍打下来。怎么了这是？这天气也太诡异了。
+
+滴，本台报道，S市由于连续的大雨，引发洪灾，目前已造成209人死亡，受灾人数达530多万人。在郊区疑似有人看到巨大的生物朝着市区方向前进。
+
+青蛙，那是一只巨大的青蛙，一蹦一蹦的朝着这边来了，我丈母娘家的房子就是它踩踏的。一个中年男人在屏幕前激动地拿着话筒说。我丈母娘几天前才逃到我这，没想到市里就被淹了，这山里又有怪物，还怎么活哎呀......
+
+手机铃声响起，小宇眼盯着电视走过去。喂，我看了，好，我现在马上回研究所。
+
+斯，巨大的青蛙。来不及多想，再耽搁恐怕自己也出不去了，小宇拿起印有S生物研究所字样得工作证飞奔下楼。
+
+“六子现在是什么情况？”小宇问
+
+“接到群众反映，政府就派警察去了，结果都失去了联系。现在只知道是一个巨大的青蛙，好像对于普通的枪械有抵抗力。”
+
+“没有传出什么影像资料吗？”
+
+“山区的信号设备因为大雨失灵了。政府要求我们待命，抗灾占住许多人力，已经派部队过去查看了。”
+
+“小宇”六子停顿一会抬头说“你说会不会是......”旋即看着自己暗紫色的手。
+
+小宇紧皱了一下眉头“你是说......不会，老家离这那么远......等消息吧”
+
+十五年前，一颗陨石在夜晚从天而降，落入村落中心的池塘里，砸出一个大坑，几个年轻人跑到池塘里要找陨石，结果陨石没找到…]]></summary>
+        <author>
+            <name>黎明</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我爱这个小组]]></title>
+        <id>https://www.douban.com/group/topic/229734491/</id>
+        <link href="https://www.douban.com/group/topic/229734491/"/>
+        <updated>2021-06-08T14:41:18.000Z</updated>
+        <summary type="html"><![CDATA[平时读书不多，在这却看了许多好文，感谢有你。]]></summary>
+        <author>
+            <name>依然范志毅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[课后笔记：ggplot2优雅的显示WB结果]]></title>
+        <id>https://mp.weixin.qq.com/s/M2ohRUneO9vaEmnAdaR8vw</id>
+        <link href="https://mp.weixin.qq.com/s/M2ohRUneO9vaEmnAdaR8vw"/>
+        <updated>2021-06-08T12:28:29.000Z</updated>
+        <summary type="html"><![CDATA[马拉松线上直播课优秀学员的学习成果]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单细胞亚群合并与提取（2021公开课配套笔记）]]></title>
+        <id>https://mp.weixin.qq.com/s/mF5rziWHlCIDCIBJloSTqA</id>
+        <link href="https://mp.weixin.qq.com/s/mF5rziWHlCIDCIBJloSTqA"/>
+        <updated>2021-06-08T12:28:29.000Z</updated>
+        <summary type="html"><![CDATA[新课发布在B站了，马上有热心的粉丝看完后写了配套笔记：下面是粉丝linbo的笔记投稿.]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[doplot可视化多个单细胞亚群的多个标记基因（2021公开课配套笔记）]]></title>
+        <id>https://mp.weixin.qq.com/s/0NAjy_ulE3htKndDmKzugw</id>
+        <link href="https://mp.weixin.qq.com/s/0NAjy_ulE3htKndDmKzugw"/>
+        <updated>2021-06-08T12:28:29.000Z</updated>
+        <summary type="html"><![CDATA[新课发布在B站了，马上有热心的粉丝看完后写了配套笔记：下面是粉丝linbo的笔记投稿.]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NC单细胞文章复现(六)：Gene expression signatures(1)]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/953</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/953"/>
+        <updated>2021-06-08T10:11:34.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/KJw3ADxHTIPzsDfVVVbeEw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又是神器！基于单基因批量相关性分析的GSEA]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/952</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/952"/>
+        <updated>2021-06-08T09:10:31.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/sZJPW8OWaLNBiXXrs7UYFw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何将lncRNAs预后模型玩出新高度(IF 7+)]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/951</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/951"/>
+        <updated>2021-06-08T04:30:12.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/9_ApY392ZgYysZWyEDkkuw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生信实操丨万物皆可建模！利用免费数据库简简单单发篇4+纯生信预后分析文章]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/950</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/950"/>
+        <updated>2021-06-08T04:29:56.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/gZRQFJlBBpcfH9GdjRfpTA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nat Commun&JAMA INTERN MED|浅析两篇LASSO+Logistic/Cox 套路文章]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/949</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/949"/>
+        <updated>2021-06-08T04:29:47.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/mx_SRXkFS6LH1Vm80mpJ5g]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明尼苏达大学癌症中心博后助理岗位]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/947</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/947"/>
+        <updated>2021-06-08T02:03:06.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/YD7k_-Im95tmHet4I8SsXw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高级的交集可视化工具--ComplexUpset！]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/946</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/946"/>
+        <updated>2021-06-08T01:58:18.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/dMomUwI24ky9Zt1gt4ocEg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒秋-（俄）蒲宁]]></title>
+        <id>https://www.douban.com/group/topic/229613753/</id>
+        <link href="https://www.douban.com/group/topic/229613753/"/>
+        <updated>2021-06-07T18:05:14.000Z</updated>
+        <summary type="html"><![CDATA[那年六月，他来我们庄园做客，我们一向把他视同家人，因为他已故的父亲生前是我父亲的挚友和邻居。六月十五日，斐迪南在萨拉热窝遇刺身亡。十六日一早，邮差送来了报纸。父亲拿着莫斯科晚报从书房来到餐厅，这时，他、妈妈和我还在餐厅里喝茶。父亲说： 
+ “喂，我的朋友们，要打仗了！奥国皇储在萨拉热窝遇刺。这就是战争！” 
+ 圣彼得节那天，我们家来了许多客人，祝贺我父亲过命名日。宴会后，向大家宣布了他是我的未婚夫。可是好事多磨，七月十九日，德国向俄国宣战了…… 
+ 九月，他来到我们家，总共只待了一昼夜，他要上前线去了，所以前来辞行（当时大家都认为，这场战争很快就会结束，因此我们只把婚礼推迟至来年春天）。天黑了，过了这个夜晚，我们就将劳燕分飞。晚饭后，端来了茶炊，很快窗户就蒙上了一层茶炊的水汽，父亲望了一眼窗户说：
+  “今年秋季来得出奇地早，也出奇地冷！”  
+那天夜晚，我们俩都平静地坐着，只是偶尔交谈一两句无关紧要的闲话，以掩饰各自的思绪和感情。父亲装出一副轻松的样子谈着秋天。我走到通阳台的落地长窗跟前，用手绢擦去玻璃上的水汽，只见果园里，洁净、冷漠的繁星在漆黑的天空中刺眼地闪烁。父亲仰靠在圈椅背上，抽着烟，心不在焉地望着悬在桌子上的那盏橙黄色的吊灯；妈妈戴着副眼镜，在昏黄的灯光下一针又一针地缝一个小小的丝袋（我们俩都知道她在缝什么），这既使人感动，又叫人不寒而栗。父亲问：
+  “这么说你还是决定天一亮就走，不吃早饭啦？”  “是的，如果您允许的话，天一亮就走，”他回答说，“我实在是依依不舍，可是没有办法，家里的事还没有安排好。”  
+父亲轻声叹了口气：  “那就听便吧，我的亲爱的，既然你明天一早就走，我跟妈妈该去睡觉了，因为我们明天无论如何要送送你……”  
+母亲站起身来，给未来的女婿画十字祝福。他弯下身去吻了母亲的手，然后，又吻了父亲的手。餐厅里只剩下我们两人，我俩在餐厅又待了一会儿…]]></summary>
+        <author>
+            <name>小包子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单细胞初探（seurat基础流程）（2021公开课配套笔记）]]></title>
+        <id>https://mp.weixin.qq.com/s/lyj3jJvXJhLt8c2YTk-lUA</id>
+        <link href="https://mp.weixin.qq.com/s/lyj3jJvXJhLt8c2YTk-lUA"/>
+        <updated>2021-06-07T15:31:52.000Z</updated>
+        <summary type="html"><![CDATA[新课发布在B站了，马上有热心的粉丝看完后写了配套笔记]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明尼苏达大学癌症中心博后助理岗位]]></title>
+        <id>https://mp.weixin.qq.com/s/tGxWSki24mzQPMaPjqsyzA</id>
+        <link href="https://mp.weixin.qq.com/s/tGxWSki24mzQPMaPjqsyzA"/>
+        <updated>2021-06-07T15:31:52.000Z</updated>
+        <summary type="html"><![CDATA[要一起去吗？传说中的雪城，欢迎留言交流！\x0a实验室正在寻找一名博士后助理来开展研究工作，重点是 APOBEC 突变和导致乳腺癌的遗传途径的作用。研究将涉及使用 APOBEC minigenes和Sleeping Beauty技术的先进小鼠模型]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCA决策曲线的解读和代码实现]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/945</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/945"/>
+        <updated>2021-06-07T10:57:59.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ancq3Fzjo_ZKKeDUux43wg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超全！郑州幼升小入学方式汇总！9区小学划片范围来了！]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/944</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/944"/>
+        <updated>2021-06-07T09:40:14.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/1JUSfkEGG0UmmnpW2H9Tyw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[强人不幸福的源头]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/943</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/943"/>
+        <updated>2021-06-07T07:45:19.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/BueqnV0c2z40mBtBku7ikA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当Monocle遇见Bulk Data]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/942</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/942"/>
+        <updated>2021-06-06T23:38:49.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/9pyuk0x2UQ-gSdlciDAj_Q]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写作社区]]></title>
+        <id>https://www.douban.com/group/topic/229466870/</id>
+        <link href="https://www.douban.com/group/topic/229466870/"/>
+        <updated>2021-06-06T18:09:17.000Z</updated>
+        <summary type="html"><![CDATA[我们是写作社区，有读者群，也有作者群。每周有读书会，也有写作比赛。
+加我吧
+code20201231]]></summary>
+        <author>
+            <name>凡所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCGA数据分析系列：LinkedOmics数据库]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/941</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/941"/>
+        <updated>2021-06-06T11:44:45.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/mVa6BhEi3XTGOrLSJUuiVg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCGA数据分析系列：UALCAN数据库]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/940</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/940"/>
+        <updated>2021-06-06T11:34:02.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/glBLXd30AAW6juIsNaQvQQ]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCGA数据分析系列：GEPIA2数据库]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/939</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/939"/>
+        <updated>2021-06-06T11:33:47.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/v8nnNqoFy5q5Siv1ScK0yA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何将lncRNAs预后模型玩出新高度(IF 7+)]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/938</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/938"/>
+        <updated>2021-06-06T07:52:26.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/9_ApY392ZgYysZWyEDkkuw]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[95元每年的云服务器配2021的Linux公益课最香]]></title>
+        <id>https://mp.weixin.qq.com/s/rcqL31Jdug9UPyEEx33HYg</id>
+        <link href="https://mp.weixin.qq.com/s/rcqL31Jdug9UPyEEx33HYg"/>
+        <updated>2021-06-06T01:25:44.000Z</updated>
+        <summary type="html"><![CDATA[细心的朋友们应该是早就发现了，咱们《生信技能树》的公益课130个小时视频更新啦，而且统一搭配了颜值超高的封面]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ggplot2绘图需要学多少个扩展包（这188个图给你答案）]]></title>
+        <id>https://mp.weixin.qq.com/s/WXwOyxBPNmcipRME2nqReA</id>
+        <link href="https://mp.weixin.qq.com/s/WXwOyxBPNmcipRME2nqReA"/>
+        <updated>2021-06-06T01:25:44.000Z</updated>
+        <summary type="html"><![CDATA[应该并不是所有人都需要理解ggplot2体系吧，对小白来说，出一个酷炫的图才是王道]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蜜枣紫米粽 Rice Dumplings]]></title>
+        <id>https://www.youtube.com/watch?v=Cb5NAXDZ5gc</id>
+        <link href="https://www.youtube.com/watch?v=Cb5NAXDZ5gc"/>
+        <updated>2021-06-05T22:00:09.000Z</updated>
+        <summary type="html"><![CDATA[又到了一年一度的粽子季节，今年我们来做紫米粽。紫米粽子样子有一点特别，上面紫色，下面白色，双色的粽子。它的味道绝对不会输给它的色相。食谱中用到了很多蜜枣。蜜枣经过长时间小火慢煮之后，完全融化，甜甜蜜蜜的味道被糯米和其它的食材吸收。粽子吃到嘴里绝对是香~甜~软~糯!紫米粽食谱：可以做34个小粽子紫糯米/黑糯米： 1...]]></summary>
+        <author>
+            <name>小高姐的 Magic Ingredients</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《写给张灯的一个短故事》 朱文]]></title>
+        <id>https://www.douban.com/group/topic/229310233/</id>
+        <link href="https://www.douban.com/group/topic/229310233/"/>
+        <updated>2021-06-05T17:46:31.000Z</updated>
+        <summary type="html"><![CDATA[在张灯并不丰富的人生经验中，他已经觉察到，世界总是同时给人两样相互悖反的东西。他得用心试着去平衡、去解决，并以此建立起他的生活。每一个阶段有每一个阶段的问题，它非常具体，一点也不空洞。当然也有感觉不到问题的日子，既没有给予你什么，也没有迫使你忍受什么。那样的日子让人困顿，什么记忆都留不下。他只能靠做梦来打发日子。
+　　大雨已经断断续续地下了一个月。政府及时地作了深人的防洪抗险的动员。地势较低的邻县的灾情通报从各个渠道不断地传来。据说今年雨季泅水出现了百年未遇的危险水位，人们普遍觉得已经到了必须有所担心的时刻，但是就是不知道该怎么去担心。张灯头发很稀，和许多共青团员一样，自愿报名参加了青年突击队，一个星期去防洪指挥部值一次夜班。但是，他心里并不认为大水真的会到来。事实好象也正是这样。张灯倒是不讨厌值班，无非是几个精力过剩的年轻人凑在一盏一百瓦的白炽灯下打牌，守着电话。出去撒尿的时候，拿着一根五节电池的手电筒顺便到堤上转一圈。然后，回来继续打牌，或者在钢丝床上睡觉。一般他们不爱睡觉，因为指挥部设在一个临时搭成的工棚里，蚊子特别多，随便吐口痰都能击中几只蚊子，点了蚊香也没用。你如果躺下，蚊子就会蜂拥而上，把你抬起来放到牌桌边，只要你坚持坐着，蚊子也就不来干扰你了，这也是怪事。所以，还是打牌好一点。打到半夜，送夜宵的就来了，有肉有啤酒，如果没有肉，那肯定有鱼或者鸡腿，反正是短不了的。吃完了以后继续打。再打个半宿，送早饭的也就来了。早饭有稀饭、油条、鸡蛋和麻辣萝卜条。吃完早饭，原则上你就可以回去睡觉，而且白天不用再上班，这是肯定的。另外，那些送早饭夜宵的也都是突击队员，只是分工不同，他们好像就不太走运了。张灯是一个内向的、活得比较紧张的小伙子，就在那段时间里学会了不少扑克牌的打法。他觉得自己有点喜欢这样的生活了。再加上突击队员大都来自不同的单位，彼此之间没有利害关系，似乎他们就是为了…]]></summary>
+        <author>
+            <name>少年A</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《人的伟大》（意）迪诺·布扎蒂]]></title>
+        <id>https://www.douban.com/group/topic/229294224/</id>
+        <link href="https://www.douban.com/group/topic/229294224/"/>
+        <updated>2021-06-05T15:52:49.000Z</updated>
+        <summary type="html"><![CDATA[人的伟大/（意）迪诺·布扎蒂
+当黑暗的监狱大门打开，天色已晚，守卫们把一个留着胡子的老头儿扔了进去。
+老头儿的胡子花白，几乎比他本人还要巨大。黑漆漆的监狱里，透出一丝微弱的亮光，可以隐约映出里面囚犯的身影。但由于周围太黑，老头儿最初并没发现，在这种洞穴似的地方还有其他人，便问道：“有人吗？”
+各种冷笑和呻吟如潮水般涌来。所以，按照规矩，他们要一一自我介绍。
+“里卡顿·马切洛，”一个沙哑的声音说，“因重大盗窃罪被捕。”
+然后是第二个声音，软绵绵的：“贝泽达·卡梅罗，诈骗罪惯犯。
+接着：“马菲·卢西亚诺，强奸罪。”
+“拉瓦塔罗·马克斯，无罪。”
+这时，监狱里爆发出一阵大笑。事实上，这个笑话非常受欢迎，因为所有人都认识拉瓦塔罗，他是最著名的强盗之一，双手沾满鲜血。
+然后继续：“埃斯波斯托·埃涅阿斯，谋杀罪。”语气里有一种难掩的骄傲感。
+“穆提罗尼·文森佐，”这个声音很是得意扬扬，“弑父罪你呢，老家伙？”
+“我……”新来的回答，“准确来说，我也不知道。他们拦下我，让我出示证件，可我从来就没有过证件。”
+“原来是流浪汉啊，噗！”一个人鄙视地嘲笑。
+“那你叫什么名字？”
+“我…………我叫莫洛，呃，呃……大家都叫我伟人。”
+“莫洛伟人，真不错，”从监狱尽头传来一个声音说，“这样的名字足够抓你进来十次了。”
+“确实”老头儿温柔地说，“可这也不是我的错，这个名字是那些嘲笑我的人非要给我起的，我也没办法。确实给我惹了不少麻烦。比如有一次……不过说来话长了……
+“说吧，快说吧，”一个人急切地催促道，“我们有的是时间。”
+所有人都表示赞同。在这座无聊透顶的监狱里，任何新鲜事对他们来说都像参加聚会一样令人高兴。
+“好吧，”老头儿便讲述起来，“有一天，我在城里游荡，突然看到一座宫殿前有好多仆人进进出出地搬运各种美味佳肴。我想那里应该是在举办宴会，于是我就过去想讨点吃的。可我还没来得及开口就被一个两米高…]]></summary>
+        <author>
+            <name>小矮子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-肿瘤基因测序数据分析视频课程
+课程思维导图：https://mubu.com/doc/2Whkn5HVCGv 里面有全部资料的网盘链接
+“跟着百度李彦宏学习肿瘤基因测序数据分析”群，一起加油]]></title>
+        <id>https://mp.weixin.qq.com/s/FDh2VH0lBRifCBCLBKl1Ag</id>
+        <link href="https://mp.weixin.qq.com/s/FDh2VH0lBRifCBCLBKl1Ag"/>
+        <updated>2021-06-05T13:09:07.000Z</updated>
+        <summary type="html"><![CDATA[2021-肿瘤基因测序数据分析视频课程\x0a课程思维导图：https://mubu.com/doc/2Whkn5HVCGv 里面有全部资料的网盘链接\x0a“跟着百度李彦宏学习肿瘤基因测序数据分析”群，一起加油]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绳技]]></title>
+        <id>https://www.douban.com/group/topic/229268818/</id>
+        <link href="https://www.douban.com/group/topic/229268818/"/>
+        <updated>2021-06-05T12:50:51.000Z</updated>
+        <summary type="html"><![CDATA[一
+　　一间破旧阴暗的牢房中，一个衣着整洁干净的少年跪坐在一堆稻草之上，似乎与这牢房显得格格不入。
+　　这少年正闭目养神，好像自己跟这个世界毫不相干。但当他听到牢门“咿呀”一声被打开后，心里说了句“终于来了”，眼睛却仍不睁开。
+　　进来的是一位中年官吏，留着山羊胡子，透着一副久经官场的圆滑，后面跟了几个狱卒。
+　　其中一个狱卒指着那少年说道：“监司，就是他。”
+　　监司看了一眼少年，心想这人相貌平平无奇，好像并无过人之处，于是淡淡问了句：“你叫什么名字？”
+　　那少年依旧闭目养神，像是没听见似的。
+　　监司见他如此高傲，目中无人，心中已经有了一丝不满。
+　　狱卒为打破尴尬，呵了一声：“兀那小子，我们大人跟你说话呢，快回话！”
+　　那少年仍是无动于衷，场面反倒更尴尬了。
+　　“哼。”监司显然是生气了。
+　　狱卒见上司已经生气，生怕怪罪自己，马上低声下气地笑道：“监司，这小子就是我们说的那绳技人，一条绳子在他手里，那是神乎其神，叹为观止哪。我们让他在大酺之会上表演绳技，一定能独占鳌头，压过那县司，县令大人一高兴，没准就会升监司您的官呢。”心里想的却是监司大人一高兴，就会升自己的官。
+　　另一个狱卒说道：“没错，去年大酺之会让那县司出尽风头，今年我们可要好好出口气！”
+　　监司这几日正为大酺之会头痛。自从开元元年开始，唐明皇下令赐百姓酒食，大酺五日，与民同乐。如今大酺已举行四十多年，早成为大唐的盛会。各地每当大酺之日，都会隆重举行，嘉兴虽是小地方，却也不例外。尤其是这刚上任的嘉兴县令好风雅、喜热闹，除了常规的活动外，还举办大酺之会，让当地有杂艺、会歌舞之人一一表演，好不热闹。嘉兴各官吏也绞尽脑汁，搜罗多才多艺的人，为的就是让县令高兴，趁机讨好。
+　　去年大酺之会上，县司推荐的人表演了一出绝妙的剑术，极其引人注目，县令果然大喜，这一年来对那县司另眼相看，还有传闻说即将升他为县丞，做…]]></summary>
+        <author>
+            <name>月自黄昏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一颗死牙]]></title>
+        <id>https://www.douban.com/group/topic/229257903/</id>
+        <link href="https://www.douban.com/group/topic/229257903/"/>
+        <updated>2021-06-05T11:34:13.000Z</updated>
+        <summary type="html"><![CDATA[作者：钱佳楠
+
+允许我调皮一下，#^_^#]]></summary>
+        <author>
+            <name>天南海北</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想听听生信技能树自媒体矩阵的背后大佬们的故事吗？
+也欢迎大家加入我们的分享队伍，认识一下！
+可以发邮件给我，我的邮箱地址是 jmzeng1314@163.com]]></title>
+        <id>https://mp.weixin.qq.com/s/KWLY4ZiZdXLKWSXKS3kW6Q</id>
+        <link href="https://mp.weixin.qq.com/s/KWLY4ZiZdXLKWSXKS3kW6Q"/>
+        <updated>2021-06-04T14:53:31.000Z</updated>
+        <summary type="html"><![CDATA[想听听生信技能树自媒体矩阵的背后大佬们的故事吗？\x0a也欢迎大家加入我们的分享队伍，认识一下！\x0a可以发邮件给我，我的邮箱地址是 jmzeng1314@163.com]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平原上的娜拉]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/937</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/937"/>
+        <updated>2021-06-04T10:50:24.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/aGLE93s5vgyWDletOnmqRQ]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[细数免疫应答中重要的细胞因子]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/936</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/936"/>
+        <updated>2021-06-04T01:45:40.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/to9elHGQ4shi2out895Gmg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构建seurat对象之初就应该是把基因名字转换好]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/935</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/935"/>
+        <updated>2021-06-04T00:27:10.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/LmDjcIscBgYb7izKYPkVOg]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拟时序分析的10个步骤]]></title>
+        <id>https://github.com/ixxmu/mp_duty/issues/934</id>
+        <link href="https://github.com/ixxmu/mp_duty/issues/934"/>
+        <updated>2021-06-04T00:24:44.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ahuyDmtP37jYYTHAkT61eA]]></summary>
+        <author>
+            <name>ixxmu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《老鼠》（意）迪诺·布扎蒂]]></title>
+        <id>https://www.douban.com/group/topic/229057928/</id>
+        <link href="https://www.douban.com/group/topic/229057928/"/>
+        <updated>2021-06-03T23:36:12.000Z</updated>
+        <summary type="html"><![CDATA[我的朋友科里奥一家怎么了？那座古老的多加内拉乡村别墅发生了什么？不知何时开始，每年夏天，他们都会邀请我去那里待上几个星期。可今年，他们没有邀请我。乔瓦尼只是给我写了一封简短的道歉信。一封奇怪的信，含糊其词地暗示家里遇到了麻烦或不幸，但其实什么也没解释清楚。
+
+我曾在他们家度过了多少快乐的日子。今天，当我回想过去在森林里的欢乐时光时，突然，我的脑海里第一次闪现出一些找当时觉得稀松平常、微不足道的小事。
+
+例如，我的脑海里浮现出以下画面。这发生在很久很久以前的一个夏天，当时战争还未爆发（这是我第二次去科里奥家做客）:我回到二楼转角正对着花园的房间（接下来几年我也总是住在那里），正准备上床睡觉。忽然，我听到了细微的动静，从门底下传来的抓挠。于是我走过去开门，一只小老鼠从我的双腿中间钻了进来，穿过房间，躲到了梳妆台下面。
+
+它跑起来很笨拙，我完全可以一脚踩死它，但它看起来如此娇小脆弱。
+
+第二天早上，我偶然与乔瓦尼谈起此事。“啊，对，”他心不在焉地说，“屋子里偶尔是会有老鼠窜来窜去。”
+
+“一只特别小的老鼠……我都不忍心……” 
+
+“对，我能想象，别介意……”说着，他很快换了话题，似乎并不喜欢听我说这些。
+第二年。一天晚上，我们在玩纸牌，大约午夜时分，隔壁房间（这个时间，客厅的灯都已经关了）传来咔嚓一声，就像弹簧发出的金属声。“什么声音？”我问。“我什么也没听到啊，”乔瓦尼神情闪躲地说，“你呢，埃莱娜，你听到什么了吗？”
+
+“没有。”他的妻子回答，脸微微泛红。
+
+“怎么会呢？”我说，“好像是从客厅传来的……像是什么金属的声音……”说着，我发现气氛有些尴尬，于是说:“好吧，是轮到我出牌了吗？”
+
+不到十分钟，又传来一声咔嚓声，这次是从走廊传来的，伴随着一声细微的呻吟，像是动物发出的。“告诉我，乔瓦尼，”我问，“你们是不是装了捕鼠器？”
+
+“据我所知没有，是吧，埃莱娜！我们有装捕鼠器吗…]]></summary>
+        <author>
+            <name>小矮子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《战争之歌》（意）迪诺·布扎蒂]]></title>
         <id>https://www.douban.com/group/topic/228977847/</id>
@@ -88,6 +854,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[单细胞混样测序至少可以区分性别]]></title>
+        <id>https://mp.weixin.qq.com/s/zwHbbg1ngDVGvcZ7t6xbHA</id>
+        <link href="https://mp.weixin.qq.com/s/zwHbbg1ngDVGvcZ7t6xbHA"/>
+        <updated>2021-06-03T14:43:17.000Z</updated>
+        <summary type="html"><![CDATA[根据  female- (Xist) and male-specific genes (6 Y chro- mosome genes: Ddx3y, Eif2s3y, Erdr1, Gm29650, Kdm5d, and Uty;]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人才招聘指南|中国医学科学院血液学研究所饶书权课题组招聘]]></title>
+        <id>https://mp.weixin.qq.com/s/u0c5eqs7dbQbIC5LWHPNyg</id>
+        <link href="https://mp.weixin.qq.com/s/u0c5eqs7dbQbIC5LWHPNyg"/>
+        <updated>2021-06-03T14:43:17.000Z</updated>
+        <summary type="html"><![CDATA[1）生理或病理条件下血细胞（尤其是髓系细胞）的发育调控；\x0a\x0a2）新型基因编辑工具的开发以及遗传性疾病基因治疗。]]></summary>
+        <author>
+            <name>生信技能树 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[零基础发文章神器系列二-GSCA数据库]]></title>
         <id>https://github.com/ixxmu/mp_duty/issues/933</id>
         <link href="https://github.com/ixxmu/mp_duty/issues/933"/>
@@ -120,16 +906,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[拟时序分析的10个步骤]]></title>
-        <id>https://mp.weixin.qq.com/s/ahuyDmtP37jYYTHAkT61eA</id>
-        <link href="https://mp.weixin.qq.com/s/ahuyDmtP37jYYTHAkT61eA"/>
-        <updated>2021-06-02T12:46:56.000Z</updated>
-        <summary type="html"><![CDATA[最近刷了刷植物领域单细胞文献，有一个蛮早期的拟南芥根部单细胞研究：]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用诺模图可视化你的模型]]></title>
         <id>https://github.com/ixxmu/mp_duty/issues/932</id>
         <link href="https://github.com/ixxmu/mp_duty/issues/932"/>
@@ -157,46 +933,6 @@
         <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/Lk-yBGN8vm_K6GtLJXRW4A]]></summary>
         <author>
             <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fibroblasts和smooth muscle cells在你的单细胞数据集差异明显吗]]></title>
-        <id>https://mp.weixin.qq.com/s/uyK_C6WlV_F3svlOP91Hyw</id>
-        <link href="https://mp.weixin.qq.com/s/uyK_C6WlV_F3svlOP91Hyw"/>
-        <updated>2021-06-01T01:54:56.000Z</updated>
-        <summary type="html"><![CDATA[stromal 里面并不是只有fibo 和endo哦，还可以有smooth muscle cells和percite这两个细胞亚群]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手绘图一站式R包ggstatsplot]]></title>
-        <id>https://mp.weixin.qq.com/s/BCxyJn-DlHkdiJDfqLHQxw</id>
-        <link href="https://mp.weixin.qq.com/s/BCxyJn-DlHkdiJDfqLHQxw"/>
-        <updated>2021-06-01T01:54:56.000Z</updated>
-        <summary type="html"><![CDATA[这个包的安装依赖于上百个包，所以我们通常建议初学者马上安装它]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手绘图一站式R包之ggpubr]]></title>
-        <id>https://mp.weixin.qq.com/s/QUeu6yPIdGV7ozR_LUjZTQ</id>
-        <link href="https://mp.weixin.qq.com/s/QUeu6yPIdGV7ozR_LUjZTQ"/>
-        <updated>2021-06-01T01:54:56.000Z</updated>
-        <summary type="html"><![CDATA[新手绘图一站式R包 ggpubr ，你就可以看成是一个商业化拥有操作界面的软件：]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的单细胞数据里面能区分出来4种树突细胞吗]]></title>
-        <id>https://mp.weixin.qq.com/s/cH24Jv_aTrw75s4OMbCg2Q</id>
-        <link href="https://mp.weixin.qq.com/s/cH24Jv_aTrw75s4OMbCg2Q"/>
-        <updated>2021-06-01T01:54:56.000Z</updated>
-        <summary type="html"><![CDATA[尤其是myeloid的髓系，（单核，树突，巨噬，粒细胞）有时候根本就分不清楚]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
         </author>
     </entry>
     <entry>
@@ -238,81 +974,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[单细胞亚群标记基因何止五种可视化方法]]></title>
-        <id>https://mp.weixin.qq.com/s/NZYPNTYwecjRYb5v4DOoxQ</id>
-        <link href="https://mp.weixin.qq.com/s/NZYPNTYwecjRYb5v4DOoxQ"/>
-        <updated>2021-05-31T03:58:02.000Z</updated>
-        <summary type="html"><![CDATA[你更倾向于哪个包呢？]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人才招聘指南|华中农业大学棉花团队王茂军课题组博士后招聘]]></title>
-        <id>https://mp.weixin.qq.com/s/pksJtNjlWgXKFghjrFwr9g</id>
-        <link href="https://mp.weixin.qq.com/s/pksJtNjlWgXKFghjrFwr9g"/>
-        <updated>2021-05-31T03:58:02.000Z</updated>
-        <summary type="html"><![CDATA[实验室以干实验和湿实验手段，运用基因组学、生物信息学、分子生物学、基因组编辑和人工智能等多学科手段回答多倍体作物中的基础科学问题。]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OSCA单细胞数据分析笔记8—Dimensionality reduction]]></title>
-        <id>https://mp.weixin.qq.com/s/va_rKy0NBy7dv7f7So6uSQ</id>
-        <link href="https://mp.weixin.qq.com/s/va_rKy0NBy7dv7f7So6uSQ"/>
-        <updated>2021-05-31T03:58:02.000Z</updated>
-        <summary type="html"><![CDATA[正在处理单细胞数据的你，确定不关注一下这个公众号的专栏吗？]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单细胞数据Seurat包的tSNE三维可视化]]></title>
-        <id>https://mp.weixin.qq.com/s/1PMAmkYbmHpdQ0SHqJQQzw</id>
-        <link href="https://mp.weixin.qq.com/s/1PMAmkYbmHpdQ0SHqJQQzw"/>
-        <updated>2021-05-31T03:58:02.000Z</updated>
-        <summary type="html"><![CDATA[假如你的细胞亚群没办法彻底区分开来，不妨考虑一下站在三维视角来可视化它]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[R选择速度最快的镜像]]></title>
         <id>https://github.com/ixxmu/mp_duty/issues/929</id>
         <link href="https://github.com/ixxmu/mp_duty/issues/929"/>
         <updated>2021-05-31T02:49:58.000Z</updated>
         <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/UJ3S2bFYASG9P4xBWDLQQg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z-score并不会影响很多统计学算法的结果]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/928</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/928"/>
-        <updated>2021-05-31T02:46:53.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/SWJA7wKTAS46YkB5UXC5Xw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RNA-seq中的那些统计学问题——FPKM/RPKM之外的那些标准化方法]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/927</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/927"/>
-        <updated>2021-05-31T02:33:11.000Z</updated>
-        <summary type="html"><![CDATA[https://zhuanlan.zhihu.com/p/69439825]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人人都要会的转录组(RNA-seq)下游分析.]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/926</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/926"/>
-        <updated>2021-05-31T02:15:00.000Z</updated>
-        <summary type="html"><![CDATA[https://zhuanlan.zhihu.com/p/77901431]]></summary>
         <author>
             <name>ixxmu</name>
         </author>
@@ -328,46 +994,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[手快有，手慢无（共享96线程384G内存服务器）]]></title>
-        <id>https://mp.weixin.qq.com/s/gipHRwVnC0asUt9e1IT2Ig</id>
-        <link href="https://mp.weixin.qq.com/s/gipHRwVnC0asUt9e1IT2Ig"/>
-        <updated>2021-05-30T10:03:08.000Z</updated>
-        <summary type="html"><![CDATA[因为炒作虚拟币的那些无良商家恶意哄抬计算机硬件价格，导致我们的共享96线程384G内存服务器业务暂停了几个月]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人才招聘指南|李程研究组博士后招聘]]></title>
-        <id>https://mp.weixin.qq.com/s/GJofCL9JQn3dn2fZ8fBJ6g</id>
-        <link href="https://mp.weixin.qq.com/s/GJofCL9JQn3dn2fZ8fBJ6g"/>
-        <updated>2021-05-30T10:03:08.000Z</updated>
-        <summary type="html"><![CDATA[以热爱驱动，培养和锻炼成员长远职业发展所需要的技能，例如课题与时间管理、文献跟踪与学习、组学数据分析。]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多个组织的成纤维细胞图谱]]></title>
-        <id>https://mp.weixin.qq.com/s/XXmLhSWQmGWYzpJV7347Yg</id>
-        <link href="https://mp.weixin.qq.com/s/XXmLhSWQmGWYzpJV7347Yg"/>
-        <updated>2021-05-30T10:03:08.000Z</updated>
-        <summary type="html"><![CDATA[分享一篇文章。]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多发性骨髓瘤发展过程中肿瘤和免疫细胞的共同进化]]></title>
-        <id>https://mp.weixin.qq.com/s/Tb9Nmph847WvAPHn8asaBQ</id>
-        <link href="https://mp.weixin.qq.com/s/Tb9Nmph847WvAPHn8asaBQ"/>
-        <updated>2021-05-30T10:03:08.000Z</updated>
-        <summary type="html"><![CDATA[分享一篇文章。]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[超软蜂蜜面包 Soft Dinner Rolls]]></title>
         <id>https://www.youtube.com/watch?v=_UbDhNDraVQ</id>
         <link href="https://www.youtube.com/watch?v=_UbDhNDraVQ"/>
@@ -375,254 +1001,6 @@
         <summary type="html"><![CDATA[超软蜂蜜小面包 dinner rolls. 不管是西餐的面包还是中餐的烙饼，如果想要软的口感呢，最直接的办法就是增加水的用量。但是水量太大，面团不成型，你没有办法操作整形。所以在你自己可以承受的范围内最大量的加水。这个食谱用的是80%的含水量。算是含水比较多，但不是最多，90%，100%都可以烤面包。对湿面团不太...]]></summary>
         <author>
             <name>小高姐的 Magic Ingredients</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肿瘤panel测序研究不应该公开基因列表吗]]></title>
-        <id>https://mp.weixin.qq.com/s/xTX_68Bd0qr2u0NcyIYEZQ</id>
-        <link href="https://mp.weixin.qq.com/s/xTX_68Bd0qr2u0NcyIYEZQ"/>
-        <updated>2021-05-29T12:38:40.000Z</updated>
-        <summary type="html"><![CDATA[最近接了几个不同癌症队列的panel测序数据分析项目，大多是在基因加、南京世和等公司购买的panel和测序]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ggheatmap复现CNS级美图]]></title>
-        <id>https://mp.weixin.qq.com/s/1WjQgErInVZH0cpw0Mu5HQ</id>
-        <link href="https://mp.weixin.qq.com/s/1WjQgErInVZH0cpw0Mu5HQ"/>
-        <updated>2021-05-29T12:38:40.000Z</updated>
-        <summary type="html"><![CDATA[前面我们推送了南方医的一个后起之秀的新R包：快来使用ggheatmap强化你的热图吧！]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惊现hg39参考基因组]]></title>
-        <id>https://mp.weixin.qq.com/s/ubxX4b6AXzkm5EIDvdRdNg</id>
-        <link href="https://mp.weixin.qq.com/s/ubxX4b6AXzkm5EIDvdRdNg"/>
-        <updated>2021-05-28T10:13:15.000Z</updated>
-        <summary type="html"><![CDATA[如果你也是hg19和hg38傻傻的分不清，可以先看看我五年前的博客介绍]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z-score并不会影响很多统计学算法的结果]]></title>
-        <id>https://mp.weixin.qq.com/s/SWJA7wKTAS46YkB5UXC5Xw</id>
-        <link href="https://mp.weixin.qq.com/s/SWJA7wKTAS46YkB5UXC5Xw"/>
-        <updated>2021-05-28T10:13:15.000Z</updated>
-        <summary type="html"><![CDATA[做教学我们是认真的，我们的马拉松授课（直播一个月互动教学）培养了超多优秀的知识整理和分享者，与十万人一起学生]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8秒完成2万个基因的生存分析，人人都可以！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/925</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/925"/>
-        <updated>2021-05-28T04:00:05.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/o4e1HzG4zPIQoGT6-7D0ug]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GEO芯片分析的倒数第2个关卡被没有了。。]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/924</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/924"/>
-        <updated>2021-05-28T03:58:05.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/X8rUnEasKy3Dk-EoUAvC2A]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次性查询对应的R推文]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/922</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/922"/>
-        <updated>2021-05-28T03:57:50.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ku14d7xG4fFvSPsFKmU2Wg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这是目前我见过最全的ggplot2整理内容了]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/920</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/920"/>
-        <updated>2021-05-28T02:03:42.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/yVsQvkmU2Ol04GnPHZrxSg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发自己的dashboard]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/919</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/919"/>
-        <updated>2021-05-28T01:57:24.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/NaMGWwXxz-45Y9FJ-dOEyg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开机，写bug]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/918</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/918"/>
-        <updated>2021-05-27T07:57:57.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/tZYRW0qVIWOyYC77aZkxLA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反向推理TCGA生存分析使用的仅仅是肿瘤样品]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/917</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/917"/>
-        <updated>2021-05-27T07:57:27.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/fxg6dwwlW7FGA0ltD9VmFw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021第一期生信入门微信群答疑精选200题]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/916</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/916"/>
-        <updated>2021-05-27T07:57:18.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/qtNzBw_NKvLeZDeVXTFSQQ]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这50个ggplot2现成图表你居然没有从头到尾自己画一遍]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/915</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/915"/>
-        <updated>2021-05-27T07:56:12.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/ohRSb5FKcAuPY9x3zVXrvA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这50个ggplot2现成图表你居然没有从头到尾自己画一遍]]></title>
-        <id>https://mp.weixin.qq.com/s/ohRSb5FKcAuPY9x3zVXrvA</id>
-        <link href="https://mp.weixin.qq.com/s/ohRSb5FKcAuPY9x3zVXrvA"/>
-        <updated>2021-05-27T06:45:33.000Z</updated>
-        <summary type="html"><![CDATA[这个教程侧重于8个单元：]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021第一期生信入门微信群答疑精选200题]]></title>
-        <id>https://mp.weixin.qq.com/s/qtNzBw_NKvLeZDeVXTFSQQ</id>
-        <link href="https://mp.weixin.qq.com/s/qtNzBw_NKvLeZDeVXTFSQQ"/>
-        <updated>2021-05-27T06:45:33.000Z</updated>
-        <summary type="html"><![CDATA[做教学我们是认真的，如果你对我们的马拉松授课（直播一个月互动教学）有疑问，可以看完我们从2000多个提问交流]]></summary>
-        <author>
-            <name>生信技能树 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单细胞转录组的batch effect的去除]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/914</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/914"/>
-        <updated>2021-05-26T22:58:24.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/g-R5ln5Q_XGEeTwAKm0ktw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最惨的万达金街在郑州！]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/913</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/913"/>
-        <updated>2021-05-26T11:51:38.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/P3kCtPLEKKY6PhYEdMSRWw]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lncRNA和肿瘤免疫浸润，这篇10分文章的“骚操作”，就问你接不接？]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/912</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/912"/>
-        <updated>2021-05-26T06:29:42.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/jxN3UacnhGHJ2j8uJZGWBA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本是同根生，缘何不同命？]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/911</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/911"/>
-        <updated>2021-05-26T00:17:15.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/5dlwns2yoC0wwunImhq3Fg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小样本量单细胞肿瘤数据分析模范]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/910</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/910"/>
-        <updated>2021-05-25T09:00:06.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/XvTlG4n_p5o-IN3plBt3sQ]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[祝贺！团队小伙伴开发的ggheatmap包成功被ggplot2 extension采纳]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/909</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/909"/>
-        <updated>2021-05-24T14:08:29.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/VAzEdDCnROmUNq_ne-7mJA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六种T细胞外周耐受模式：静息-忽视-无能-耗竭-衰老-死亡]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/908</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/908"/>
-        <updated>2021-05-24T00:32:01.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/Q3TSYAen_T3rEGq0HzERcg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你只想做ID转换却不知道为什么要转换]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/907</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/907"/>
-        <updated>2021-05-24T00:17:31.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/gym57dMkfAv6pAyDcj-xCg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《鬼剃头》冯骥才]]></title>
-        <id>https://www.douban.com/group/topic/227344003/</id>
-        <link href="https://www.douban.com/group/topic/227344003/"/>
-        <updated>2021-05-23T17:03:56.000Z</updated>
-        <summary type="html"><![CDATA[1966年，33岁，女，T市无职业妇女。
-
-我要说的是我的个人的事。但我并不是请你写下我的事情，而是记下另一个人。我只有一个要求：在我讲这件事的时候，你可千万别笑。我曾经把这件事讲给过几个人，他们全笑了；但他们一笑，我就打住。人家这么痛苦的事儿你还笑，叫人家什么滋味？可是有人居然笑出泪来！把我气得肺要炸了！你能不笑是吧，好，我讲了——
-
-1964年秋天的一个夜里，我做了一个非常可怕的梦，梦见一大群恶鬼用舌头舔我的脑袋，那些舌头各种各样的颜色，有蓝的、红的、绿的、紫的，还有的花里胡哨，全都闪闪发光，古怪极了。我迷迷糊糊地想，它们怎么舔我的脑壳，我的头发呢？我忽然大叫一声醒过来。我身边的丈夫也被惊醒。他打开台灯，睁大眼看我的神气就像见了鬼！他手指我的脑袋竟然说不出话来，我抬手一摸，好像摸到一个西瓜，光溜溜，又圆又硬，成了大秃头，我的头发哪里去了？我们几乎同时发现，我满头的黑发一根不少，全在枕头上。我们傻了！忽然想起从小就听过的一个离奇又吓人的词儿——鬼剃头！这回叫我轮上了！
-
-我抱着脑袋大哭起来。如果你要见过我原先的一头乌黑漂亮的秀发，保准会惊奇、羡慕、叫好！我敢说，这世界上没有几个人能和我比一比头发，无论是中国人还是外国人。我丈夫都承认，他是从这头发才爱上我的。还有，我家周围的那几家理发店，我去理发他们从来都不要钱，它们求着我去做新发型的模特儿呢！我不像一些女人，天姿不够，只能涂脂抹粉，靠化妆品；我就凭这一头天然漂亮的头发，“走遍天下”！可是这一来，我比那些头发最糟的女人们还要糟，我的脑袋光秃秃像个鸡蛋，怎么出门见人？这对于一个年轻爱美的女人差不多像宣判了死刑。
-
-我丈夫甚至比我还急。他找了无数名医给我看病。各种各样的药片都吃遍了，各种各样的煎药味儿也闻遍了。我看过您《神鞭》中写的“老佛爷的生发散”对吧！这些祖传秘方我都使过。但是鬼剃头的脑袋好比瓷壶一样极其顽固，硬是根毛不长…]]></summary>
-        <author>
-            <name>塘国日月</name>
         </author>
     </entry>
     <entry>
@@ -654,78 +1032,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一个bioconductor包居然发在了cancer research杂志]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/906</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/906"/>
-        <updated>2021-05-22T04:46:18.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/-dcAaAqy5E1R3zituP9K7Q]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3个分组的表达量矩阵的两两之间差异分析]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/905</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/905"/>
-        <updated>2021-05-22T04:45:19.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/XBXKoonUzlNZG_c3lCeFjA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[转录组讲师带你读文献(8)-RNA-Seq与表观组学结合]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/904</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/904"/>
-        <updated>2021-05-22T04:44:40.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/SPDX4iMbigF-grBPVAkneQ]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glimma 交互式可视化RNA-seq数据]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/903</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/903"/>
-        <updated>2021-05-22T04:44:05.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/0Sj4ZFOtlr9ORixvxflDcA]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代谢组学无非也是差异分析和富集分析]]></title>
-        <id>https://github.com/ixxmu/mp_duty/issues/902</id>
-        <link href="https://github.com/ixxmu/mp_duty/issues/902"/>
-        <updated>2021-05-22T04:43:32.000Z</updated>
-        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/dfiH_0C_aN9q3PA4v3mFJg]]></summary>
-        <author>
-            <name>ixxmu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金弢——经典往事，小说三题]]></title>
-        <id>https://www.douban.com/group/topic/226950795/</id>
-        <link href="https://www.douban.com/group/topic/226950795/"/>
-        <updated>2021-05-20T21:03:10.000Z</updated>
-        <summary type="html"><![CDATA[经典往事——小说三题            金弢
-题一： 《叶儿》 弘扬知恩图报
-题二： 《老黄》 倡首人间有爱
-题三： 《二叔》 今版忆苦思甜
-一、 叶儿
-作者按：“知识青年到农村去，到边疆去！广阔天地，大有作为！祖国在召唤，人民在召唤”……一九七四年，年届十八的金弢，于杭州外国语学校高中毕业。为响应祖国人民的召唤，打起背包，告别父母，离弃城市，来到浙江、桐庐、儒桥村插队落户，接受贫下中农的再教育，与当地农民同吃、同住、同劳动，打成一片，为时三年，直至文革结束，一九七七年考入北外。
-小说《叶儿》是作者为纪念不曾忘却的知青生活，为思念朝夕相处的山村社员，为怀念与之休戚与共的儒桥村而作......
-叶儿幼小丧父，与娘相依为命，孤儿寡母，度日惟艰。但叶儿天资聪颖，长得浓眉大眼，直鼻方口，两耳垂肩，村里人都说他生有一副天子相。为母闻之虽觉听得顺耳，但心想这只是村里人说说好听话而已。
-一日，叶儿放学回家告诉母亲，说他今天路过村庙门口，泥塑菩萨站了起来。为母骂儿子胡说八道，看花了眼。次日，儿子回家又跟母亲说：
-“我不是骗你，是真的，今天菩萨又站了起来。不信，你就跟我去看。”
-母亲将信将疑，一把抓起做女工的剪子，随儿子而去。快到村庙时，母亲喝住儿子：“你先别过来，在这里等着，我叫你你再过来。”
-母亲转身进了村庙，把剪子搁在菩萨盘坐的泥腿上，然后退出庙门招呼儿子过来。没想到儿子刚走到庙门口，搁在菩萨腿上的剪子霍然落地。母亲一下子明白了儿子果真是天子命。他生有一双慧眼，能看到常人看不到的东西，村里人的话没错。母亲顿时感激涕零，一把揪过儿子，卟嗵一起跪在菩萨面前，口中不停地喊道：“菩萨有眼，大慈大悲，大德大福！”
-回家后，母亲心想，这定是他爸前世的造化。一边给儿子做饭，一边想着：自男人走后，村里张家、李家、三叔、五婶的时有接济。儿子将来有了出息，得办酒请客，好好报答人家。想到此，她不禁喃喃自…]]></summary>
-        <author>
-            <name>金弢869</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[丹麦吐司 Croissant Loaf]]></title>
         <id>https://www.youtube.com/watch?v=Exw7vHVWLbo</id>
         <link href="https://www.youtube.com/watch?v=Exw7vHVWLbo"/>
@@ -733,99 +1039,6 @@
         <summary type="html"><![CDATA[丹麦吐司 Croissant Loaf 结合了土司内部的松软，和牛角包香甜丰富的味道。而它自己的独特之处就是在外观上最大程度的利用了面团里面的层次。面包的表面和侧面可以看到非常多的层次。是一个非常与众不同的面包。丹麦面包食谱：高筋面粉或者没有漂白过的中筋面粉：470克水：240克酵母：8克 鸡蛋：1糖：50克盐：...]]></summary>
         <author>
             <name>小高姐的 Magic Ingredients</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《包办一切》村田浩一]]></title>
-        <id>https://www.douban.com/group/topic/224609180/</id>
-        <link href="https://www.douban.com/group/topic/224609180/"/>
-        <updated>2021-05-05T18:03:16.000Z</updated>
-        <summary type="html"><![CDATA[“啊，混帐，又被整了。”
-　　诚一咂咂嘴。从公司回来，脱下西服一看，上面被人贴了纸片。纸片上写着这样的话：
-　　“包办一切！你的烦恼，我来解决。从庭院扫除到保镖。请跟我联系。”
-　　“到底是谁，搞这种恶作剧。”
-　　他十分愤慨。这已经是第三次了。在从公司回寓所的路上，不知被谁贴了这张纸片。难道是在乘电车的时候吗？还是在车站前等候信号的时候。不管怎么说都让人生气。
-　　最近，这种手法的恶作剧多了起来，街上经常能够看到被贴了这种纸片的人。从后面看到这样的纸片，笑着说“眼不见心不烦”之类的话的诚一，自己也没有例外地遭此厄运。
-　　世上还真有做这些无聊事的家伙。
-　　几天后的一个傍晚，在从车站回家的路上，有人从后面把诚一叫住。回头一看，叫住自己的人是位年轻女性。
-　　“是这样的，我有一件难事，请你务必要帮帮我。”
-　　“哎！怎么回事，我一点也……”
-　　“哎呀，可是，你。”
-　　女子用手指了指诚一的后背。
-　　“啊，难道？”
-　　诚一慌忙脱下西服。西服上贴着与以往相同的纸贴。
-　　“是这么回事。”
-　　刚一开口，诚一改变了主意。对方看上去是个大美人。能稍微聊上几句也不错。诚一揭下纸贴塞进口袋，同女子进了附近的咖啡馆。
-　　困扰女子的问题是这样的。现在，有个男的提出跟她交往，而她对此没有一点兴趣。她想让诚一帮他想一个能巧妙拒绝对方的好办法。
-　　“这种事容易得很。”
-　　诚一火速与女子一起去了男子的家。然后大声说出我要和她结婚了，你别找麻烦这样的话。对方好像屈服了，什么也没说。
-　　“谢谢！多亏了你，那个人大概不会再缠着我了。你帮了我的大忙。”
-　　“是吗，有为难的事请随时给我来电话。”
-　　诚一在贴纸的背面写上自己寓所的电话号码交给了女子。
-　　女子屡次给诚一打来电话。她的请求，或者是帮忙搬家，或者是给从乡下来的父母做东京的向导，或者是打扫房间、准备饭什么的。诚一每次都欣然接受。毕…]]></summary>
-        <author>
-            <name>郊区的鳥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《钢琴》针村让司]]></title>
-        <id>https://www.douban.com/group/topic/224593546/</id>
-        <link href="https://www.douban.com/group/topic/224593546/"/>
-        <updated>2021-05-05T16:18:03.000Z</updated>
-        <summary type="html"><![CDATA[大约一个月前，我开始学钢琴。
-　　当然，我知道从二十岁才开始学钢琴无论怎么说都是太晚了。可是不管怎么说我就是想学。
-　　许多朋友听说我要学钢琴都瞪大了眼睛，其中有几个朋友赞扬我的行动力，也有几个朋友一本正经地说我是个怪人。
-　　“学钢琴？你认真的？”
-　　一个朋友这样对我说。我默默地点了点头。
-　　“为什么突然要学？”
-　　“想给大学时代留下一点什么。能证明自己那时的确曾经认真地生活过。”
-　　“噢。”
-　　“你怎么看，我这么做……”
-　　“太老派了。”
-　　他不屑一顾地说。
-　　然而事实并非如此。在大学时代留下点什么，这种高尚的理由我在决定去学钢琴前根本没想过。
-　　事实是这样的。
-　　我现在在某大学的工程系上学。学工程的女生少自不必说了。人数少也就罢了，好女生更是少之又少。所以，我在学校的教室里极少跟女生说话。
-　　在质和量都匮乏的工程系女生中，只有一名是非常出色的女生，她的确很出色。她似乎是把少年们永远的梦想集于一身的女孩。 我们私下里称她为“公主”。
-　　在一个星期五的下午，我上完课以后正往书包里收拾笔记和教科书的时候，公主”走过来了，她在我旁边的椅子上坐下来。
-　　“哎，今天有空吗？”
-　　“公主”认真地注视着我，对我说。当然，与“公主”说话这是第一次。
-　　“有话想跟你说。陪我去咖啡馆什么的坐坐好吗？”
-　　面对这突如其来的事件，我的心剧烈地跳动。可是，虽然心里充满和她约会的冲动，嘴上却淡淡地回答说：
-　　“啊，对不起，我今天有钢琴课。”
-　　——对不起， 今天有钢琴课……
-　　也就是说为了这个借口，自己才学的钢琴。
-　　然而，“公主”始终没有再请我去咖啡馆了。
-　　我已经快学完《成人钢琴教程》第二十课了。
-ピアノ
-針村譲司
-　ほんの一ヵ月前、僕はピアノを習い始めた。
-　もちろん二十歳からピアノを始めるのは何が何でも遅すぎることくらい、僕にも良く解っていた。でも僕はどうしてもピアノを習いたかった。
-　多くの友達は、僕がピアノを習うことに対して文字通り目を丸くし、何人は僕の行動力を褒め、何人かは僕のことを本気でおかしな奴だと言った。
-　「マジでおまえピアノ始めんのかよ」
-　ある友達が僕に向かってそう言った。僕は黙って肯いた。
-　「どうして急に？」
-　「大学時代に何かを残したくなったんだ。確かに僕はあの頃を一生懸命生きていたっていう何かをね」
-　「ふうん」
-　「どう思う？こういうの」
-　「はやらないよ」
-　彼はつまらなそうにそう言った。
-　でも本当は違った。僕は決して大学時代に何かを残したいとか、そういった高尚な理由でピアノを習いたいと思ったわけではなかった。
-　つまりはこういうことだ。
-　僕は今、ある大学の工学部に通っている。当然ながら工学部に女の子は少ない。数が少ないだけならまだしも、質だって相当なものだ。よって、僕は滅多に教室で女の子と話をすることがない。
-　そんな量質共に恵まれない工学部の女性陣の中にも、たったひとりだけとびきりの女の子がいた。彼女は本当にとびきりだった。少年たちの永遠の夢をひとりで引き受けたみたいな女の子だった。僕らは彼女のことを密かに「姫」と呼んでいた。
-　ある金曜日の午後、僕が最後の授業を終えてノートや教科書を鞄の中にしまっていると、姫が僕の所までやってきて隣の席に座る。
-　「ねぇ、今日これから暇？」
-　姫は目をパチパチさせながら僕に向かってそう言う。もちろん姫と話すのはこれが初めてだ。
-　「少しお話ししたいことがあるんだけれど。喫茶店かどこかで。つきあってくれない？」
-　僕は突然のことに心踊らせる。しかし、彼女とデートしたいという衝動に駆られながらも、僕はあっさりこう答える。
-　「あ、ごめん。今日ピアノなんだ」
-　 ーーごめん、今日ピアノなんだ…
-　つまり、このセリフを言うために僕は今、ピアノを習っているのである。
-　しかし、いつまでたっても姫は僕を喫茶店に誘ってはくれない。
-　僕はすでに「大人のためのバイエル」の二十番を終えようとしている。]]></summary>
-        <author>
-            <name>郊区的鳥</name>
         </author>
     </entry>
 </feed>
