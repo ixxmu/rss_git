@@ -1,8 +1,7 @@
-#  cacheUrl: https://ixxmu.github.io/rss_git/cache.json #貌似不能动  
+#  cacheUrl: https://ixxmu.github.io/rss_git/cache.json # OK 貌似不能动
 sources:
 #  - href: https://css-tricks.com/feed/ 
 #  - href: https://www.smashingmagazine.com/feed/
-#  - href: https://www.freecodecamp.org/news/rss/
   - href: https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/
   - href: https://hub.kkitown.xyz/douban/group/shortstories/
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw
