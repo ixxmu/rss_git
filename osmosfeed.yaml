@@ -1,4 +1,4 @@
-#  cacheUrl: https://ixxmu.github.io/rss_git/cache.json # OK 貌似不能动
+   cacheUrl: https://ixxmu.github.io/rss_git/cache.json
 sources:
    - href: https://css-tricks.com/feed/ 
 #  - href: https://www.smashingmagazine.com/feed/
