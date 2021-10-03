@@ -6,139 +6,139 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=344019",
-          "author": "Farai Gandiya",
-          "description": "As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…\nThe post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/",
-          "publishedOn": "2021-07-23T15:12:11.000Z",
-          "wordCount": 2288,
-          "title": "Web Features That May Not Work As You’d Expect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345209",
+          "id": "https://css-tricks.com/?p=352717",
           "author": "Chris Coyier",
-          "description": "Dave:\npetite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps \n…\nThe post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://daverupert.com/2021/07/petite-vue-review/",
-          "publishedOn": "2021-07-23T15:10:08.000Z",
-          "wordCount": 1060,
-          "title": "My petite-vue review"
+          "description": "How To Use The Vite Build Tool with React — Vite is hot, in part, because it’s based on esbuild and wickedly fast. It’s from Evan You of Vue fame, but it’s not a Vue-specific tool. Here, NARUHODO covers how \n…\nThe post Links on React and JavaScript II appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-react-and-javascript-ii/",
+          "publishedOn": "2021-10-01T21:09:25.000Z",
+          "wordCount": 759,
+          "title": "Links on React and JavaScript II"
         },
         {
-          "id": "https://css-tricks.com/?p=344960",
+          "id": "https://css-tricks.com/?p=352867",
           "author": "Chris Coyier",
-          "description": "Eric, again not mincin’ no words with blog post titles. This is me:\nThe most common CSS declaration organization technique I come across is none whatsoever.\nAlmost none, anyway. I tend to group them by whatever dumps out of my …\nThe post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/",
-          "publishedOn": "2021-07-22T22:33:29.000Z",
-          "wordCount": 965,
-          "title": "Organize your CSS declarations alphabetically"
+          "description": "I'm certainly not dogmatic about it, but I think if you can pull of a project with literally zero build process, it feels good while working on it and feels very good when you come back to it months/years later and can just pick up and go.\nThe post Using the platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://elisehe.in/2021/08/22/using-the-platform",
+          "publishedOn": "2021-10-01T18:50:43.000Z",
+          "wordCount": 3344,
+          "title": "Using the platform"
         },
         {
-          "id": "https://css-tricks.com/?p=344580",
-          "author": "Nathan Babcock",
-          "description": "We’re going to walk through the technical process of hooking into Google Drive’s API to source content on a website. We’ll examine the step-by-step implementation, as well as how to utilize server-side caching to avoid the major pitfalls to avoid …\nThe post Using Google Drive as a CMS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-google-drive-as-a-cms/",
-          "publishedOn": "2021-07-22T14:44:26.000Z",
-          "wordCount": 3094,
-          "title": "Using Google Drive as a CMS"
+          "id": "https://css-tricks.com/?p=352798",
+          "author": "Jamie Barton",
+          "description": "Directives are one of GraphQL’s best — and most unspoken — features.\nLet’s explore working with GraphQL’s built-in schema and operation directives that all GraphQL spec compliant APIs must implement. They are extremely useful if you are working with a …\nThe post Working With Built-in GraphQL Directives appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/working-with-built-in-graphql-directives/",
+          "publishedOn": "2021-10-01T14:35:02.000Z",
+          "wordCount": 1462,
+          "title": "Working With Built-in GraphQL Directives"
         },
         {
-          "id": "https://css-tricks.com/?p=344330",
+          "id": "https://css-tricks.com/?p=352475",
+          "author": "Tobias Günther",
+          "description": "A commit can be something that helps us stay on top of things. It can be a container for related changes that belong to one and only one topic, and thereby make it easier for us to understand what happened.\nIn this post, we’re talking about what it takes to produce the \"perfect\" commit.\nThe post Creating the Perfect Commit in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-the-perfect-commit-in-git/",
+          "publishedOn": "2021-09-30T14:29:36.000Z",
+          "wordCount": 2013,
+          "title": "Creating the Perfect Commit in Git"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350620",
           "author": "Chris Coyier",
-          "description": "Hashnode is a free platform for developer blogging. Say you’ve just finished an ambitious project and want to write about 10 important lessons you’ve learned as a developer during it. You should definitely blog it—I love that kind of blog post, myself. Making a jump into the technical debt of operating your own blog isn’t a small choice, but it’s important to own your own content. With Hashnode, the decision gets a lot easier. You can blog under a site you entirely own, and at the same time, reap the benefits of hosted software tailor-made for developer blogging and be part of a social center around developer writing.\nThe post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/hashnode-a-blogging-platform-for-developers/",
-          "publishedOn": "2021-07-22T14:39:09.000Z",
-          "wordCount": 985,
-          "title": "Hashnode: A Blogging Platform for Developers"
+          "description": "(This is a sponsored post.)\nOf the languages that browsers speak, I’d wager that the very first one that developers decided needed some additional processing was HTML. Every single CMS in the world (aside from intentionally headless-only CMSs) …\nThe post Comparing HTML Preprocessor Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/comparing-html-preprocessor-features/",
+          "publishedOn": "2021-09-30T14:00:00.000Z",
+          "wordCount": 2416,
+          "title": "Comparing HTML Preprocessor Features"
         },
         {
-          "id": "https://css-tricks.com/?p=344950",
+          "id": "https://css-tricks.com/?p=352723",
+          "author": "Ollie Williams",
+          "description": "Chrome developer advocate Jake Archibald called 2016 “the year of web streams.” Clearly, his prediction was somewhat premature. The Streams Standard was announced back in 2014. It’s taken a while, but there’s now a consistent streaming API implemented …\nThe post Web Streams Everywhere (and Fetch for Node.js) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/",
+          "publishedOn": "2021-09-29T14:51:25.000Z",
+          "wordCount": 2250,
+          "title": "Web Streams Everywhere (and Fetch for Node.js)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352627",
+          "author": "Geoff Graham",
+          "description": "I was pretty stoked when Chris shared a way to “View Source” on mobile. Sure, it’s not the same as a built-in feature but it allows iOS users like myself a way to peek at a site’s code the …\nThe post Front-End Dev Shortcuts in iOS 15 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/front-end-dev-shortcuts-in-ios-15/",
+          "publishedOn": "2021-09-29T14:51:22.000Z",
+          "wordCount": 1217,
+          "title": "Front-End Dev Shortcuts in iOS 15"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352669",
           "author": "Chris Coyier",
-          "description": "Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible because it was out …\nThe post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/",
-          "publishedOn": "2021-07-21T21:08:17.000Z",
-          "wordCount": 557,
-          "title": "Yet Another Mobile Context Menu With No Indication it Can Scroll"
+          "description": "I had one of those little single-serving designer helper sites bookmarked the other day: getwaves.io. Randomized SVG waves! Lots of cool options! Easy to customize! Easy to copy and paste! Well played, z creative labs. \n\nBut then I …\nThe post So many little design helper sites! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/so-many-little-design-helper-sites/",
+          "publishedOn": "2021-09-28T21:00:04.000Z",
+          "wordCount": 651,
+          "title": "So many little design helper sites!"
         },
         {
-          "id": "https://css-tricks.com/?p=344948",
+          "id": "https://css-tricks.com/?p=352681",
           "author": "Chris Coyier",
-          "description": "Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. \nimport configData from './config-data.json' assert {type: \n…\nThe post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://2ality.com/2021/06/json-modules.html",
-          "publishedOn": "2021-07-21T21:08:08.000Z",
-          "wordCount": 634,
-          "title": "ECMAScript proposal: JSON modules"
+          "description": "Just last week I got one of those really?! 🤨 faces when this fact came up in conversation amongst smart and engaged fellow web developers: there is no browser choice on iOS. It’s all Safari. You can download apps that …\nThe post iOS Browser Choice appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/ios-browser-choice/",
+          "publishedOn": "2021-09-28T14:26:23.000Z",
+          "wordCount": 1798,
+          "title": "iOS Browser Choice"
         },
         {
-          "id": "https://css-tricks.com/?p=344337",
-          "author": "Mark Noonan",
-          "description": "Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …\nThe post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/",
-          "publishedOn": "2021-07-21T14:37:07.000Z",
-          "wordCount": 4654,
-          "title": "A Step-By-Step Process for Turning Designs Into Code"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345062",
-          "author": "Robin Rendle",
-          "description": "Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:\nModern UI teams are designing components \n…\nThe post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85",
-          "publishedOn": "2021-07-20T23:34:53.000Z",
-          "wordCount": 737,
-          "title": "The Nine States of Design"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344944",
+          "id": "https://css-tricks.com/?p=352073",
           "author": "Chris Coyier",
-          "description": "Eric doesn’t mince words, especially in the title, but also in the conclusion:\nIn modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in \n…\nThe post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "publishedOn": "2021-07-20T20:02:06.000Z",
-          "wordCount": 1645,
-          "title": "Your Image Is Probably Not Decorative"
+          "description": "(This is a sponsored post.)\nNow in its tenth year (!!!), Web Unleashed is one of the top events for web devs. It’s coming up quick: October 20-22, 2021. \nThe lineup is amazing. You’ll hear from leaders in …\nThe post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://fitc.ca/event/webu21/",
+          "publishedOn": "2021-09-28T14:24:34.000Z",
+          "wordCount": 1491,
+          "title": "Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off)"
         },
         {
-          "id": "https://css-tricks.com/?p=344497",
-          "author": "Murtuzaali Surti",
-          "description": "I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …\nThe post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/",
-          "publishedOn": "2021-07-20T15:03:40.000Z",
-          "wordCount": 3279,
-          "title": "Typewriter Animation That Handles Anything You Throw at It"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344404",
+          "id": "https://css-tricks.com/?p=352621",
           "author": "Chris Coyier",
-          "description": "Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img> and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …\nThe post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/images-are-hard/",
-          "publishedOn": "2021-07-19T20:51:07.000Z",
-          "wordCount": 970,
-          "title": "Images are hard."
+          "description": "I enjoy little frameworks like Tonic. It’s essentially syntactic sugar over <web-components /> to make them feel easier to use. Define a Class, template literal an HTML template, probably some other fancy helpers, and you’ve got a component …\nThe post Tonic (Component Framework) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/tonic-component-framework/",
+          "publishedOn": "2021-09-27T18:52:46.000Z",
+          "wordCount": 636,
+          "title": "Tonic (Component Framework)"
         },
         {
-          "id": "https://css-tricks.com/?p=343893",
-          "author": "Bramus Van Damme",
-          "description": "The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Thanks to the @scroll-timeline at-rule and animation-timeline property this specification provides, you can control the time position of regular CSS Animations by scrolling.\nIn this post, we’ll take …\nThe post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/",
-          "publishedOn": "2021-07-19T14:43:29.000Z",
-          "wordCount": 2213,
-          "title": "Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines"
+          "id": "https://css-tricks.com/?p=352211",
+          "author": "Ravgeet Dhillon",
+          "description": "A lot of people these days are setting up their own newsletters. You’ve got the current big names like Substack and MailChimp, companies like Twitter are getting into it with Revue, and even Facebook is getting into the …\nThe post Collecting Email Signups With the Notion API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/collecting-email-signups-with-the-notion-api/",
+          "publishedOn": "2021-09-27T15:26:01.000Z",
+          "wordCount": 4239,
+          "title": "Collecting Email Signups With the Notion API"
         },
         {
-          "id": "https://css-tricks.com/?p=344217",
+          "id": "https://css-tricks.com/?p=352287",
           "author": "Chris Coyier",
-          "description": "We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …\nThe post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/",
-          "publishedOn": "2021-07-16T20:27:46.000Z",
-          "wordCount": 714,
-          "title": "WordPress Admin Warnings in the Block Editor"
+          "description": "Say you have a z-index bug. Something is being covered up by something else. In my experience, a typical solution is to put position: relative on the thing so z-index works in the first place, and maybe rejigger the z-index…\nThe post Systems for z-index appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/systems-for-z-index/",
+          "publishedOn": "2021-09-24T21:19:49.000Z",
+          "wordCount": 1257,
+          "title": "Systems for z-index"
         },
         {
-          "id": "https://css-tricks.com/?p=344147",
-          "author": "Mate Marschalko",
-          "description": "Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!\nHere’s a quick look at the clocks …\nThe post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/",
-          "publishedOn": "2021-07-16T14:43:01.000Z",
-          "wordCount": 5143,
-          "title": "Of Course We Can Make a CSS-Only Clock That Tells the Current Time!"
+          "id": "https://css-tricks.com/?p=352533",
+          "author": "Chris Coyier",
+          "description": "Big thoughts on where the industry is headed from Shawn Wang:\nAdvancements in two fields — programming languages and cloud infrastructure — will converge in a single paradigm: where all resources required by a program will be automatically provisioned, and \n…\nThe post The Self Provisioning Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.swyx.io/self-provisioning-runtime/",
+          "publishedOn": "2021-09-24T18:56:43.000Z",
+          "wordCount": 2153,
+          "title": "The Self Provisioning Runtime"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352342",
+          "author": "Eric Markfield",
+          "description": "Let’s say we want to add something to a webpage after the initial load. JavaScript gives us a variety of tools. Perhaps you’ve used some of them, like append, appendChild, insertAdjacentHTML, or innerHTML.\nThe difficult thing …\nThe post Comparing Methods for Appending and Inserting With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/",
+          "publishedOn": "2021-09-24T14:34:59.000Z",
+          "wordCount": 2554,
+          "title": "Comparing Methods for Appending and Inserting With JavaScript"
         }
       ]
     },
@@ -148,274 +148,274 @@
       "siteUrl": "https://github.com/ixxmu/mp_duty/issues",
       "articles": [
         {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1103",
+          "id": "https://github.com/ixxmu/mp_duty/issues/1307",
           "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/F41JHNEDbtMWllvOqkVlhQ",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1103",
-          "publishedOn": "2021-07-26T03:48:39.000Z",
-          "wordCount": 1238,
-          "title": "真的！森林图(Forest Plot)全部绘制技巧都在这了"
+          "description": "https://mp.weixin.qq.com/s/KeAIZ-ZJOHypwA7LAxVyVg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1307",
+          "publishedOn": "2021-10-02T12:40:42.000Z",
+          "wordCount": 434,
+          "title": "绝了！近期郑州二手房市场有多奇葩！"
         },
         {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1102",
+          "id": "https://github.com/ixxmu/mp_duty/issues/1306",
           "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/EY4psNxQRIs0c-9OXhDUqA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1102",
-          "publishedOn": "2021-07-26T01:44:17.000Z",
-          "wordCount": 1178,
-          "title": "单细胞数据质控-双细胞预测-scrublet使用教程"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1101",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/RgUJSG8CiSJd-4wv0dMvKA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1101",
-          "publishedOn": "2021-07-26T01:44:04.000Z",
-          "wordCount": 665,
-          "title": "分裂期的细胞分析时需要过滤吗？"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1100",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/nqYPhQfA3O2zsiY6fkiySQ",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1100",
-          "publishedOn": "2021-07-26T01:43:49.000Z",
-          "wordCount": 1054,
-          "title": "单细胞学习之细胞周期分析"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1099",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/77iajQfe7LibaApzrr8nkA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1099",
-          "publishedOn": "2021-07-26T01:43:34.000Z",
-          "wordCount": 775,
-          "title": "单细胞转录组基础分析三：降维与聚类"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1098",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/F-gKEJOwYzZUcC5ZHE0LHQ",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1098",
-          "publishedOn": "2021-07-26T01:43:17.000Z",
-          "wordCount": 811,
-          "title": "注意！单细胞RNA数据存在细胞周期效应，嘉因教您如何处理"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1097",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/FX8GnDmenQ3EJ3hHtKV3iw",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1097",
-          "publishedOn": "2021-07-26T01:41:45.000Z",
-          "wordCount": 1101,
-          "title": "过滤线粒体基因表达过高的细胞"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1096",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/V3dw6y7KxU9yUNY93CglQg",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1096",
-          "publishedOn": "2021-07-26T01:41:29.000Z",
-          "wordCount": 493,
-          "title": "单细胞数据中到底应该如何处理线粒体基因"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1095",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/Y3MGFab7kg2Kmm9RbyF4wQ",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1095",
-          "publishedOn": "2021-07-26T00:24:52.000Z",
-          "wordCount": 795,
-          "title": "忽略大小写的“merge”"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1094",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/g9Fp-ffzi3p8LAQnOc4Qjw",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1094",
-          "publishedOn": "2021-07-26T00:09:53.000Z",
-          "wordCount": 538,
-          "title": "Illumina上机前处理及测序全网最全教程！"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1093",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/gp4gay47jhkq7qTVKE54jQ",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1093",
-          "publishedOn": "2021-07-26T00:05:09.000Z",
-          "wordCount": 757,
-          "title": "这么分析TME+lncRNA，8+轻松拿下"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1092",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/1tykulMweydz3zdH8ZXTyA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1092",
-          "publishedOn": "2021-07-25T23:52:41.000Z",
-          "wordCount": 784,
-          "title": "用ggtreeExtra给进化树加热图"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1091",
-          "author": "nc-animation",
-          "description": "https://zhuanlan.zhihu.com/p/358407848",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1091",
-          "publishedOn": "2021-07-25T07:29:51.000Z",
-          "wordCount": 456,
-          "title": "日本为什么那么不喜欢中国？"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1090",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/gsW8kQjXwr9AjyjI1WfFvw",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1090",
-          "publishedOn": "2021-07-24T15:44:37.000Z",
-          "wordCount": 1081,
-          "title": "TCGA 数据分析实战 —— 富集分析"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1089",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/bPl8lMma2-g7w4qEeDrH0Q",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1089",
-          "publishedOn": "2021-07-24T04:30:41.000Z",
-          "wordCount": 643,
-          "title": "使用R优雅的处理压缩文件"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1088",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/i0Gv4h2b4goVzRSRJmkadw",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1088",
-          "publishedOn": "2021-07-23T14:19:06.000Z",
-          "wordCount": 767,
-          "title": "没想到自己会放弃conda（docker镜像的pyscenic做单细胞转录因子分析）"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1087",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/djioprwXLPIX94ZY31uMnw",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1087",
-          "publishedOn": "2021-07-23T01:15:12.000Z",
-          "wordCount": 486,
-          "title": "郑州洪灾的启示：这种极端场景或许会从千年一遇变成一年一遇"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1086",
-          "author": "ixxmu",
-          "description": "https://m.cnbeta.com/wap/view/1156481.htm",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1086",
-          "publishedOn": "2021-07-22T08:25:49.000Z",
-          "wordCount": 449,
-          "title": "archive_request"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1085",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/Im2NsXZwi28pnFfIGStj3Q",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1085",
-          "publishedOn": "2021-07-22T01:01:37.000Z",
-          "wordCount": 497,
-          "title": "如果说分子克隆是科研人的氧气，那么很多研究生都快要窒息。"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1084",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/l4wL4Sy9UWEvvfHa7K91rg",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1084",
-          "publishedOn": "2021-07-21T08:00:23.000Z",
-          "wordCount": 734,
-          "title": "决策树算法理解和应用"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1083",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/xxlmNjG-Mw9A2wFF72e9mA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1083",
-          "publishedOn": "2021-07-21T07:58:15.000Z",
-          "wordCount": 477,
-          "title": "原来，我在郑州已经18年了！"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1082",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/jxLeCSgNYRAYs4xWJ1BKGQ",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1082",
-          "publishedOn": "2021-07-20T17:19:41.000Z",
-          "wordCount": 535,
-          "title": "【官宣：特大自然灾难战备状态】前方水坝突发决口！驰援爆破；定向泄洪一地做好撤离准备！房屋倒塌，汽车冲走，地铁被淹...救援进行中"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1081",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/lpe7pjUIJTbdIRLhUyKqKg",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1081",
-          "publishedOn": "2021-07-20T10:23:28.000Z",
-          "wordCount": 529,
-          "title": "今天，在郑州看海！1千万郑州人笑哭！"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1080",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/2M7RVYQjh6swysZKjYN13w",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1080",
-          "publishedOn": "2021-07-17T02:43:16.000Z",
-          "wordCount": 740,
-          "title": "仅仅是改变了统计学显著性呢？还是说改变了其本性"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1079",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/EACO65lIHAzYu5u4bFDbvw",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1079",
-          "publishedOn": "2021-07-17T02:39:00.000Z",
-          "wordCount": 834,
-          "title": "上下调基因各自独立进行GO数据库的3分类富集(求美图代码)"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1078",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/YjraGRBCc725IfhYB1VPKQ",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1078",
-          "publishedOn": "2021-07-17T02:34:26.000Z",
-          "wordCount": 2202,
-          "title": "RNA-Seq数据分析上下游打通"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1077",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/eAfkhX0SJu1lytZeXdsh0Q",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1077",
-          "publishedOn": "2021-07-17T02:31:04.000Z",
-          "wordCount": 616,
-          "title": "SCENIC转录因子分析结果的解读"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1076",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/Dq3E7PAo8Rzavl8wE5eT-w",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1076",
-          "publishedOn": "2021-07-17T02:20:27.000Z",
-          "wordCount": 712,
-          "title": "多次差异分析难道就需要多个火山图吗"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1075",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/xUjG3MtZ-3ULlkIH0oyRpA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1075",
-          "publishedOn": "2021-07-16T15:01:53.000Z",
-          "wordCount": 550,
-          "title": "你是喜欢错落有致还是竖立排列整齐"
-        },
-        {
-          "id": "https://github.com/ixxmu/mp_duty/issues/1074",
-          "author": "ixxmu",
-          "description": "https://mp.weixin.qq.com/s/BxFyk-GJmVDTeJSM7SbtUA",
-          "link": "https://github.com/ixxmu/mp_duty/issues/1074",
-          "publishedOn": "2021-07-16T10:58:49.000Z",
+          "description": "https://mp.weixin.qq.com/s/HcP2cteWKVbxRoWzHjp9Pw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1306",
+          "publishedOn": "2021-10-01T09:54:08.000Z",
           "wordCount": 520,
-          "title": "2区6分SCI，两个多月接收，换个肿瘤可重复"
+          "title": "单细胞转录组的时间序列数据分析"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1305",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/HcP2cteWKVbxRoWzHjp9Pw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1305",
+          "publishedOn": "2021-10-01T09:33:45.000Z",
+          "wordCount": 520,
+          "title": "单细胞转录组的时间序列数据分析"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1304",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/HuJRV0-lM-dLAyOBeLN3rQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1304",
+          "publishedOn": "2021-10-01T02:02:41.000Z",
+          "wordCount": 447,
+          "title": "《Cancer Cell》：生信分析与CRISPR基因编辑技术的巧妙结合（IF=31.7）"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1303",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/AVYCpKVOfQ6eln6XR5EtUQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1303",
+          "publishedOn": "2021-09-30T13:20:03.000Z",
+          "wordCount": 556,
+          "title": "挺神奇的，认真准备背景知识后，Cell没那么难懂了。"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1302",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/pTa0lHpXc4y-p7bRskPHHQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1302",
+          "publishedOn": "2021-09-30T10:29:29.000Z",
+          "wordCount": 506,
+          "title": "大会落幕，是时候为中州大道正名了！"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1301",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/AeJKkBuKgGiaUBVF3XMYpg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1301",
+          "publishedOn": "2021-09-30T08:24:38.000Z",
+          "wordCount": 468,
+          "title": "巧妙！免疫预后模型构建发13分+SCI"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1300",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/m3u5NyO0fD24076ksV3puw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1300",
+          "publishedOn": "2021-09-29T06:15:03.000Z",
+          "wordCount": 490,
+          "title": "单基因结合免疫干湿结合打造8分+2区SCI"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1299",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/HZm379DTDavFe_2ipTA81A",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1299",
+          "publishedOn": "2021-09-29T00:42:06.000Z",
+          "wordCount": 882,
+          "title": "m6A可视化，'RCAS' R包学习及在苹果作物研究中的使用"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1298",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/F-qU7udyQGNNvDYG0i355w",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1298",
+          "publishedOn": "2021-09-29T00:04:52.000Z",
+          "wordCount": 630,
+          "title": "表达量矩阵全部更改为0-1矩阵会影响降维聚类分群吗？"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1297",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/uTFAwzURRPDoNF7v5im7Mw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1297",
+          "publishedOn": "2021-09-28T14:32:52.000Z",
+          "wordCount": 440,
+          "title": "一个父亲的选择：铤而走险自制药，还是等着孩子死去"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1296",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/7sFpjbv5YCKpRNjBuVm8rA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1296",
+          "publishedOn": "2021-09-27T22:40:02.000Z",
+          "wordCount": 2211,
+          "title": "生信笔记 | 文本挖掘的一般流程"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1295",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/h66uuMHSAK-Fr91-Zd8_MA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1295",
+          "publishedOn": "2021-09-27T16:46:37.000Z",
+          "wordCount": 544,
+          "title": "FindMarkers做差异分析默认就不会返回全部基因"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1294",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/wztbNue917Ul5CTj8mp0vQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1294",
+          "publishedOn": "2021-09-27T16:44:07.000Z",
+          "wordCount": 450,
+          "title": "分享一个装B ao小技巧"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1293",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/kwf5nH4Z8Pa1OjCF1_IMzA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1293",
+          "publishedOn": "2021-09-27T16:38:56.000Z",
+          "wordCount": 1303,
+          "title": "专注于Agilent microRNA 芯片数据的处理R包-AgiMicroRna"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1292",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/blyt5L54AI_X9wdUsHP3JQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1292",
+          "publishedOn": "2021-09-27T12:12:45.000Z",
+          "wordCount": 472,
+          "title": "读文献之前要做哪些准备啊，每个人的习惯不一样，但是一定要准备。"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1291",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/kJvmDaErKGYpLlww_1nVTg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1291",
+          "publishedOn": "2021-09-27T12:02:10.000Z",
+          "wordCount": 475,
+          "title": "使用CRISPR/Cas9的朋友注意啦，Cas9激活P53并富集P53突变"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1290",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/ed_0ZNYO-86AFe72XMtGbQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1290",
+          "publishedOn": "2021-09-27T09:38:38.000Z",
+          "wordCount": 535,
+          "title": "河南大学艰难入郑，暗藏大棋局，破了一亿河南人的心病！"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1289",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/dLZnKvdg2xi0jjKIqMw_YA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1289",
+          "publishedOn": "2021-09-27T00:05:40.000Z",
+          "wordCount": 498,
+          "title": "多个时间点的ROC曲线还可以这样画！"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1288",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/40LlFgUlILo3rLPgBxY7ew",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1288",
+          "publishedOn": "2021-09-26T23:24:42.000Z",
+          "wordCount": 1144,
+          "title": "为什么CD4阳性T细胞并不是表达CD4最多的"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1287",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/Go9PxoZadH7mSGrGlv3tAA",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1287",
+          "publishedOn": "2021-09-26T23:17:57.000Z",
+          "wordCount": 1469,
+          "title": "基于python的scanpy模块的乳腺癌单细胞数据分析"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1286",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/CknoRpqklERMDjEHFaISAQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1286",
+          "publishedOn": "2021-09-26T22:54:44.000Z",
+          "wordCount": 430,
+          "title": "为了孩子，高新、经开、常西湖、二七滨河、管南新区，我们应该去哪里买房？"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1285",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/87xT9sZEL5OrYZAsLx3dRw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1285",
+          "publishedOn": "2021-09-26T22:27:13.000Z",
+          "wordCount": 710,
+          "title": "富集分析的p值是怎么算出来的？"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1284",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/2f-WkN4nA8qqj4pC7Kg-Zw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1284",
+          "publishedOn": "2021-09-23T03:57:08.000Z",
+          "wordCount": 456,
+          "title": "蹭热点要抓紧，一个影响肿瘤免疫治疗的重要靶点：CDXX"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1283",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/mywIZCUZbYAli1WMcrOvmw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1283",
+          "publishedOn": "2021-09-21T04:12:47.000Z",
+          "wordCount": 430,
+          "title": "没买天价学区房，没考一场试，我的邻居如何入学最牛逼的郑州外国语总校？"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1282",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/-sdYyBG_zB6Lhi9vHkpKBw",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1282",
+          "publishedOn": "2021-09-20T23:20:15.000Z",
+          "wordCount": 896,
+          "title": "单细胞分析十八般武艺：NMF"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1281",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/xm4T2_sRTsMLUpqbCP1b7Q",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1281",
+          "publishedOn": "2021-09-20T23:08:16.000Z",
+          "wordCount": 445,
+          "title": "27分——肿瘤免疫微环境异质性的成功之路"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1280",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/iXNKj9wiG8VP22pqigaUoQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1280",
+          "publishedOn": "2021-09-20T23:08:00.000Z",
+          "wordCount": 457,
+          "title": "多组学文章揭开非T细胞炎性肿瘤的面纱"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1279",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/PxO0iFQ5o9JiRKzoe1kXRg",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1279",
+          "publishedOn": "2021-09-16T00:31:48.000Z",
+          "wordCount": 527,
+          "title": "你不会以为它们的免疫评分都是自己算的吧"
+        },
+        {
+          "id": "https://github.com/ixxmu/mp_duty/issues/1278",
+          "author": "ixxmu",
+          "description": "https://mp.weixin.qq.com/s/_zgSPVc1qQFPYQseM_esLQ",
+          "link": "https://github.com/ixxmu/mp_duty/issues/1278",
+          "publishedOn": "2021-09-16T00:29:27.000Z",
+          "wordCount": 615,
+          "title": "指定病人的指定基因的突变全景瀑布图"
         }
       ]
     },
@@ -425,139 +425,58 @@
       "siteUrl": "https://www.douban.com/group/shortstories/",
       "articles": [
         {
-          "id": "https://www.douban.com/group/topic/236310095/",
-          "author": "niyeyede",
-          "description": "导读：纪莫森,古姒,见姒起意, 不如我成人之美 , 听着那端男人熟悉的嗓音，古姒红唇淡淡勾起，掐断电话，拧着手机的力度逐渐加深。 \n\n\n\n\n\n简介： 《见姒起意》纪莫森古姒小说目录男女主角为纪莫森,古姒，是作者佚名所著作的一本非常好看的言情小说，已完本 快看。全文讲述了： \n~~~~❤❤精彩章节阅读❤❤~~~~\n \n他的眼睛像检查一样，冰冷而没有感情。\n古姒扯了扯嘴唇，故意问：“这是谁？”\n江洛清立刻侧身介绍，手掌自然落在古姒瘦弱的背上。“我忘了介绍，这是我叔叔，郁骁。”\n古姒表面上静静地点点头，心里却像阳光下的狗--\n郁骁竟然是江洛清的舅舅？整部《美人》最大的投资方和出品方岂不是于笑的亲戚？！\n古姒的心顿时发泄了出来。她本想远离绕过于笑讨好江洛清，没想到绕过去，还是和他有交集。\n心波涛汹涌，表面波澜不惊。\n她礼貌地点了点头，轻声喊道：“叔叔你好。”\n略带禁忌的话语让男人的眼睛暗了几度。\n从看她骑马开始，她纤细的双腿就骑在那匹野性的黑马上。骑马时，她的头发飞扬，充满了女性特有的性感洒脱，他的腹部莫名发热。\n盯着她洁白汗湿的脸颊，从眼睛一直萦绕到嘴唇，久久地盯着她的嘴唇。\n他记得昨晚在车厢封闭的空间里亲吻她果冻般的嘴唇的那种难忘的温暖，一夜都没睡好。\n\n\n\n\n\n他的喉结不自觉地动了。很明显，他被她激怒了。此刻，他的脑子里只想把那匹野马绑起来，狠狠地教训他一顿。\n \n~~~✿❀以上便是《见姒起意》纪莫森古姒为男女主角的 部分精彩章节的全文，希望大家喜欢！！！❀✿~~~~",
-          "link": "https://www.douban.com/group/topic/236310095/",
-          "publishedOn": "2021-07-26T10:25:21.000Z",
-          "wordCount": 112,
-          "title": "推荐：纪莫森古姒男女主角《见姒起意》纪古森莫姒小说完整版目录"
+          "id": "https://www.douban.com/group/topic/248599562/",
+          "author": "cej",
+          "description": "",
+          "link": "https://www.douban.com/group/topic/248599562/",
+          "publishedOn": "2021-10-02T11:27:57.000Z",
+          "wordCount": 100,
+          "title": "安利自己开发的读书笔记打卡小程序"
         },
         {
-          "id": "https://www.douban.com/group/topic/236296972/",
-          "author": "凡所",
-          "description": "翠花自觉是一个有远见的女人，却也避不开惯性思维。\n在他们乡下，一个人如果不想活了，要寻死的方法有两个，一个是跳河，一个是服毒。\n跳河自不必说，耳熟能详，死相很难看，翠花不喜欢。于是，她仅剩的方法就是服毒，通俗一点，就是喝农药。\n翠花心想：农药这个东西，说来是药，却是用来杀虫的，和避孕药差不多，那么去农药店也就相当于去药店。这样一比划，她就去了农药店。\n农药店散发着各种刺鼻的气味，闻着想吐，翠花走到门口又有些犹豫了。店老板大拿眼看不妙，蹿出来唤住了她。\n大拿问：是杀虫呢？还是催长？我这里全得很。\n翠花捂着鼻子：有没有味儿淡的？\n大拿一楞，要么杀虫，要么催长，怎么还有好这口的？脑瓜子摸了摸，去后院拿了一瓶青色的农药出来。\n翠花闻了闻，气味还可以，像臭袜子味儿。麻利的付了钱，放在篮子里就回去了。\n秋去冬来，年关将至。一年收成算下来，抵上赌债，竟还是欠了人家两万块。翠花气爆了，和丈夫阿强吵得昏天暗地，谁劝都不好使。看着阿强那个狗样，她气得眼睛发绿，只好使出了自己的后手。她跑进柴房，把那瓶农药翻了出来，咕咚两下子就干光了，快到硬是没尝出什么味道来。\n这下爽了，翠花看着阿强那个魂飞魄散的样儿，哈哈大笑起来，随后晕厥了过去……\n新年过后，阿强去接翠花出院。夫妇俩乐呵地买了鞭炮和锦旗，去农药店门口热闹了一番。大拿接过锦旗，羞羞怯怯地，登上了县电视台的。\n锦旗上写着：以假乱真，悬壶济世。\n\n自己写的。。",
-          "link": "https://www.douban.com/group/topic/236296972/",
-          "publishedOn": "2021-07-26T06:35:45.000Z",
+          "id": "https://www.douban.com/group/topic/248178657/",
+          "author": "初与久歌",
+          "description": "想找一篇短篇小说，余秋雨的《牌坊》里面提到过，美国作家司徒华达比克的《热冰》",
+          "link": "https://www.douban.com/group/topic/248178657/",
+          "publishedOn": "2021-09-27T20:17:29.000Z",
           "wordCount": 103,
-          "title": "药"
+          "title": "《热冰》"
         },
         {
-          "id": "https://www.douban.com/group/topic/236211110/",
-          "author": "豆友123567",
-          "description": "《白阮夜琛》《白阮夜琛白桐》抖音全文~阅\n《白阮夜琛》《白阮夜琛白桐》抖音全文~阅\n《白阮夜琛》《白阮夜琛白桐》抖音全文~阅\n\n\n\n     白阮抬头，就看到一个画着精致妆容的女人站在自己面前。  她一眼就认出，来人就是那个产妇，夜希的亲生妈妈。\n     “我叫白桐，我知道是你收养了希希。”  白桐说着，没有半分愧疚心虚。  眼前白桐的态度，让白阮不禁有些疑惑：“为什么不要他？”  \n     白桐笑了笑：“他跟着你，会比跟着我幸福。”  白阮愣了下，不明白她话的意思。  一时间，气氛沉寂了下来。 \n     这时，白桐的电话响了起来。  她看了眼，嘴角弯起抹笑对白阮说：“我老公来接我了，希希就拜托你了。”  说完，就转身离去。  \n       白阮看着她背影，久久才收回目光。  回到家时，夜父夜母已经到了。  吃过晚饭，一家人围着孩子说笑。  看着这一幕，白阮突然想到了今天发生的事。  “我今天见到希希的妈妈了。”",
-          "link": "https://www.douban.com/group/topic/236211110/",
-          "publishedOn": "2021-07-25T12:49:38.000Z",
-          "wordCount": 119,
-          "title": "《白阮夜琛》《白阮夜琛白桐》抖音全文~阅"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/236145347/",
-          "author": "豆友123567",
-          "description": "《凤芜霜南御缜》《凤凰陨落神形惧毁》凤芜霜南御缜全文~阅\n《凤芜霜南御缜》《凤凰陨落神形惧毁》凤芜霜南御缜全文~阅\n\n\n\n     芸霜望着内室挂着的一幅仙子画像，目光苍茫。  画像中的人有三分似她，却不是她，而是她夫君天地司法雷神南御缜心中的未亡人……  “公主，您还是出来吧，若殿下回来，又该生气了。”\n      仙娥胭脂小声道。  “知道了。”  凤芸霜身形单薄的从室内走出。  来到雷神殿外面，天空紫云密布。  失神之极，豆大的雨滴落在了她的身上。\n       凤芸霜没有用仙力，任由雨落遍全身，她想若当初陨落得是自己，南御缜是不是也会将她的画像挂在内室，日日思念？  可惜没有如果……  眼看日暮西落，她忍不住传音给南御缜。 \n       “殿下，你今日能不能回来？”  冷冽的声音不肖半刻从传音镜那边传来：“本殿回不回，与你何干？”  凤芸霜闻言喉中一涩。  南御缜更是不耐烦：“三公主，还有何事？”",
-          "link": "https://www.douban.com/group/topic/236145347/",
-          "publishedOn": "2021-07-24T19:20:55.000Z",
-          "wordCount": 140,
-          "title": "《凤芜霜南御缜》《凤凰陨落神形惧毁》凤芜霜南御缜全文~阅"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/235929859/",
-          "author": "当世",
-          "description": "《年轻女孩》\n——马歇尔·普鲁斯特\n一天，我正在沙滩边聚精会神地走着，突然看到，如两只正欲展翅的海鸟一般，有两个年轻的女孩，或者说两个年轻的女人，她们那不熟识的外貌和风度，倨傲且从容的步伐，无疑是两个我从未见过的陌生人；她们不看向任何人，当然也没有注意到我。接下来的几天，我都没有再见到她们，这也证实了我的感觉：他们只是路过我们这座滨海小镇，这里的每个人都彼此相识，过着同一种生活，一天相约四次玩千篇一律的幼稚沙滩游戏。但是又过了几天，我看到了五六个同类型的女孩，她们聚集于停在沙滩边的一辆豪华马车旁。马车里的女孩正向其他人告别，那些女孩也赶紧骑上系在一旁的马背，匆匆离开了。我觉得自己认出了那天走在沙滩上的两个女孩之一，尽管并不确信，但是这次她的的确确就在我面前，一头红发，淡色且美丽的眼睛停留在我身上，鼻翼在风中颤动，那顶同海鸥在风中飞翔时张开的翅膀一样的帽子，正在她那头红色鬈发上摩挲着。她们离开了。\n此后，我时不时就能见到她们。她们中那两个女孩我已经能够分辨出来，并且希望能一直见到她们。有时我偶遇到这个奇怪的团体，发现她们不在其中，便会感到难过。然而我既不知道她们来自哪里，也不知道她们何时会到这，也就从来不会期望她们的出现，不会痴心渴望见到她们，所以当她们突然出现在我面前时，我甚至紧张地忘记了喜悦。她们都是当地显贵的女儿或侄女，这些家庭是一些贵族，或者是有钱且掺上了贵族气的家庭，他们一年里来C过上几周。她们并不住在镇子里，其中有些人的宅邸非常近，不过几公里远，她们经常在这个时节来到沙滩边。当然，她们的圈子中并非每个人都如此高贵，但因为形成一个团体的缘故，所有人都被赋予了一种独特的优雅、精致、机敏，一种带有轻蔑的骄傲，因此，在我的世界中，她们是和其他女孩完全不同的存在。对于我来说，她们的穿着实在太过非凡，我不知如何用言语去形容，这或许也能简单地说明一点：她们打发时间的那些活动，像…",
-          "link": "https://www.douban.com/group/topic/235929859/",
-          "publishedOn": "2021-07-22T20:13:28.000Z",
-          "wordCount": 2502,
-          "title": "《The New Yorker》July 12，2021（自己尝试翻译的，原文附后）"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/235875149/",
+          "id": "https://www.douban.com/group/topic/247092317/",
           "author": "goodbyetoalltha",
           "description": "",
-          "link": "https://www.douban.com/group/topic/235875149/",
-          "publishedOn": "2021-07-22T11:31:04.000Z",
-          "wordCount": 108,
-          "title": "Israel by junot diaz"
+          "link": "https://www.douban.com/group/topic/247092317/",
+          "publishedOn": "2021-09-16T17:16:16.000Z",
+          "wordCount": 106,
+          "title": "Ron Rash 《模范犯》"
         },
         {
-          "id": "https://www.douban.com/group/topic/235852720/",
-          "author": "妙妙",
-          "description": "我觉得阿城的每字每句都很戳人，细致里带着几分粗俗，每读完个短篇都要缓一缓再看下一个。",
-          "link": "https://www.douban.com/group/topic/235852720/",
-          "publishedOn": "2021-07-22T02:34:02.000Z",
-          "wordCount": 103,
-          "title": "《遍地风流·溜索》（中）阿城"
+          "id": "https://www.douban.com/group/topic/246800791/",
+          "author": "半跏",
+          "description": "“各位小朋友，不要眨眼了！”董志希把一根白色的粗绳子向他们展示，然后放进黑色礼帽中，灵活地向上空做些古怪的手势，配合有趣的咒语：“玛喱玛喱巴巴阿卡啦！”\n当他伸手把绳子取出来时，它不但变成红色，还取之不尽，一直连绵拖延在地上，绳子了很长很长小朋友瞠目结舌。有顽皮的，还欲上前搜索他的暗袋：“我要拆穿你！”\n \n他叫：“喂喂喂，这是掩眼法——”\n \n有人在喊：“不要爬在大哥哥身上！真顽皮！”\n \n又召集：“过来唱生日歌切蛋糕了”\n \n董志希离开生日会时，是下午五时半，这是他的兼职。——他喜欢魔术，也爱听小朋友的笑声。\n \n其实他最沉迷一刹那自欺欺人的迷惑感觉。普天之下的魔术师，都惑于时空光景疑幻疑真。——有魔术朱被拆穿之时，悸动而又珍真，很有满足感。神秘面纱一旦被风吹走，现实是个骗局。\n \n小朋友的笑声在他身后随大门关上，陡地中止了。\n \n董志希的欢容如百叶帘也陡地扯下来。他下班了，已经不必强颜欢笑了。正如他自小被取笑，名唤志希也就是自欺，最适合玩魔术吧。\n \n不过，魔术师也会失恋的。——如果爱情是一种魔术的话，这趟他便失手。有些人周未周日忙得不知如何编排玩乐时间。有些人是没地方可去的。\n \n所以三个月来都尽量接JOB.表演娱宾之后，好似特别空虚。他的笑不是快乐，因此也特别累。\n \n无聊地路过一个屋屯，忽然隆然巨响，爆炸发生了。\n \n玻璃碎片凌空洒落。大门也被震开，飞出走廊向街上弹去。石屎块有大有小，夹着杂物，击向途人。\n \n“救命啊！救命呀！”\n \n情况非常混乱。\n \n董志希走避不及，被一角石屎击中，血流披面。耳畔杂沓而空远的人声：“有人开煤气自杀呀！”\n \n“哎呀，好痛呀！”\n \n“快走啦！危险呀！”\n \n他在忙逼中，随手拾起散落一地的衣物布碎来掩抹伤口。鲜血滴在眼睛上，一片殷红。他跌跌撞撞，滚过一旁。\n \n觉得自己好脏，好腥好想马上洗个澡，把一切洗涤干净。\n \n迷糊中一回…",
+          "link": "https://www.douban.com/group/topic/246800791/",
+          "publishedOn": "2021-09-13T21:27:39.000Z",
+          "wordCount": 164,
+          "title": "《大眼睛中的花袜子》（中国）李碧华"
         },
         {
-          "id": "https://www.douban.com/group/topic/235840171/",
-          "author": "唐辞",
-          "description": "森林深处，生长着一棵药树。\n只要咬一口，就可以治愈所有疾病或伤口，所以，动物们一旦受伤，就会向森林里仅有的药树求助。药树俨然是森林里的医生。\n不过，药树只有在受伤的时候才能取药。所以，动物们会在暴风雨过后的第二天去拜访药树，帮它洗去泥土，清理枝叶，擦拭树皮，经过一番护理之后，再从被强风刮伤的树皮上取一点药。\n但是有一天，森林里来了一个男人，他把刀插进药树，扒开深深的伤口，用刀子刮出药往瓶子里塞。他打算带着这些药回城里卖。小动物们趴在药树的枝杈上，气急败坏地想要攻击他，但是药树却制止了。\n这个男人觉得不够，想在药树上再插一刀，但是手一滑，他割伤了自己的手。为了治愈伤口，男人吃了药树的药。\n刀从男人的手中滑落，眼泪顺着他的脸颊流了下来，为了生存而放弃良心的创伤痊愈了。",
-          "link": "https://www.douban.com/group/topic/235840171/",
-          "publishedOn": "2021-07-21T23:22:16.000Z",
-          "wordCount": 103,
-          "title": "微小说｜森林里的药树"
+          "id": "https://www.douban.com/group/topic/246258879/",
+          "author": "全都是风",
+          "description": "没法回复就直接发帖啦，希望这位豆友能注意到～",
+          "link": "https://www.douban.com/group/topic/246258879/",
+          "publishedOn": "2021-09-10T21:27:15.000Z",
+          "wordCount": 289,
+          "title": "万玛才旦：《水果硬糖》"
         },
         {
-          "id": "https://www.douban.com/group/topic/235785127/",
-          "author": "Gadiva",
-          "description": "《小王子》第一章（初次了解到讲述者是一个飞行员以及他对大人的想法）\n《小王子》第二章（讲述者在沙漠中坠机以及结识小王子）\n《小王子》第三章（讲述者进一步了解到小王子来自哪里）\n《小王子》第四章（讲述者推测小王子来自哪颗小行星）\n《小王子》第五章（关于猴面包树危险的警告）\n《小王子》第六章（小王子和讲述者谈论日落）\n《小王子》第七章（讲述者获悉小王子生命的秘密）\n《小王子》第八章（玫瑰花来到小王子的行星）\n《小王子》第九章（小王子离开他的行星，与玫瑰花道别）\n《小王子》第十章（小王子拜访国王）\n《小王子》第十一章（小王子拜访自命不凡的人）\n《小王子》第十二章（小王子拜访酒徒）\n《小王子》第十三章（小王子拜访商人）\n《小王子》第十四章（小王子拜访点灯人）\n《小王子》第十五章（小王子拜访地理学家）\n《小王子》第十六章（讲述者谈论地球的点灯人）\n《小王子》第十七章（小王子结识蛇）\n《小王子》第十八章（小王子去寻找人类，遇到一朵花儿）\n《小王子》第十九章（小王子攀越山脉）\n《小王子》第二十章（小王子发现玫瑰花园）\n《小王子》第二十一章（小王子与狐狸做朋友）\n《小王子》第二十二章（小王子遇到铁路扳道工）",
-          "link": "https://www.douban.com/group/topic/235785127/",
-          "publishedOn": "2021-07-21T15:49:21.000Z",
-          "wordCount": 101,
-          "title": "我自己翻译的《小王子》"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/235745445/",
-          "author": "红颜 知己",
-          "description": "看小说更有想象感",
-          "link": "https://www.douban.com/group/topic/235745445/",
-          "publishedOn": "2021-07-21T09:41:36.000Z",
-          "wordCount": 104,
-          "title": "我喜欢看小说"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/235626852/",
-          "author": "唐辞",
-          "description": "女孩因怕做噩梦而不敢入睡，虽然她的床上有小狗、小猫、小猪、考拉、兔子等毛绒玩具，但女孩还是害怕睡觉。\n只有外婆在的时候，女孩才会感到踏实和安心。外婆每天都会坐在女孩的床边，给她讲故事。有快乐的故事，有悲伤的故事，还有有趣的故事……女孩总是在各种各样的故事里安心入眠。\n但是有一天，外婆睡着了。\n女孩被一个亲戚收养了，再也没有人给她讲故事了，女孩独自一人度过了许多难眠的夜晚，她不敢入睡，因为害怕做噩梦。\n上帝觉得女孩很可怜，所以，一到晚上，上帝就给女孩讲故事，他像女孩的外婆一样，用故事来安慰她。对女孩来说，虽然外婆的故事更有趣，但她还是在上帝的故事里睡着了。\n上帝很难想象外婆会有那么多故事。直到有一天，他讲了同样的故事，女孩没有睡着。上帝想了想。他决定请六位天使为她创作故事。\n六位天使绞尽脑汁，每天轮流给女孩讲故事。从夜空中响起的故事，每晚都能让女孩安心入睡。\n女孩不再做噩梦，而是做着在快乐的故事世界里行走的梦。\n不过，天使们终于也山穷水尽了，即使他们六个一起想故事，也无法像外婆那样想出那么多故事。这六位天使商量了一下，最后拜托夜空中闪烁的星星们为女孩创造故事。\n银河中有无数的星星。星星们也有无数个的故事。星星们每天轮流给女孩讲故事。而这些星星中还有女孩的外婆。",
-          "link": "https://www.douban.com/group/topic/235626852/",
-          "publishedOn": "2021-07-20T07:21:00.000Z",
-          "wordCount": 103,
-          "title": "治愈微小说｜众神的摇篮曲"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/235411640/",
-          "author": "待到山花烂漫时",
-          "description": "作者∶蓝苹\n\n　　（一）\n　　在一个严冬的朝晨，天还有点儿黑黑的，可是他们，八个努力剧运的朋友，已经开始冒着凛烈的寒风，向着那个名山附近的农村出发了。\n　　一条陡而长的山路，就像条粗大的蛇，从一对牛角般的两个山峰中间蜿蜒下去，一直到山下，然后钻进了村子里去。风，在山谷里，枯枝上，茅屋顶……咬紧了牙关似的狠命的吼着。淡淡的太阳凄凉而又寂寞地躺在那儿，呆望着投射在冰雪上的金色星星，和着那粗暴的曲子——风——舞蹈着。\n　　这条山路是此地居民来往的要道，不论在清晨，或是黄昏，甚至在雨雪的天气，总是不断的有人在走着的，可是今天却连一个人影都没有，一直到“喀隆……”，从山上发出来刺人耳朵的爆竹的回声，这才使他们记忆起了今天是旧历年初二来了，农民们都在家里享着新年的快乐哩，谁还来跑这条累死人的山路呢?\n　　“到了!”突然一声长而又尖锐的欢呼，在那正在酣睡的山谷里颤抖着。一个颀长的女孩子出现在那两个牛角山峰之间。她那一脸难以形容的兴奋，加上被风吹蓬的短发，很有点猛扑下山的狮子的风韵。\n　　“努力呀，小唐子!”她用力的举起一条膀子，在空中飞舞着，似乎这样的动作可以把她的力量传给别的人。\n　　几个背负着箱子，包袱的青年，先后出现在山峰之间。当他们发现山下有村子的时候，在他们那疲乏的脸上，突然敷上了无限的欢悦。这当儿，一个瘦小的十六七岁的女孩子爬上来了，但是马上气喘喘的往地上一坐。\n　　“怎么?小唐子，累得很吗?”那个颀长的女孩子跑来关心的问。\n　　“唔，还好，荧!”嘴唇儿有点儿抖抖的。\n\n　　（二）\n　　“这儿不能休息呀!风太大，回头受了风，要妨害我们的公演的。”荧说着把小唐子披在颊上的乱发给她塞进了帽子里去。\n　　“唐子，妈妈背着你走吧!”背着一只大皮箱的老费，他曾经扮演过梅雨里的妈妈，想逗起小唐子的精神，故意这样说。\n　　“呸!谁要你这样的妈妈?背你的皮箱去吧!小唐子。放出一点儿负气来!”…",
-          "link": "https://www.douban.com/group/topic/235411640/",
-          "publishedOn": "2021-07-18T10:32:59.000Z",
-          "wordCount": 301,
-          "title": "农村演剧生活"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/235364256/",
-          "author": "小英",
-          "description": "",
-          "link": "https://www.douban.com/group/topic/235364256/",
-          "publishedOn": "2021-07-17T20:48:08.000Z",
-          "wordCount": 103,
-          "title": "今天过得太幸福了，以至于没什么感想可抒发，挤不出一句可以配图的文案。"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/235139039/",
-          "author": "唐辞",
-          "description": "小镇上，一个女孩在卖苹果，这些苹果是奶奶亲手栽种的，尽管地形崎岖苹果生长困难，奶奶仍然全年无休地努力照顾这些果树。但是苹果还是很难卖出去。因为奶奶和女孩是女巫，人们认为这些苹果是有毒的。\n“没有轻松的路，所以不要放弃。”奶奶一边说着，一边和女孩一起照顾苹果树。女孩把这句话牢记在心，无论刮风下雨，她都会沿街卖苹果。\n一天，她终于找到了要买她苹果的人。\n买苹果的是一个年轻人，年轻人把苹果放在手心，喝了一口水，做了深呼吸，然后他才咬下一口苹果。\n他咀嚼着的面庞微微的颤抖，好似在等待什么事情发生。数分钟后，他突然跪倒在地，双手捂着脸，发出呜呜的声音。抬头时，早已泪流满面。\n“我以为这个苹果能让我解脱……”年轻人伤心的说。\n女孩不知道他在说什么。但是女孩把奶奶的话告诉了他：“没有轻松的路，所以不要放弃。”",
-          "link": "https://www.douban.com/group/topic/235139039/",
-          "publishedOn": "2021-07-15T22:29:43.000Z",
-          "wordCount": 303,
-          "title": "微小说｜女巫的苹果"
-        },
-        {
-          "id": "https://www.douban.com/group/topic/234609910/",
-          "author": "Heartworm",
-          "description": "想找一本外国的小说 \n封面是一颗树上面坐着两个女孩树下站着一个男孩\n前面有个情节是女孩好像喜欢上了男孩 女孩住在一个小镇上好像是卖报纸 镇上的村民也都很奇怪 时不时有乌鸦飞过 有个山还挺危险 男孩好像还死了\n最后是两个女孩被接到爱尔兰的一个庄园里\n还涉及到了一位小姐的复仇计划\n求求了!!",
-          "link": "https://www.douban.com/group/topic/234609910/",
-          "publishedOn": "2021-07-11T20:04:25.000Z",
-          "wordCount": 133,
-          "title": "想找一本书很早之前看的书名不记得了麻烦大家说一下书名嘛谢谢!"
+          "id": "https://www.douban.com/group/topic/245407353/",
+          "author": "当世",
+          "description": "意面之年\n村上春树\n\n1971年是意面之年。\n\n1971年，我用意面维系着生存，我生存就是为了做意面。锅上升起的蒸汽蕴含了我的骄傲与喜悦，番茄酱在平底锅上沸腾给我的人生带来了希望。\n\n我前往一家专业烹饪店，买了厨房定时器和一个巨大的铝锅，它大到足以让一只德牧在里面洗澡，然后我走遍进口食品商场，收集了各式各样、名称古怪的调味料。我在书店里买了一本面食食谱，又去买了一大堆番茄。我购买了市面上能见到的所有牌子的意面，自己烹调出各种酱汁。蒜、洋葱、橄榄油的微粒充斥在空气中，混合成一种协调的气味，渗透进我这小小公寓的每个角落，弥漫在地板、天花板和墙上，还沾染了我的衣物、书、唱片、网球拍和捆成束的旧信件。这种气味你可能在古罗马的沟渠里闻到。\n\n这是公元1971年，一个意面之年的故事。\n\n作为惯例，我独自做好意面，然后享用它。我相信，意面是最适合独自品尝的食物。我无法确切地解释为何如此，总之事情就是这样。\n\n我会在吃意面时配上茶，再来一份简单的生菜黄瓜沙拉。我会确保家里头两者都充足。我把所有东西拿出来，在桌上摆放整齐，慢悠悠地享受这一餐，边吃边浏览报纸。从周日到周六，一个意面日到另一个意面日。每周末我都会换一种新牌子的意面。\n\n每次我坐在盛意面的盘子前——尤其是在下雨的午后——我都会有一种特别的感觉，像是有人在敲门。这位想象中的拜访者每次都不一样。有时是陌生人，有时是熟人。有次，我想象那是一个我在高中时约过会的、腿部苗条的女孩，有次是我自己，来自于几年之前。还有一次，我想象那是威廉·霍尔顿，他怀里抱着詹妮弗·琼斯。\n\n威廉·霍尔顿？\n\n但这些人从未进过我的公寓。他们只是在外面徘徊，也不敲门，像是倏忽而逝的记忆片段。\n\n春天，夏天，秋天，我做了一餐又一餐，就好像做意面是一种复仇行为。一个孤独的、被抛弃的女孩，将她旧爱的信件投入火中，而我将意面一把把投入锅中。\n\n我将时间聚合起来，揉成一只德…",
+          "link": "https://www.douban.com/group/topic/245407353/",
+          "publishedOn": "2021-09-06T23:12:20.000Z",
+          "wordCount": 223,
+          "title": "《The New Yorker》Sep, 6, 2021"
         }
       ]
     },
@@ -567,31 +486,22 @@
       "siteUrl": "https://www.youtube.com/channel/UCCKlp1JI9Yg3-cUjKPdD3mw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=gwdsNkqbu8g",
+          "id": "https://www.youtube.com/watch?v=1kejwmJ84Bk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=gwdsNkqbu8g",
-          "publishedOn": "2021-07-19T21:37:02.000Z",
+          "link": "https://www.youtube.com/watch?v=1kejwmJ84Bk",
+          "publishedOn": "2021-09-19T19:44:20.000Z",
           "wordCount": null,
-          "title": "煎包  Pan Fried Buns, 软面包子包法"
+          "title": "奶香月饼 Mooncakes"
         },
         {
-          "id": "https://www.youtube.com/watch?v=-P_FI0g5pdw",
+          "id": "https://www.youtube.com/watch?v=2EzQiuPmbGg",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=-P_FI0g5pdw",
-          "publishedOn": "2021-07-11T20:25:55.000Z",
+          "link": "https://www.youtube.com/watch?v=2EzQiuPmbGg",
+          "publishedOn": "2021-09-11T19:48:51.000Z",
           "wordCount": null,
-          "title": "咖喱角 Samosa"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wpj2sppTEzk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wpj2sppTEzk",
-          "publishedOn": "2021-06-30T22:38:32.000Z",
-          "wordCount": null,
-          "title": "舒芙蕾 Soufflé"
+          "title": "豌豆凉粉"
         }
       ]
     },
@@ -602,5 +512,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.11.0"
+  "cliVersion": "1.11.2"
 }
