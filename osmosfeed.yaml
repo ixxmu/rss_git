@@ -1,8 +1,29 @@
 # cacheUrl: https://ixxmu.github.io/rss_git/cache.json
 sources:
-   - href: https://css-tricks.com/feed/ 
+#   - href: https://css-tricks.com/feed/ 
 #  - href: https://www.smashingmagazine.com/feed/
-   - href: https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/
-   - href: https://hub.kkitown.xyz/douban/group/shortstories/
-   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw
-   - href: https://github.com/hellodword/wechat-feeds/raw/feeds/MzAxMDkxODM1Ng==.xml
+#   - href: https://vercelrss.vercel.app/github/issue/ixxmu/mp_duty/all/
+#  - href: https://hub.kkitown.xyz/douban/group/shortstories/
+#   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw
+#   rss 地址来源 github.com/feeddd/feeds
+- href:  https://api.feeddd.org/feeds/614364241269c358aa11a0d1 # 重庆生信菜鸟团
+- href:  https://api.feeddd.org/feeds/614364241269c358aa11a0d7 # i生信
+- href:  https://api.feeddd.org/feeds/614364241269c358aa11a0ee # 生物谷
+- href:  https://api.feeddd.org/feeds/614364241269c358aa11a0f8 # 生物信息学笔记分享
+- href:  https://api.feeddd.org/feeds/614364241269c358aa11a102 # 生信阿拉丁
+- href:  https://api.feeddd.org/feeds/614364241269c358aa11a10b # 生信宝典
+- href:  https://api.feeddd.org/feeds/614364241269c358aa11a113 # 生信菜鸟团
+- href:  https://api.feeddd.org/feeds/614365501269c358aa11a1ae # 生信发文助手
+- href:  https://api.feeddd.org/feeds/614365501269c358aa11a1b5 # 生信交流平台
+- href: https://api.feeddd.org/feeds/614365501269c358aa11a1bd # 生信技能树
+- href: https://api.feeddd.org/feeds/614365501269c358aa11a1c4 # 生信逻辑
+- href: https://api.feeddd.org/feeds/614365501269c358aa11a1ce # 生信Notes
+- href: https://api.feeddd.org/feeds/614365501269c358aa11a1d4 # 生信人
+- href: https://api.feeddd.org/feeds/614365501269c358aa11a1da # 生信师兄
+- href: https://api.feeddd.org/feeds/6143667c1269c358aa11a278 # 生信小课堂
+- href: https://api.feeddd.org/feeds/6143667c1269c358aa11a27f # 生信星球
+- href: https://api.feeddd.org/feeds/6143667c1269c358aa11a285 # 生信学霸
+- href: https://api.feeddd.org/feeds/6143667c1269c358aa11a28b # 生信药丸
+- href: https://api.feeddd.org/feeds/6143667c1269c358aa11a291 # 生信媛
+- href: https://api.feeddd.org/feeds/6143667c1269c358aa11a297 # 生信之家
+- href: https://api.feeddd.org/feeds/6143667c1269c358aa11a2a3 # 生信助手
