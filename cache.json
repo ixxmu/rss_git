@@ -1,0 +1,1306 @@
+{
+  "sources": [
+    {
+      "title": "i生信",
+      "feedUrl": "https://api.feeddd.org/feeds/614364241269c358aa11a0d7",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/SeXacYvpyJLjIRB1XY268A",
+          "author": null,
+          "description": "文献详解丨单细胞转录组和免疫如何发顶刊？这个套路你一定得学会！",
+          "link": "https://mp.weixin.qq.com/s/SeXacYvpyJLjIRB1XY268A",
+          "publishedOn": "2021-10-01T12:41:01.000Z",
+          "wordCount": 482,
+          "title": "文献详解丨单细胞转录组和免疫如何发顶刊？这个套路你一定得学会！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/XokxPqjSdPZGuZ8sEfphgQ",
+          "author": null,
+          "description": "文献详解丨Cell重磅：单细胞转录组学揭示风湿性关节炎患者免疫图谱",
+          "link": "https://mp.weixin.qq.com/s/XokxPqjSdPZGuZ8sEfphgQ",
+          "publishedOn": "2021-09-29T12:40:47.000Z",
+          "wordCount": 199,
+          "title": "文献详解丨Cell重磅：单细胞转录组学揭示风湿性关节炎患者免疫图谱"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/GrCDb3lWJBY-qQml7tQ1EQ",
+          "author": null,
+          "description": "工具篇丨MitoPhen数据库：识别线粒体基因突变相关疾病的表型",
+          "link": "https://mp.weixin.qq.com/s/GrCDb3lWJBY-qQml7tQ1EQ",
+          "publishedOn": "2021-09-23T12:40:52.000Z",
+          "wordCount": 129,
+          "title": "工具篇丨MitoPhen数据库：识别线粒体基因突变相关疾病的表型"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/hSSrIvAZx87Jx8Qz4RWxsw",
+          "author": null,
+          "description": "文献详解丨只做ceRNA机制太简单老套？快来学习这篇性价比巨高的文章思路",
+          "link": "https://mp.weixin.qq.com/s/hSSrIvAZx87Jx8Qz4RWxsw",
+          "publishedOn": "2021-09-21T08:46:18.000Z",
+          "wordCount": 75,
+          "title": "文献详解丨只做ceRNA机制太简单老套？快来学习这篇性价比巨高的文章思路"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/GHvrnzfVgkk3Ey56J90pew",
+          "author": null,
+          "description": "工具篇| PHLAT：从转录组数据或者全外显子组测序数据预测HLA 类型",
+          "link": "https://mp.weixin.qq.com/s/GHvrnzfVgkk3Ey56J90pew",
+          "publishedOn": "2021-09-16T15:31:15.000Z",
+          "wordCount": 189,
+          "title": "工具篇| PHLAT：从转录组数据或者全外显子组测序数据预测HLA 类型"
+        }
+      ]
+    },
+    {
+      "title": "生信阿拉丁",
+      "feedUrl": "https://api.feeddd.org/feeds/614364241269c358aa11a102",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/u7N91DnHY5Zq8S_QF9xgXA",
+          "author": null,
+          "description": "三代STR检测软件tandem-genotype实操",
+          "link": "https://mp.weixin.qq.com/s/u7N91DnHY5Zq8S_QF9xgXA",
+          "publishedOn": "2021-09-28T12:42:22.000Z",
+          "wordCount": 190,
+          "title": "三代STR检测软件tandem-genotype实操"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/vW34Xx5K8_C39T9klHARag",
+          "author": null,
+          "description": "全基因组测序的前世今生",
+          "link": "https://mp.weixin.qq.com/s/vW34Xx5K8_C39T9klHARag",
+          "publishedOn": "2021-09-22T12:42:21.000Z",
+          "wordCount": 146,
+          "title": "全基因组测序的前世今生"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/3MeBh8N70ZwVntuEO1h7UQ",
+          "author": null,
+          "description": "估计基因组大小， Kmer survey还是Flow Cytometry？",
+          "link": "https://mp.weixin.qq.com/s/3MeBh8N70ZwVntuEO1h7UQ",
+          "publishedOn": "2021-09-16T15:33:14.000Z",
+          "wordCount": 343,
+          "title": "估计基因组大小， Kmer survey还是Flow Cytometry？"
+        }
+      ]
+    },
+    {
+      "title": "生信发文助手",
+      "feedUrl": "https://api.feeddd.org/feeds/614365501269c358aa11a1ae",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/j91KTZwqF5fNyP1-9bM-MA",
+          "author": null,
+          "description": "快！这本6分+中科院2区期刊基本2个月左右可接受！国人友好",
+          "link": "https://mp.weixin.qq.com/s/j91KTZwqF5fNyP1-9bM-MA",
+          "publishedOn": "2021-10-01T12:43:48.000Z",
+          "wordCount": 187,
+          "title": "快！这本6分+中科院2区期刊基本2个月左右可接受！国人友好"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/AeJKkBuKgGiaUBVF3XMYpg",
+          "author": null,
+          "description": "巧妙！免疫预后模型构建发13分+SCI",
+          "link": "https://mp.weixin.qq.com/s/AeJKkBuKgGiaUBVF3XMYpg",
+          "publishedOn": "2021-10-01T12:43:48.000Z",
+          "wordCount": 93,
+          "title": "巧妙！免疫预后模型构建发13分+SCI"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/hzdxeQiZs8WNEt-tsy50eA",
+          "author": null,
+          "description": "推荐一本6分+中科院1区期刊",
+          "link": "https://mp.weixin.qq.com/s/hzdxeQiZs8WNEt-tsy50eA",
+          "publishedOn": "2021-09-27T12:43:51.000Z",
+          "wordCount": 114,
+          "title": "推荐一本6分+中科院1区期刊"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/w3l4nAi11BlLc1SGXhEw-Q",
+          "author": null,
+          "description": "6分+干湿结合鉴定头颈癌复发有关免疫基因",
+          "link": "https://mp.weixin.qq.com/s/w3l4nAi11BlLc1SGXhEw-Q",
+          "publishedOn": "2021-09-27T12:43:51.000Z",
+          "wordCount": 100,
+          "title": "6分+干湿结合鉴定头颈癌复发有关免疫基因"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/q2L_WnhtgF5Bvy6j5xyM-w",
+          "author": null,
+          "description": "国人无人问津？新刊逼近5分，快速扩刊中，1个月接收",
+          "link": "https://mp.weixin.qq.com/s/q2L_WnhtgF5Bvy6j5xyM-w",
+          "publishedOn": "2021-09-21T08:50:30.000Z",
+          "wordCount": 95,
+          "title": "国人无人问津？新刊逼近5分，快速扩刊中，1个月接收"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/sshHBUVaYqJs2SYfYMjONQ",
+          "author": null,
+          "description": "单基因结合免疫干湿结合打造8分+2区SCI",
+          "link": "https://mp.weixin.qq.com/s/sshHBUVaYqJs2SYfYMjONQ",
+          "publishedOn": "2021-09-21T08:50:30.000Z",
+          "wordCount": 115,
+          "title": "单基因结合免疫干湿结合打造8分+2区SCI"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/krG1jVI3dG3TpahdeiIE1g",
+          "author": null,
+          "description": "分享一篇初审仅1.1周的7分杂志！",
+          "link": "https://mp.weixin.qq.com/s/krG1jVI3dG3TpahdeiIE1g",
+          "publishedOn": "2021-09-16T15:35:01.000Z",
+          "wordCount": 66,
+          "title": "分享一篇初审仅1.1周的7分杂志！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/DKoOyKlfIQ-hv7vrSN7a4w",
+          "author": null,
+          "description": "8分+免疫浸润细胞中m1A调控因子介导的修饰模式",
+          "link": "https://mp.weixin.qq.com/s/DKoOyKlfIQ-hv7vrSN7a4w",
+          "publishedOn": "2021-09-16T15:35:01.000Z",
+          "wordCount": 90,
+          "title": "8分+免疫浸润细胞中m1A调控因子介导的修饰模式"
+        }
+      ]
+    },
+    {
+      "title": "生信交流平台",
+      "feedUrl": "https://api.feeddd.org/feeds/614365501269c358aa11a1b5",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/8I3PSc1NFY7KI2tmHOSamQ",
+          "author": null,
+          "description": "院士：人一生有两个阶段最能逼出成果，一是拿博士学位，二是评正教授",
+          "link": "https://mp.weixin.qq.com/s/8I3PSc1NFY7KI2tmHOSamQ",
+          "publishedOn": "2021-10-01T12:44:36.000Z",
+          "wordCount": 53,
+          "title": "院士：人一生有两个阶段最能逼出成果，一是拿博士学位，二是评正教授"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/cdDdVKjeQPlW8pR8Ai4KoQ",
+          "author": null,
+          "description": "高清动图 —— 人体内的免疫战争",
+          "link": "https://mp.weixin.qq.com/s/cdDdVKjeQPlW8pR8Ai4KoQ",
+          "publishedOn": "2021-10-01T12:44:36.000Z",
+          "wordCount": 57,
+          "title": "高清动图 —— 人体内的免疫战争"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/U0qEjhHVRPgy6kOTFHlVMw",
+          "author": null,
+          "description": "【最全R资源】Awesome R",
+          "link": "https://mp.weixin.qq.com/s/U0qEjhHVRPgy6kOTFHlVMw",
+          "publishedOn": "2021-10-01T12:44:36.000Z",
+          "wordCount": 55,
+          "title": "【最全R资源】Awesome R"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Y9j2VHgrcKSWP6EUZVICPw",
+          "author": null,
+          "description": "Annu. Rev. Genet | 杨辉团队发表量化及消除 CRISPR技术脱靶等的综述（值得收藏）",
+          "link": "https://mp.weixin.qq.com/s/Y9j2VHgrcKSWP6EUZVICPw",
+          "publishedOn": "2021-09-29T12:44:22.000Z",
+          "wordCount": 186,
+          "title": "Annu. Rev. Genet | 杨辉团队发表量化及消除 CRISPR技术脱靶等的综述（值得收藏）"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Fwt5Q2IRGod2ouJ_DUjNPw",
+          "author": null,
+          "description": "Cell | 杨辉及付向东的文章受到质疑？张春立/王蕾蕾推翻先前众多研究成果，发现神经胶质细胞的转化是一种假象",
+          "link": "https://mp.weixin.qq.com/s/Fwt5Q2IRGod2ouJ_DUjNPw",
+          "publishedOn": "2021-09-29T12:44:22.000Z",
+          "wordCount": 103,
+          "title": "Cell | 杨辉及付向东的文章受到质疑？张春立/王蕾蕾推翻先前众多研究成果，发现神经胶质细胞的转化是一种假象"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/GEjsMDjlQarlj1iwK4u1rg",
+          "author": null,
+          "description": "手把手教你画酷炫环形图（图文详解）",
+          "link": "https://mp.weixin.qq.com/s/GEjsMDjlQarlj1iwK4u1rg",
+          "publishedOn": "2021-09-29T12:44:22.000Z",
+          "wordCount": 305,
+          "title": "手把手教你画酷炫环形图（图文详解）"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/LQa67nBPjB-sN79yoKdLwQ",
+          "author": null,
+          "description": "硬核！两个博士结婚，接亲时新娘给新郎摆了盘棋局：你赢了再娶我！",
+          "link": "https://mp.weixin.qq.com/s/LQa67nBPjB-sN79yoKdLwQ",
+          "publishedOn": "2021-09-27T12:44:39.000Z",
+          "wordCount": 77,
+          "title": "硬核！两个博士结婚，接亲时新娘给新郎摆了盘棋局：你赢了再娶我！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/jVGXi9OFvN4LhCjcrSzGiw",
+          "author": null,
+          "description": "众望所归！两位mRNA先驱获拉斯克奖，张锋导师凭光遗传学获奖",
+          "link": "https://mp.weixin.qq.com/s/jVGXi9OFvN4LhCjcrSzGiw",
+          "publishedOn": "2021-09-27T12:44:39.000Z",
+          "wordCount": 101,
+          "title": "众望所归！两位mRNA先驱获拉斯克奖，张锋导师凭光遗传学获奖"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/pml6DR6nvEv8TRiPkk1qVw",
+          "author": null,
+          "description": "利用figtree软件美化进化树",
+          "link": "https://mp.weixin.qq.com/s/pml6DR6nvEv8TRiPkk1qVw",
+          "publishedOn": "2021-09-27T12:44:39.000Z",
+          "wordCount": 22,
+          "title": "利用figtree软件美化进化树"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/pmy_vIrSbHDtFzXxA7Virg",
+          "author": null,
+          "description": "《科学》杂志主编：“大学排名是“皇帝的新衣”吗？对影响因子的狂热没有任何意义”",
+          "link": "https://mp.weixin.qq.com/s/pmy_vIrSbHDtFzXxA7Virg",
+          "publishedOn": "2021-09-26T12:44:27.000Z",
+          "wordCount": 81,
+          "title": "《科学》杂志主编：“大学排名是“皇帝的新衣”吗？对影响因子的狂热没有任何意义”"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/slsaL-9ErqkksBRNhclQ9w",
+          "author": null,
+          "description": "最新诺奖预测出炉！16名学者上榜",
+          "link": "https://mp.weixin.qq.com/s/slsaL-9ErqkksBRNhclQ9w",
+          "publishedOn": "2021-09-26T12:44:27.000Z",
+          "wordCount": 98,
+          "title": "最新诺奖预测出炉！16名学者上榜"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/F4nrXlVAzYdG19-mZfFbeA",
+          "author": null,
+          "description": "MEGA构建进化树并随意修改字体类型，颜色和大小",
+          "link": "https://mp.weixin.qq.com/s/F4nrXlVAzYdG19-mZfFbeA",
+          "publishedOn": "2021-09-26T12:44:27.000Z",
+          "wordCount": 22,
+          "title": "MEGA构建进化树并随意修改字体类型，颜色和大小"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/J-y96kRQ2h3CeLkjwawmEA",
+          "author": null,
+          "description": "“SCI至上、高被引”等标准，无法选拨出一流人才！",
+          "link": "https://mp.weixin.qq.com/s/J-y96kRQ2h3CeLkjwawmEA",
+          "publishedOn": "2021-09-24T12:44:24.000Z",
+          "wordCount": 53,
+          "title": "“SCI至上、高被引”等标准，无法选拨出一流人才！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/t0sFGDzRF9Uyayc552ksoA",
+          "author": null,
+          "description": "上海交大: 博士毕业不要求发表论文！",
+          "link": "https://mp.weixin.qq.com/s/t0sFGDzRF9Uyayc552ksoA",
+          "publishedOn": "2021-09-24T12:44:24.000Z",
+          "wordCount": 62,
+          "title": "上海交大: 博士毕业不要求发表论文！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/85fTGwFyqtzsG39RkBQHKw",
+          "author": null,
+          "description": "【R语言】因子在临床分组中的应用",
+          "link": "https://mp.weixin.qq.com/s/85fTGwFyqtzsG39RkBQHKw",
+          "publishedOn": "2021-09-24T12:44:24.000Z",
+          "wordCount": 130,
+          "title": "【R语言】因子在临床分组中的应用"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/1y7tPeuAPYJ-vscB2m1k4w",
+          "author": null,
+          "description": "28岁！西湖大学最年轻博导，来了！",
+          "link": "https://mp.weixin.qq.com/s/1y7tPeuAPYJ-vscB2m1k4w",
+          "publishedOn": "2021-09-21T08:51:22.000Z",
+          "wordCount": 58,
+          "title": "28岁！西湖大学最年轻博导，来了！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/vacxWdmEftIsh7OIAXROGw",
+          "author": null,
+          "description": "日本研究团队：现代日本人可能是中国汉族等东亚民族的后代",
+          "link": "https://mp.weixin.qq.com/s/vacxWdmEftIsh7OIAXROGw",
+          "publishedOn": "2021-09-21T08:51:22.000Z",
+          "wordCount": 54,
+          "title": "日本研究团队：现代日本人可能是中国汉族等东亚民族的后代"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/J-TvCy9WzjFmDMdGHbcDjQ",
+          "author": null,
+          "description": "【R语言】R中的因子（factor）",
+          "link": "https://mp.weixin.qq.com/s/J-TvCy9WzjFmDMdGHbcDjQ",
+          "publishedOn": "2021-09-21T08:51:22.000Z",
+          "wordCount": 121,
+          "title": "【R语言】R中的因子（factor）"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/HZ6nNVQ41aWexmhq-GIvFQ",
+          "author": null,
+          "description": "透彻！博士生成长需要经历的7道门",
+          "link": "https://mp.weixin.qq.com/s/HZ6nNVQ41aWexmhq-GIvFQ",
+          "publishedOn": "2021-09-16T15:35:49.000Z",
+          "wordCount": 53,
+          "title": "透彻！博士生成长需要经历的7道门"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/gR6fNLrJ052kTjnEAkbIwg",
+          "author": null,
+          "description": "焦宁，汤富酬，刘光慧等50位入选：2021年“科学探索奖”获奖名单发布；每人奖金300万元",
+          "link": "https://mp.weixin.qq.com/s/gR6fNLrJ052kTjnEAkbIwg",
+          "publishedOn": "2021-09-16T15:35:49.000Z",
+          "wordCount": 62,
+          "title": "焦宁，汤富酬，刘光慧等50位入选：2021年“科学探索奖”获奖名单发布；每人奖金300万元"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/pR7_-q-UAn-tRYVLGlUfdA",
+          "author": null,
+          "description": "TCGA获取病例临床信息",
+          "link": "https://mp.weixin.qq.com/s/pR7_-q-UAn-tRYVLGlUfdA",
+          "publishedOn": "2021-09-16T15:35:49.000Z",
+          "wordCount": 22,
+          "title": "TCGA获取病例临床信息"
+        }
+      ]
+    },
+    {
+      "title": "生信技能树",
+      "feedUrl": "https://api.feeddd.org/feeds/614365501269c358aa11a1bd",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/hGAZ469GM8yNuM1_WIsjqg",
+          "author": null,
+          "description": "人才招聘指南|Haplox 公司生物信息工程师招聘",
+          "link": "https://mp.weixin.qq.com/s/hGAZ469GM8yNuM1_WIsjqg",
+          "publishedOn": "2021-10-01T12:45:17.000Z",
+          "wordCount": 62,
+          "title": "人才招聘指南|Haplox 公司生物信息工程师招聘"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/1qnNUcc8G9SpXoijURNt3Q",
+          "author": null,
+          "description": "引入肿瘤分子分型能提供临床分期的预后能力吗",
+          "link": "https://mp.weixin.qq.com/s/1qnNUcc8G9SpXoijURNt3Q",
+          "publishedOn": "2021-10-01T12:45:17.000Z",
+          "wordCount": 456,
+          "title": "引入肿瘤分子分型能提供临床分期的预后能力吗"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/2Ob3WtjzD8l3bLJYdEmWew",
+          "author": null,
+          "description": "estimate或者CIBERSORT结果真的是很好的临床预后指标吗",
+          "link": "https://mp.weixin.qq.com/s/2Ob3WtjzD8l3bLJYdEmWew",
+          "publishedOn": "2021-10-01T12:45:17.000Z",
+          "wordCount": 542,
+          "title": "estimate或者CIBERSORT结果真的是很好的临床预后指标吗"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ALtveTwlrXaorvzecOeHQA",
+          "author": null,
+          "description": "再次强调表达量矩阵分析一定要三张图",
+          "link": "https://mp.weixin.qq.com/s/ALtveTwlrXaorvzecOeHQA",
+          "publishedOn": "2021-09-29T12:45:03.000Z",
+          "wordCount": 109,
+          "title": "再次强调表达量矩阵分析一定要三张图"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/JsEI32u9mOd98U0o0wneIw",
+          "author": null,
+          "description": "需要开一个公众号来专门记录科研成果的生信课题组你确定不了解一下吗",
+          "link": "https://mp.weixin.qq.com/s/JsEI32u9mOd98U0o0wneIw",
+          "publishedOn": "2021-09-29T12:45:03.000Z",
+          "wordCount": 58,
+          "title": "需要开一个公众号来专门记录科研成果的生信课题组你确定不了解一下吗"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/YdYT5dlsdfePh8e9NMlJSg",
+          "author": null,
+          "description": "多时间点连续的药物处理看转录变化经典例子",
+          "link": "https://mp.weixin.qq.com/s/YdYT5dlsdfePh8e9NMlJSg",
+          "publishedOn": "2021-09-29T12:45:03.000Z",
+          "wordCount": 300,
+          "title": "多时间点连续的药物处理看转录变化经典例子"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/jTgFqlStOlgfv075IExnjg",
+          "author": null,
+          "description": "生命科学研究还能离开测序吗",
+          "link": "https://mp.weixin.qq.com/s/jTgFqlStOlgfv075IExnjg",
+          "publishedOn": "2021-09-28T12:44:31.000Z",
+          "wordCount": 162,
+          "title": "生命科学研究还能离开测序吗"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/1jSS9z8tx2B62IdabBm9ag",
+          "author": null,
+          "description": "ChIP-seq数据应该是看peaks呢还是看motif",
+          "link": "https://mp.weixin.qq.com/s/1jSS9z8tx2B62IdabBm9ag",
+          "publishedOn": "2021-09-28T12:44:31.000Z",
+          "wordCount": 317,
+          "title": "ChIP-seq数据应该是看peaks呢还是看motif"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/F-qU7udyQGNNvDYG0i355w",
+          "author": null,
+          "description": "表达量矩阵全部更改为0-1矩阵会影响降维聚类分群吗？",
+          "link": "https://mp.weixin.qq.com/s/F-qU7udyQGNNvDYG0i355w",
+          "publishedOn": "2021-09-27T12:45:09.000Z",
+          "wordCount": 252,
+          "title": "表达量矩阵全部更改为0-1矩阵会影响降维聚类分群吗？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/pP3m0n3WHSegogAOpDgw2A",
+          "author": null,
+          "description": "国庆数据挖掘文献思路集训群",
+          "link": "https://mp.weixin.qq.com/s/pP3m0n3WHSegogAOpDgw2A",
+          "publishedOn": "2021-09-27T12:45:09.000Z",
+          "wordCount": 386,
+          "title": "国庆数据挖掘文献思路集训群"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/btAc8XBuLPYLybGH5r2O9w",
+          "author": null,
+          "description": "高分文章教你如何解释你的PCA结果",
+          "link": "https://mp.weixin.qq.com/s/btAc8XBuLPYLybGH5r2O9w",
+          "publishedOn": "2021-09-25T12:43:46.000Z",
+          "wordCount": 180,
+          "title": "高分文章教你如何解释你的PCA结果"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/zBQvNKxlGSH9QVUtGrVkVA",
+          "author": null,
+          "description": "转录和蛋白水平的表达量相关性如何",
+          "link": "https://mp.weixin.qq.com/s/zBQvNKxlGSH9QVUtGrVkVA",
+          "publishedOn": "2021-09-25T12:43:46.000Z",
+          "wordCount": 126,
+          "title": "转录和蛋白水平的表达量相关性如何"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/3f2gA_GHKVUKgFYXkkRhRw",
+          "author": null,
+          "description": "生信入门课-2021第8期",
+          "link": "https://mp.weixin.qq.com/s/3f2gA_GHKVUKgFYXkkRhRw",
+          "publishedOn": "2021-09-24T12:45:25.000Z",
+          "wordCount": 142,
+          "title": "生信入门课-2021第8期"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/-uv6RbyWnF1PEz9eQwWgJQ",
+          "author": null,
+          "description": "数据挖掘（GEO,TCGA,单细胞）2021第8期",
+          "link": "https://mp.weixin.qq.com/s/-uv6RbyWnF1PEz9eQwWgJQ",
+          "publishedOn": "2021-09-24T12:45:25.000Z",
+          "wordCount": 214,
+          "title": "数据挖掘（GEO,TCGA,单细胞）2021第8期"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Ru45ZkHej7AXeZlT8sRcPw",
+          "author": null,
+          "description": "群体遗传系列之：一文了解和使用Treemix来研究群体之间的基因流",
+          "link": "https://mp.weixin.qq.com/s/Ru45ZkHej7AXeZlT8sRcPw",
+          "publishedOn": "2021-09-23T12:44:21.000Z",
+          "wordCount": 47,
+          "title": "群体遗传系列之：一文了解和使用Treemix来研究群体之间的基因流"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/40LlFgUlILo3rLPgBxY7ew",
+          "author": null,
+          "description": "为什么CD4阳性T细胞并不是表达CD4最多的",
+          "link": "https://mp.weixin.qq.com/s/40LlFgUlILo3rLPgBxY7ew",
+          "publishedOn": "2021-09-23T12:44:21.000Z",
+          "wordCount": 788,
+          "title": "为什么CD4阳性T细胞并不是表达CD4最多的"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Z0Hb87OIHirK40Oj0-lwkg",
+          "author": null,
+          "description": "转录组上游分析错误（报错大赏）",
+          "link": "https://mp.weixin.qq.com/s/Z0Hb87OIHirK40Oj0-lwkg",
+          "publishedOn": "2021-09-21T08:51:54.000Z",
+          "wordCount": 1306,
+          "title": "转录组上游分析错误（报错大赏）"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/tP_hoBtfT3En7TPCgiWXZg",
+          "author": null,
+          "description": "为什么不同癌症的lncRNA表达总数很不一样",
+          "link": "https://mp.weixin.qq.com/s/tP_hoBtfT3En7TPCgiWXZg",
+          "publishedOn": "2021-09-21T08:51:54.000Z",
+          "wordCount": 274,
+          "title": "为什么不同癌症的lncRNA表达总数很不一样"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ZBcVOH-RU0lTmtgUXGxcJg",
+          "author": null,
+          "description": "高校月饼争霸赛投票通道开启！快来给自己的学校打call吧~~",
+          "link": "https://mp.weixin.qq.com/s/ZBcVOH-RU0lTmtgUXGxcJg",
+          "publishedOn": "2021-09-16T15:36:21.000Z",
+          "wordCount": 57,
+          "title": "高校月饼争霸赛投票通道开启！快来给自己的学校打call吧~~"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/20pvoVJ7Ea5vAz3q8B_biQ",
+          "author": null,
+          "description": "带临床信息的肿瘤突变maf文件分析维度更多",
+          "link": "https://mp.weixin.qq.com/s/20pvoVJ7Ea5vAz3q8B_biQ",
+          "publishedOn": "2021-09-16T15:36:21.000Z",
+          "wordCount": 504,
+          "title": "带临床信息的肿瘤突变maf文件分析维度更多"
+        }
+      ]
+    },
+    {
+      "title": "生信逻辑",
+      "feedUrl": "https://api.feeddd.org/feeds/614365501269c358aa11a1c4",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/knjunSBLRMf2PMRGkG-fbg",
+          "author": null,
+          "description": "如何设计一个好的基金课题？（一）",
+          "link": "https://mp.weixin.qq.com/s/knjunSBLRMf2PMRGkG-fbg",
+          "publishedOn": "2021-09-27T12:46:14.000Z",
+          "wordCount": 604,
+          "title": "如何设计一个好的基金课题？（一）"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/bylicGUUXVc9_kpFqHbDJA",
+          "author": null,
+          "description": "为什么CD4阳性T细胞并不是表达CD4最多的",
+          "link": "https://mp.weixin.qq.com/s/bylicGUUXVc9_kpFqHbDJA",
+          "publishedOn": "2021-09-26T12:46:04.000Z",
+          "wordCount": 772,
+          "title": "为什么CD4阳性T细胞并不是表达CD4最多的"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ZHqqOwK38eoAlewfmPZf9A",
+          "author": null,
+          "description": "单细胞分析代码（2）-任意细胞亚群的差异分析取",
+          "link": "https://mp.weixin.qq.com/s/ZHqqOwK38eoAlewfmPZf9A",
+          "publishedOn": "2021-09-26T12:46:04.000Z",
+          "wordCount": 204,
+          "title": "单细胞分析代码（2）-任意细胞亚群的差异分析取"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ARWZYr0KMfNWaAQm5zAyKA",
+          "author": null,
+          "description": "上海交通大学：中国人群妊娠糖尿病代谢生物标志物",
+          "link": "https://mp.weixin.qq.com/s/ARWZYr0KMfNWaAQm5zAyKA",
+          "publishedOn": "2021-09-26T12:46:04.000Z",
+          "wordCount": 121,
+          "title": "上海交通大学：中国人群妊娠糖尿病代谢生物标志物"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/nQei0JXhj0kRBE9wRX2-Tw",
+          "author": null,
+          "description": "如何做一个优美的热图，pheatmap, 及相关数据的处理",
+          "link": "https://mp.weixin.qq.com/s/nQei0JXhj0kRBE9wRX2-Tw",
+          "publishedOn": "2021-09-25T12:45:26.000Z",
+          "wordCount": 129,
+          "title": "如何做一个优美的热图，pheatmap, 及相关数据的处理"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/s39Hq1RkoXeTi_jy2tkJOQ",
+          "author": null,
+          "description": "我的国自然申请经验--四年",
+          "link": "https://mp.weixin.qq.com/s/s39Hq1RkoXeTi_jy2tkJOQ",
+          "publishedOn": "2021-09-25T12:45:26.000Z",
+          "wordCount": 96,
+          "title": "我的国自然申请经验--四年"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/CH2ij-5YBjYDvDDmcP3aCA",
+          "author": null,
+          "description": "如何设计一个好的基金课题？（一）",
+          "link": "https://mp.weixin.qq.com/s/CH2ij-5YBjYDvDDmcP3aCA",
+          "publishedOn": "2021-09-25T12:45:26.000Z",
+          "wordCount": 604,
+          "title": "如何设计一个好的基金课题？（一）"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/31Yzp54wzEFWiFgTQXTiTA",
+          "author": null,
+          "description": "bigBed及bigWig格式",
+          "link": "https://mp.weixin.qq.com/s/31Yzp54wzEFWiFgTQXTiTA",
+          "publishedOn": "2021-09-25T12:45:26.000Z",
+          "wordCount": 381,
+          "title": "bigBed及bigWig格式"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/KyKbvzuxLg8oFUWRkO1pYA",
+          "author": null,
+          "description": "王宁利教授：80%眼病可防可治，建议将眼健康管理纳入慢病管理系统",
+          "link": "https://mp.weixin.qq.com/s/KyKbvzuxLg8oFUWRkO1pYA",
+          "publishedOn": "2021-09-22T12:45:07.000Z",
+          "wordCount": 56,
+          "title": "王宁利教授：80%眼病可防可治，建议将眼健康管理纳入慢病管理系统"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/YNgJe__ijt543XPlTnRBdA",
+          "author": null,
+          "description": "单细胞分析代码（3）-可视化单细胞亚群的标记基因的5个方法",
+          "link": "https://mp.weixin.qq.com/s/YNgJe__ijt543XPlTnRBdA",
+          "publishedOn": "2021-09-22T12:45:07.000Z",
+          "wordCount": 378,
+          "title": "单细胞分析代码（3）-可视化单细胞亚群的标记基因的5个方法"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/P0faxWRTBgonuOE149I4iQ",
+          "author": null,
+          "description": "福州2名眼科医生中秋值班被患者持刀刺伤，警方已立案侦查",
+          "link": "https://mp.weixin.qq.com/s/P0faxWRTBgonuOE149I4iQ",
+          "publishedOn": "2021-09-22T12:45:07.000Z",
+          "wordCount": 70,
+          "title": "福州2名眼科医生中秋值班被患者持刀刺伤，警方已立案侦查"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/H5UaaWhc3WkAIU0s8mtkww",
+          "author": null,
+          "description": "单细胞分析代码（6）-一篇NC文章单细胞分析代码再现（3）",
+          "link": "https://mp.weixin.qq.com/s/H5UaaWhc3WkAIU0s8mtkww",
+          "publishedOn": "2021-09-21T08:53:27.000Z",
+          "wordCount": 698,
+          "title": "单细胞分析代码（6）-一篇NC文章单细胞分析代码再现（3）"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/fbCmPXy7itTG9QAALIIteQ",
+          "author": null,
+          "description": "如何设计一个好的基金课题？（一）",
+          "link": "https://mp.weixin.qq.com/s/fbCmPXy7itTG9QAALIIteQ",
+          "publishedOn": "2021-09-21T08:53:27.000Z",
+          "wordCount": 604,
+          "title": "如何设计一个好的基金课题？（一）"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/vQrjyPWBDYCHKCFl1eMp3A",
+          "author": null,
+          "description": "如何设计一个好的基金课题？（二）",
+          "link": "https://mp.weixin.qq.com/s/vQrjyPWBDYCHKCFl1eMp3A",
+          "publishedOn": "2021-09-21T08:53:27.000Z",
+          "wordCount": 681,
+          "title": "如何设计一个好的基金课题？（二）"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/m9fk6IgPIg5YJf89c39inA",
+          "author": null,
+          "description": "如何分析cell与cell之间的信号交流-通路传导的关系？",
+          "link": "https://mp.weixin.qq.com/s/m9fk6IgPIg5YJf89c39inA",
+          "publishedOn": "2021-09-16T15:38:13.000Z",
+          "wordCount": 1208,
+          "title": "如何分析cell与cell之间的信号交流-通路传导的关系？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/_bWyK7rzKUq9-YDwF99LfQ",
+          "author": null,
+          "description": "免疫细胞的功能介绍--CD14+CD16+monocytes",
+          "link": "https://mp.weixin.qq.com/s/_bWyK7rzKUq9-YDwF99LfQ",
+          "publishedOn": "2021-09-16T15:38:13.000Z",
+          "wordCount": 258,
+          "title": "免疫细胞的功能介绍--CD14+CD16+monocytes"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/HbIkRDA8i1f3EDPdnrt2fA",
+          "author": null,
+          "description": "从新认识免疫应答-癌症的免疫侵润Inflitration",
+          "link": "https://mp.weixin.qq.com/s/HbIkRDA8i1f3EDPdnrt2fA",
+          "publishedOn": "2021-09-16T15:38:13.000Z",
+          "wordCount": 146,
+          "title": "从新认识免疫应答-癌症的免疫侵润Inflitration"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/FMoY0vhJ0dWF1e2SHnedeg",
+          "author": null,
+          "description": "买卖论文？科技部通报，多家大学被点名",
+          "link": "https://mp.weixin.qq.com/s/FMoY0vhJ0dWF1e2SHnedeg",
+          "publishedOn": "2021-09-16T15:38:13.000Z",
+          "wordCount": 139,
+          "title": "买卖论文？科技部通报，多家大学被点名"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/udjnWyzAf4NK69SbyPyktw",
+          "author": null,
+          "description": "好消息：Sci-Hub解封了！可以看2021新文献了！附可用网址",
+          "link": "https://mp.weixin.qq.com/s/udjnWyzAf4NK69SbyPyktw",
+          "publishedOn": "2021-09-16T15:38:13.000Z",
+          "wordCount": 111,
+          "title": "好消息：Sci-Hub解封了！可以看2021新文献了！附可用网址"
+        }
+      ]
+    },
+    {
+      "title": "生信Notes",
+      "feedUrl": "https://api.feeddd.org/feeds/614365501269c358aa11a1ce",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/7sFpjbv5YCKpRNjBuVm8rA",
+          "author": null,
+          "description": "生信笔记 | 文本挖掘的一般流程",
+          "link": "https://mp.weixin.qq.com/s/7sFpjbv5YCKpRNjBuVm8rA",
+          "publishedOn": "2021-09-28T12:46:21.000Z",
+          "wordCount": 1830,
+          "title": "生信笔记 | 文本挖掘的一般流程"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/kTanWDxtvbhujC-yZmGEow",
+          "author": null,
+          "description": "生信笔记 | 自定义GSEA分析中的gmt格式文件",
+          "link": "https://mp.weixin.qq.com/s/kTanWDxtvbhujC-yZmGEow",
+          "publishedOn": "2021-09-24T12:47:11.000Z",
+          "wordCount": 205,
+          "title": "生信笔记 | 自定义GSEA分析中的gmt格式文件"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/TupjY-l0Bux_uP_c5ZzOzQ",
+          "author": null,
+          "description": "生信基础 | 人-小鼠基因之间的比较",
+          "link": "https://mp.weixin.qq.com/s/TupjY-l0Bux_uP_c5ZzOzQ",
+          "publishedOn": "2021-09-21T08:53:47.000Z",
+          "wordCount": 425,
+          "title": "生信基础 | 人-小鼠基因之间的比较"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/S6oZrgivgAE2EFKQwyxNDQ",
+          "author": null,
+          "description": "生信基础 | 人-小鼠同源基因之间的转换",
+          "link": "https://mp.weixin.qq.com/s/S6oZrgivgAE2EFKQwyxNDQ",
+          "publishedOn": "2021-09-16T15:38:32.000Z",
+          "wordCount": 209,
+          "title": "生信基础 | 人-小鼠同源基因之间的转换"
+        }
+      ]
+    },
+    {
+      "title": "生信人",
+      "feedUrl": "https://api.feeddd.org/feeds/614365501269c358aa11a1d4",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/W-eOYyh8D7uEtUViLeBupw",
+          "author": null,
+          "description": "国庆献礼，科研进阶必备十大工具，文末有福利",
+          "link": "https://mp.weixin.qq.com/s/W-eOYyh8D7uEtUViLeBupw",
+          "publishedOn": "2021-10-01T12:47:11.000Z",
+          "wordCount": 91,
+          "title": "国庆献礼，科研进阶必备十大工具，文末有福利"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/puhkdjhIwN_0C1GcSZybVA",
+          "author": null,
+          "description": "Nature综述：mRNA疫苗的前世今生",
+          "link": "https://mp.weixin.qq.com/s/puhkdjhIwN_0C1GcSZybVA",
+          "publishedOn": "2021-09-29T12:46:44.000Z",
+          "wordCount": 88,
+          "title": "Nature综述：mRNA疫苗的前世今生"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/bz0Ui2yq9-5qrhalashxtQ",
+          "author": null,
+          "description": "加入生信人，一起去看最美秋景",
+          "link": "https://mp.weixin.qq.com/s/bz0Ui2yq9-5qrhalashxtQ",
+          "publishedOn": "2021-09-29T12:46:44.000Z",
+          "wordCount": 59,
+          "title": "加入生信人，一起去看最美秋景"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/E-Fl17rS2N8oM1DoCBIGRw",
+          "author": null,
+          "description": "老外也爱用深度学习算法发预后文章",
+          "link": "https://mp.weixin.qq.com/s/E-Fl17rS2N8oM1DoCBIGRw",
+          "publishedOn": "2021-09-28T12:46:40.000Z",
+          "wordCount": 76,
+          "title": "老外也爱用深度学习算法发预后文章"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/nXovE3OdesvMtsnfIke2tQ",
+          "author": null,
+          "description": "从今天起，像刷抖音一样的刷文献",
+          "link": "https://mp.weixin.qq.com/s/nXovE3OdesvMtsnfIke2tQ",
+          "publishedOn": "2021-09-27T12:46:50.000Z",
+          "wordCount": 52,
+          "title": "从今天起，像刷抖音一样的刷文献"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/JdAGF5szcUZ5yXapVv7t4w",
+          "author": null,
+          "description": "30+微环境识别保守亚型，该思路必火！！！",
+          "link": "https://mp.weixin.qq.com/s/JdAGF5szcUZ5yXapVv7t4w",
+          "publishedOn": "2021-09-27T12:46:50.000Z",
+          "wordCount": 97,
+          "title": "30+微环境识别保守亚型，该思路必火！！！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/DvEZAdE6CeLoKiG0QgJPEw",
+          "author": null,
+          "description": "高分巨献！呼吸道菌群失调影响肺癌进展",
+          "link": "https://mp.weixin.qq.com/s/DvEZAdE6CeLoKiG0QgJPEw",
+          "publishedOn": "2021-09-26T12:46:30.000Z",
+          "wordCount": 274,
+          "title": "高分巨献！呼吸道菌群失调影响肺癌进展"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ctrLU-LrhFkgMS80z3XcIA",
+          "author": null,
+          "description": "生信人相约华农：等你来~",
+          "link": "https://mp.weixin.qq.com/s/ctrLU-LrhFkgMS80z3XcIA",
+          "publishedOn": "2021-09-25T12:46:03.000Z",
+          "wordCount": 92,
+          "title": "生信人相约华农：等你来~"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/fU5mPiEtMeDmvjVLtxn4EQ",
+          "author": null,
+          "description": "9+期刊Oncogene:肿瘤热点生信文章速览",
+          "link": "https://mp.weixin.qq.com/s/fU5mPiEtMeDmvjVLtxn4EQ",
+          "publishedOn": "2021-09-25T12:46:03.000Z",
+          "wordCount": 236,
+          "title": "9+期刊Oncogene:肿瘤热点生信文章速览"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/bdN80rySrcu2RDsZ8VVRXg",
+          "author": null,
+          "description": "预后模型思路教你怎么做实验点缀文章",
+          "link": "https://mp.weixin.qq.com/s/bdN80rySrcu2RDsZ8VVRXg",
+          "publishedOn": "2021-09-24T12:47:29.000Z",
+          "wordCount": 127,
+          "title": "预后模型思路教你怎么做实验点缀文章"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/VtD0aTospRjnAnx4Pfs5mg",
+          "author": null,
+          "description": "11+肿瘤免疫分型纯生信分析",
+          "link": "https://mp.weixin.qq.com/s/VtD0aTospRjnAnx4Pfs5mg",
+          "publishedOn": "2021-09-23T12:46:36.000Z",
+          "wordCount": 58,
+          "title": "11+肿瘤免疫分型纯生信分析"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/8fIxAVVAATMQRQM85SbOQg",
+          "author": null,
+          "description": "8+肿瘤免疫浸润新玩儿法",
+          "link": "https://mp.weixin.qq.com/s/8fIxAVVAATMQRQM85SbOQg",
+          "publishedOn": "2021-09-23T12:46:36.000Z",
+          "wordCount": 84,
+          "title": "8+肿瘤免疫浸润新玩儿法"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/35fr65skcUxsH_FcmFDifw",
+          "author": null,
+          "description": "16+公开数据纯生信 “肿瘤免疫与肿瘤代谢”",
+          "link": "https://mp.weixin.qq.com/s/35fr65skcUxsH_FcmFDifw",
+          "publishedOn": "2021-09-23T12:46:36.000Z",
+          "wordCount": 95,
+          "title": "16+公开数据纯生信 “肿瘤免疫与肿瘤代谢”"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/HMAEHu04Y0EQrpjF5kO2cQ",
+          "author": null,
+          "description": "9+公开数据库纯生信:TMErisk",
+          "link": "https://mp.weixin.qq.com/s/HMAEHu04Y0EQrpjF5kO2cQ",
+          "publishedOn": "2021-09-23T12:46:36.000Z",
+          "wordCount": 56,
+          "title": "9+公开数据库纯生信:TMErisk"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Aglf79CGIEvzuvc8YZzq-A",
+          "author": null,
+          "description": "这个免疫浸润signature分析数据量真卷",
+          "link": "https://mp.weixin.qq.com/s/Aglf79CGIEvzuvc8YZzq-A",
+          "publishedOn": "2021-09-23T12:46:36.000Z",
+          "wordCount": 132,
+          "title": "这个免疫浸润signature分析数据量真卷"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/IY4o5yZJgeeUeVYX67LxaA",
+          "author": null,
+          "description": "如何利用大佬的研究发表自己的文章",
+          "link": "https://mp.weixin.qq.com/s/IY4o5yZJgeeUeVYX67LxaA",
+          "publishedOn": "2021-09-22T12:45:32.000Z",
+          "wordCount": 164,
+          "title": "如何利用大佬的研究发表自己的文章"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/tPB7tZ1F71GRvrhxBsVEBA",
+          "author": null,
+          "description": "生信分析调试的三个阶段",
+          "link": "https://mp.weixin.qq.com/s/tPB7tZ1F71GRvrhxBsVEBA",
+          "publishedOn": "2021-09-21T08:54:07.000Z",
+          "wordCount": 53,
+          "title": "生信分析调试的三个阶段"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ckP2LA0G9NsThfvuE1BlEQ",
+          "author": null,
+          "description": "医科文 | 如何在地铁上读文献，又不让人感觉装X",
+          "link": "https://mp.weixin.qq.com/s/ckP2LA0G9NsThfvuE1BlEQ",
+          "publishedOn": "2021-09-16T15:38:50.000Z",
+          "wordCount": 61,
+          "title": "医科文 | 如何在地铁上读文献，又不让人感觉装X"
+        }
+      ]
+    },
+    {
+      "title": "生信师兄",
+      "feedUrl": "https://api.feeddd.org/feeds/614365501269c358aa11a1da",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/aJ8Xh1tHycrFaHsnOrPsmQ",
+          "author": null,
+          "description": "生信常用分析图形的绘制01 -- 各种类型的热图你学会了吗？@@",
+          "link": "https://mp.weixin.qq.com/s/aJ8Xh1tHycrFaHsnOrPsmQ",
+          "publishedOn": "2021-09-21T08:54:45.000Z",
+          "wordCount": 71,
+          "title": "生信常用分析图形的绘制01 -- 各种类型的热图你学会了吗？@@"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/keXqYfVZdo6q77ER_ZpbWQ",
+          "author": null,
+          "description": "生信绘图02 -- 解锁火山图真谛！@@",
+          "link": "https://mp.weixin.qq.com/s/keXqYfVZdo6q77ER_ZpbWQ",
+          "publishedOn": "2021-09-21T08:54:45.000Z",
+          "wordCount": 71,
+          "title": "生信绘图02 -- 解锁火山图真谛！@@"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/aiwUjMLS2CoNT7HM_C7euQ",
+          "author": null,
+          "description": "AI绘图、R语言基础及ggplot2绘图教程合集",
+          "link": "https://mp.weixin.qq.com/s/aiwUjMLS2CoNT7HM_C7euQ",
+          "publishedOn": "2021-09-16T15:39:37.000Z",
+          "wordCount": 88,
+          "title": "AI绘图、R语言基础及ggplot2绘图教程合集"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/9bNJ5je4dXV6YvCF8BGXgA",
+          "author": null,
+          "description": "生信必备的100个基础知识点001 -- 基因芯片",
+          "link": "https://mp.weixin.qq.com/s/9bNJ5je4dXV6YvCF8BGXgA",
+          "publishedOn": "2021-09-16T15:39:37.000Z",
+          "wordCount": 102,
+          "title": "生信必备的100个基础知识点001 -- 基因芯片"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/IlmRpoHT1mfE22p9VHztMw",
+          "author": null,
+          "description": "生信必备的基础知识点002 -- 准确率？精确率？召回率？傻傻分不清楚！！！",
+          "link": "https://mp.weixin.qq.com/s/IlmRpoHT1mfE22p9VHztMw",
+          "publishedOn": "2021-09-16T15:39:37.000Z",
+          "wordCount": 118,
+          "title": "生信必备的基础知识点002 -- 准确率？精确率？召回率？傻傻分不清楚！！！"
+        }
+      ]
+    },
+    {
+      "title": "生信小课堂",
+      "feedUrl": "https://api.feeddd.org/feeds/6143667c1269c358aa11a278",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/JqENmFmrfHKaOPeY_dLe1w",
+          "author": null,
+          "description": "11.6分，最热复合物泛癌纯生信分析！ 想发高分纯生信不容错过",
+          "link": "https://mp.weixin.qq.com/s/JqENmFmrfHKaOPeY_dLe1w",
+          "publishedOn": "2021-10-01T12:48:33.000Z",
+          "wordCount": 156,
+          "title": "11.6分，最热复合物泛癌纯生信分析！ 想发高分纯生信不容错过"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/-JQ01yWg7KQpqozlB1umFQ",
+          "author": null,
+          "description": "最新7.2分SCI，又见“免疫”分型，从投稿到接收不到一个月！",
+          "link": "https://mp.weixin.qq.com/s/-JQ01yWg7KQpqozlB1umFQ",
+          "publishedOn": "2021-10-01T12:48:33.000Z",
+          "wordCount": 155,
+          "title": "最新7.2分SCI，又见“免疫”分型，从投稿到接收不到一个月！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Zo37aKd8krHmH4iqJzmUPA",
+          "author": null,
+          "description": "非肿瘤生信+简单pcr验证 快速发3分+SCI 自噬，铁死亡，焦亡等都可以",
+          "link": "https://mp.weixin.qq.com/s/Zo37aKd8krHmH4iqJzmUPA",
+          "publishedOn": "2021-09-29T12:47:54.000Z",
+          "wordCount": 125,
+          "title": "非肿瘤生信+简单pcr验证 快速发3分+SCI 自噬，铁死亡，焦亡等都可以"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/VOY4-wnM-eUlGF_AMxPnAQ",
+          "author": null,
+          "description": "3.9分 非肿瘤生信+实验验证 经典蹭热点思路 不到2个月接收",
+          "link": "https://mp.weixin.qq.com/s/VOY4-wnM-eUlGF_AMxPnAQ",
+          "publishedOn": "2021-09-29T12:47:54.000Z",
+          "wordCount": 137,
+          "title": "3.9分 非肿瘤生信+实验验证 经典蹭热点思路 不到2个月接收"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Yju0d0Quf8idgFBGajUzkA",
+          "author": null,
+          "description": "免疫，免疫，免疫",
+          "link": "https://mp.weixin.qq.com/s/Yju0d0Quf8idgFBGajUzkA",
+          "publishedOn": "2021-09-28T12:48:13.000Z",
+          "wordCount": 86,
+          "title": "免疫，免疫，免疫"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/fvjmlchG3QIOYTl4mCc5ZQ",
+          "author": null,
+          "description": "分享科研资源，国庆期间抓紧学起来！",
+          "link": "https://mp.weixin.qq.com/s/fvjmlchG3QIOYTl4mCc5ZQ",
+          "publishedOn": "2021-09-27T12:47:49.000Z",
+          "wordCount": 76,
+          "title": "分享科研资源，国庆期间抓紧学起来！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/-NaVvM-xHm_U8Ekfl6N2WQ",
+          "author": null,
+          "description": "蹭热点要抓紧，一个影响肿瘤免疫治疗的重要靶点：CDXX",
+          "link": "https://mp.weixin.qq.com/s/-NaVvM-xHm_U8Ekfl6N2WQ",
+          "publishedOn": "2021-09-26T12:48:27.000Z",
+          "wordCount": 13,
+          "title": "蹭热点要抓紧，一个影响肿瘤免疫治疗的重要靶点：CDXX"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/DfhK5giouG0RoqlWWCf6gQ",
+          "author": null,
+          "description": "很多人心心念念的高分基因",
+          "link": "https://mp.weixin.qq.com/s/DfhK5giouG0RoqlWWCf6gQ",
+          "publishedOn": "2021-09-26T12:48:27.000Z",
+          "wordCount": 66,
+          "title": "很多人心心念念的高分基因"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/iyyX4NCrxuYCTyTbvBpdhw",
+          "author": null,
+          "description": "8.8分纯生信免疫分型，换个肿瘤可重复",
+          "link": "https://mp.weixin.qq.com/s/iyyX4NCrxuYCTyTbvBpdhw",
+          "publishedOn": "2021-09-26T12:48:27.000Z",
+          "wordCount": 143,
+          "title": "8.8分纯生信免疫分型，换个肿瘤可重复"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/VbdkDqzknoRfDnJsyZexVg",
+          "author": null,
+          "description": "6.6分纯生信免疫分型，换个肿瘤可重复",
+          "link": "https://mp.weixin.qq.com/s/VbdkDqzknoRfDnJsyZexVg",
+          "publishedOn": "2021-09-26T12:48:27.000Z",
+          "wordCount": 149,
+          "title": "6.6分纯生信免疫分型，换个肿瘤可重复"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ecu1NdlAEINDycYlmrv0nA",
+          "author": null,
+          "description": "最新7.2分SCI，又见“免疫”分型，从投稿到接收不到一个月！",
+          "link": "https://mp.weixin.qq.com/s/ecu1NdlAEINDycYlmrv0nA",
+          "publishedOn": "2021-09-26T12:48:27.000Z",
+          "wordCount": 155,
+          "title": "最新7.2分SCI，又见“免疫”分型，从投稿到接收不到一个月！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/pMKH5x9779nkKTmr-1lfuw",
+          "author": null,
+          "description": "非肿瘤生信+简单pcr验证 快速发3分+SCI 自噬，铁死亡，焦亡等都可以",
+          "link": "https://mp.weixin.qq.com/s/pMKH5x9779nkKTmr-1lfuw",
+          "publishedOn": "2021-09-25T12:47:13.000Z",
+          "wordCount": 125,
+          "title": "非肿瘤生信+简单pcr验证 快速发3分+SCI 自噬，铁死亡，焦亡等都可以"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/zuDc8D3w4SAOby9C7AIPqg",
+          "author": null,
+          "description": "神器！GraphPad作各种图万能模板，输入数据，直接出图！",
+          "link": "https://mp.weixin.qq.com/s/zuDc8D3w4SAOby9C7AIPqg",
+          "publishedOn": "2021-09-25T12:47:13.000Z",
+          "wordCount": 63,
+          "title": "神器！GraphPad作各种图万能模板，输入数据，直接出图！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/a19QBjqEG74iZEf_fA3aOw",
+          "author": null,
+          "description": "蹭热点要抓紧，一个影响肿瘤免疫治疗的重要靶点：CDXX",
+          "link": "https://mp.weixin.qq.com/s/a19QBjqEG74iZEf_fA3aOw",
+          "publishedOn": "2021-09-24T12:48:50.000Z",
+          "wordCount": 13,
+          "title": "蹭热点要抓紧，一个影响肿瘤免疫治疗的重要靶点：CDXX"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/xObgaD8LhXXSmhmY7yLUAA",
+          "author": null,
+          "description": "基因集泛癌分析，重磅来袭",
+          "link": "https://mp.weixin.qq.com/s/xObgaD8LhXXSmhmY7yLUAA",
+          "publishedOn": "2021-09-24T12:48:50.000Z",
+          "wordCount": 79,
+          "title": "基因集泛癌分析，重磅来袭"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/reEuTI0BUZ329A4k69DpPg",
+          "author": null,
+          "description": "很多人心心念念的高分基因",
+          "link": "https://mp.weixin.qq.com/s/reEuTI0BUZ329A4k69DpPg",
+          "publishedOn": "2021-09-23T12:47:57.000Z",
+          "wordCount": 66,
+          "title": "很多人心心念念的高分基因"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/jSmkt4wiuOOWYjNmPdlAVA",
+          "author": null,
+          "description": "8.8分纯生信免疫分型，换个肿瘤可重复",
+          "link": "https://mp.weixin.qq.com/s/jSmkt4wiuOOWYjNmPdlAVA",
+          "publishedOn": "2021-09-23T12:47:57.000Z",
+          "wordCount": 143,
+          "title": "8.8分纯生信免疫分型，换个肿瘤可重复"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/3BomH2hOF_PejWuWAQoaSQ",
+          "author": null,
+          "description": "6.6分纯生信免疫分型，换个肿瘤可重复",
+          "link": "https://mp.weixin.qq.com/s/3BomH2hOF_PejWuWAQoaSQ",
+          "publishedOn": "2021-09-23T12:47:57.000Z",
+          "wordCount": 149,
+          "title": "6.6分纯生信免疫分型，换个肿瘤可重复"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/2qcVYWvpcRghWtYvp4q2Uw",
+          "author": null,
+          "description": "11.6分，最热复合物泛癌纯生信分析！ 想发高分纯生信不容错过",
+          "link": "https://mp.weixin.qq.com/s/2qcVYWvpcRghWtYvp4q2Uw",
+          "publishedOn": "2021-09-22T12:46:52.000Z",
+          "wordCount": 156,
+          "title": "11.6分，最热复合物泛癌纯生信分析！ 想发高分纯生信不容错过"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/2f-WkN4nA8qqj4pC7Kg-Zw",
+          "author": null,
+          "description": "蹭热点要抓紧，一个影响肿瘤免疫治疗的重要靶点：CDXX",
+          "link": "https://mp.weixin.qq.com/s/2f-WkN4nA8qqj4pC7Kg-Zw",
+          "publishedOn": "2021-09-22T12:46:52.000Z",
+          "wordCount": 13,
+          "title": "蹭热点要抓紧，一个影响肿瘤免疫治疗的重要靶点：CDXX"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/JrNc7hZ-_CvAq-YndVCwDQ",
+          "author": null,
+          "description": "高分基因(中秋有福利)",
+          "link": "https://mp.weixin.qq.com/s/JrNc7hZ-_CvAq-YndVCwDQ",
+          "publishedOn": "2021-09-21T12:45:31.000Z",
+          "wordCount": 66,
+          "title": "高分基因(中秋有福利)"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/zxe7ZCayz98xKUq4zBdkCA",
+          "author": null,
+          "description": "4分SCI，40天接收，较简单的非肿瘤纯生信",
+          "link": "https://mp.weixin.qq.com/s/zxe7ZCayz98xKUq4zBdkCA",
+          "publishedOn": "2021-09-21T12:45:31.000Z",
+          "wordCount": 123,
+          "title": "4分SCI，40天接收，较简单的非肿瘤纯生信"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/jw-f2e3cRpE4j7VmerX53A",
+          "author": null,
+          "description": "很多人心心念念的高分基因(中秋有福利)",
+          "link": "https://mp.weixin.qq.com/s/jw-f2e3cRpE4j7VmerX53A",
+          "publishedOn": "2021-09-21T08:55:47.000Z",
+          "wordCount": 66,
+          "title": "很多人心心念念的高分基因(中秋有福利)"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/0rXBME9SOUVswFU7nxDZxg",
+          "author": null,
+          "description": "又见非肿瘤7.5分SCI，生信分析+组化验证 可重复",
+          "link": "https://mp.weixin.qq.com/s/0rXBME9SOUVswFU7nxDZxg",
+          "publishedOn": "2021-09-21T08:55:47.000Z",
+          "wordCount": 104,
+          "title": "又见非肿瘤7.5分SCI，生信分析+组化验证 可重复"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/1dPClb5_pyUoFfACHisqAw",
+          "author": null,
+          "description": "最新6.6分，45天接收的基因集泛癌纯生信 值得尝试！",
+          "link": "https://mp.weixin.qq.com/s/1dPClb5_pyUoFfACHisqAw",
+          "publishedOn": "2021-09-21T08:55:47.000Z",
+          "wordCount": 133,
+          "title": "最新6.6分，45天接收的基因集泛癌纯生信 值得尝试！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/zHDbnG9HMSvH36lDhLlrcw",
+          "author": null,
+          "description": "很多人心心念念的高分基因",
+          "link": "https://mp.weixin.qq.com/s/zHDbnG9HMSvH36lDhLlrcw",
+          "publishedOn": "2021-09-16T15:40:21.000Z",
+          "wordCount": 66,
+          "title": "很多人心心念念的高分基因"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/NupL4EgWFTpOj_O1RHQOqQ",
+          "author": null,
+          "description": "生信/大数据的时代，全程靠自己也可以发SCI！",
+          "link": "https://mp.weixin.qq.com/s/NupL4EgWFTpOj_O1RHQOqQ",
+          "publishedOn": "2021-09-16T15:40:21.000Z",
+          "wordCount": 85,
+          "title": "生信/大数据的时代，全程靠自己也可以发SCI！"
+        }
+      ]
+    },
+    {
+      "title": "生信学霸",
+      "feedUrl": "https://api.feeddd.org/feeds/6143667c1269c358aa11a285",
+      "siteUrl": "https://mp.weixin.qq.com",
+      "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/DYOytg6MoGzX5XT4V0VQBQ",
+          "author": null,
+          "description": "针对中国人群的研究：基因组和转录组的改变如何影响ACGEJ",
+          "link": "https://mp.weixin.qq.com/s/DYOytg6MoGzX5XT4V0VQBQ",
+          "publishedOn": "2021-10-01T12:49:30.000Z",
+          "wordCount": 174,
+          "title": "针对中国人群的研究：基因组和转录组的改变如何影响ACGEJ"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/4ddS9HFukh2HyYhjB6cZpQ",
+          "author": null,
+          "description": "通过多种生物信息学分析，构建预测ccRCC患者预后的特征",
+          "link": "https://mp.weixin.qq.com/s/4ddS9HFukh2HyYhjB6cZpQ",
+          "publishedOn": "2021-09-28T12:48:45.000Z",
+          "wordCount": 140,
+          "title": "通过多种生物信息学分析，构建预测ccRCC患者预后的特征"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/75OrleMNr2oYD3g0CGnTVA",
+          "author": null,
+          "description": "从癌症特点入手的转录组研究，SLUG对HNSCC到底有什么影响？",
+          "link": "https://mp.weixin.qq.com/s/75OrleMNr2oYD3g0CGnTVA",
+          "publishedOn": "2021-09-25T12:47:45.000Z",
+          "wordCount": 162,
+          "title": "从癌症特点入手的转录组研究，SLUG对HNSCC到底有什么影响？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/pKxWD_nzSq_Qbz8RgQliwQ",
+          "author": null,
+          "description": "选择优秀的基因集，不怕做不出好结果",
+          "link": "https://mp.weixin.qq.com/s/pKxWD_nzSq_Qbz8RgQliwQ",
+          "publishedOn": "2021-09-23T12:48:29.000Z",
+          "wordCount": 134,
+          "title": "选择优秀的基因集，不怕做不出好结果"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/z2O_noiHiLbvNYKkT_6G2w",
+          "author": null,
+          "description": "看一遍就能学会的分析流程，不需要实验也可以轻松搞定",
+          "link": "https://mp.weixin.qq.com/s/z2O_noiHiLbvNYKkT_6G2w",
+          "publishedOn": "2021-09-21T08:56:45.000Z",
+          "wordCount": 107,
+          "title": "看一遍就能学会的分析流程，不需要实验也可以轻松搞定"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/vOluAO7Oofn96o1CLdRJyA",
+          "author": null,
+          "description": "lncRNA为主的ceRNA网络，探索预测膀胱癌 的预后情况",
+          "link": "https://mp.weixin.qq.com/s/vOluAO7Oofn96o1CLdRJyA",
+          "publishedOn": "2021-09-16T15:41:05.000Z",
+          "wordCount": 147,
+          "title": "lncRNA为主的ceRNA网络，探索预测膀胱癌 的预后情况"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.11.2"
+}
